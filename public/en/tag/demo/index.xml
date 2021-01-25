@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Fisioclima</title>
+    <link>/en/tag/demo/</link>
+      <atom:link href="/en/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu0e342b560bb4b2b818be79aa72d06cbb_152984_300x300_fit_lanczos_2.png</url>
+      <title>Demo</title>
+      <link>/en/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>External Project</title>
+      <link>/en/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/en/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

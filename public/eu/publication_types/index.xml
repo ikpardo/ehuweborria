@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Fisioclima</title>
+    <link>/eu/publication_types/</link>
+      <atom:link href="/eu/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language>
+    <image>
+      <url>/images/logo_hu0e342b560bb4b2b818be79aa72d06cbb_152984_300x300_fit_lanczos_2.png</url>
+      <title>Publication_types</title>
+      <link>/eu/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
