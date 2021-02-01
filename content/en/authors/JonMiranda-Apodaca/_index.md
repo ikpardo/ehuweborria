@@ -1,5 +1,8 @@
 ---
 title: Jon Miranda-Apodaca
+authors:
+- JonMiranda-Apodaca
+
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
