@@ -41,9 +41,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 user_groups: 
-  - Postdoctoral researchers
+  - Post-doc
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
 My research focuses on the impact of climate change on plant physiology and biochemistry. I have studied impact on grassland communities and on crops, such as barley, wheat and quinoa. I have carried out field and growth chamber experiments to complement each other in the searching of the mechanisms underlying plant response to climate change.
