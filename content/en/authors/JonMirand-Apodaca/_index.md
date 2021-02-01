@@ -1,5 +1,5 @@
 ---
-title: Iker Pardo
+title: Jon Miranda-Apodaca
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -11,7 +11,7 @@ title: Iker Pardo
 #   - course: BSc in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2008
-# email: ""
+# email: "jon.miranda@ehu.eus"
 highlight_name: true
 # interests:
 # - Artificial Intelligence
@@ -43,3 +43,4 @@ user_groups:
 ---
 
 Hemen laburpen txikia (250 karaktere)
+My research focuses on the impact of climate change on plant physiology and biochemistry. I have studied impact on grassland communities and on crops, such as barley, wheat and quinoa. I have carried out field and growth chamber experiments to complement each other in the searching of the mechanisms underlying plant response to climate change.
