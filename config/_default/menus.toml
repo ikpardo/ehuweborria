@@ -6,33 +6,33 @@
 [[main]]
   name = "News"
   url = "#news"
-  weight = 10
+  weight = 1
 
 
 [[main]]
   name = "Projects"
-  url = "#projects"
-  weight = 20
+  url = "project/#projects"
+  weight = 2
 
 [[main]]
   name = "People"
-  url = "#people"
-  weight = 30
+  url = "people"
+  weight = 3
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "publication/#publications"
+  weight = 4
 
 [[main]]
   name = "Software or Data"
-  url = "#software"
-  weight = 50
+  url = "software"
+  weight = 5
   
 [[main]]
   name = "Gallery"
-  url = "#gallery"
-  weight = 56
+  url = "gallery"
+  weight = 6
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"
