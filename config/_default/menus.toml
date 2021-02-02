@@ -6,7 +6,7 @@
 
 
 [[main]]
-  name = "People"
+  name = "Team members"
   url = "people"
   weight = 1
 
@@ -22,7 +22,7 @@
   weight = 3
   
 [[main]]
-  name = "Teaching"
+  name = "Research lines"
   url = "teaching/#teaching"
   weight = 4
   
