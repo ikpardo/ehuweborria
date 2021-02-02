@@ -5,41 +5,51 @@ authors:
 
 # education:
 #   courses:
-#   - course: PhD in Artificial Intelligence
+#   - PhD in Environmental Agrobiology
 #     institution: University of the Basque Country UPV/EHU
 #     year: 2016
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
+#   - course: MSc in Environmental Agrobiology
+#     institution: University of the Basque Country UPV/EHU
+#     year: 2010
+#   - course: BSc in Biology
+#     institution: University of the Basque Country UPV/EHU
 #     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
 # email: "jon.miranda@ehu.eus"
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+
+interests:
+- Climate Change
+- Plant Ecophyisiology
+
 organizations:
 - name: University of the Basque Country
   url: https://www.ehu.eus/en/en-home
-# role: Professor of Artificial Intelligence
+
+role: Post-doctoral fellow
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- icon: twitter
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6488-9572
+- icon: researchgate
+  icon_pack: ai
+  link: 'https://www.researchgate.net/profile/Jon_Miranda-Apodaca'
+
+#- icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
   link: https://github.com/poiklo
-- icon: linkedin
+
+#- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+
 user_groups: 
   - Post-doc
 

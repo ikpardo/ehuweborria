@@ -34,4 +34,4 @@ hero_media = "logoa.png"
   text_color_light = true
 +++
 
-hemen *taldearen* **aurkezpena**
+Fisioclima is a consolidated research group that focuses on Impacto del cambio climático en los sistemas agro-pascícolas: producción bajo premisas de sostenibilidad y seguridad alimentaria
