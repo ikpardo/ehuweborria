@@ -48,7 +48,7 @@ social:
   link: https://www.linkedin.com/
 
 user_groups: 
-  - Researcher
+  - Researchers
 
 ---
 
