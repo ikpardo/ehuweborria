@@ -28,24 +28,6 @@ organizations:
 role: Pre-doctoral fellow
 
 social:
-#- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-6488-9572
-#- icon: researchgate
-  icon_pack: ai
-  link: 'https://www.researchgate.net/profile/Jon_Miranda-Apodaca'
-#- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-#- icon: github
-  icon_pack: fab
-  link: https://github.com/poiklo
-#- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 
 user_groups: 
   - Pre-doc
