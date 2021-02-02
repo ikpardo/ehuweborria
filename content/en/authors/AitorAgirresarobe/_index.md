@@ -8,7 +8,7 @@ authors:
 
 # email: ""
 
-highlight_name: false
+highlight_name: true
 # interests:
 # - Artificial Intelligence
 # - Computational Linguistics
