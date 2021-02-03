@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Recent publications
 cms_exclude: true
 
-view: 4
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
