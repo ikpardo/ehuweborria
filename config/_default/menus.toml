@@ -23,9 +23,9 @@
   
 [[main]]
   name = "Research lines"
-  url = "teaching/#teaching"
+  url = "research/research"
   weight = 4
-  
+ 
 [[main]]
   name = "Software or Data"
   url = "software"
