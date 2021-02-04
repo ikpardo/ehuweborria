@@ -3,36 +3,38 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
+
 [[main]]
-  name = "Novedades"
-  url = "#news"
-  weight = 10
+  name = "El grupo"
+  url = "people"
+  weight = 1
 
 
 [[main]]
   name = "Proyectos"
-  url = "#projects"
-  weight = 20
-
-[[main]]
-  name = "Gentuza"
-  url = "#people"
-  weight = 30
+  url = "project/#projects"
+  weight = 2
 
 [[main]]
   name = "Publicaciones"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Software or Data"
-  url = "#software"
-  weight = 50
+  url = "publication/#publications"
+  weight = 3
   
 [[main]]
-  name = "Galería de fotos"
-  url = "#gallery"
-  weight = 60
+  name = "Líneas de investigación"
+  url = "research/research"
+  weight = 4
+ 
+#[[main]]
+#  name = "Software or Data"
+#  url = "software"
+#  weight = 5
+  
+[[main]]
+  name = "Galería"
+  url = "gallery/#gallery"
+  weight = 6
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"

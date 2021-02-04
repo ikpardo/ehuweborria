@@ -11,9 +11,64 @@
 [eu]
   languageCode = "eu"
   contentDir = "content/eu"
+  
+[[eu.menu.main]]
+  name = "Taldekideak"
+  url = "people"
+  weight = 1
+
+
+[[eu.menu.main]]
+  name = "Proiektuak"
+  url = "project/#projects"
+  weight = 2
+
+[[eu.menu.main]]
+  name = "Publikazioak"
+  url = "publication/#publications"
+  weight = 3
+  
+[[eu.menu.main]]
+  name = "Ikerketa-lerroak"
+  url = "research/research"
+  weight = 4
+ 
+[[eu.menu.main]]
+  name = "Argazki-bilduma"
+  url = "gallery/#gallery"
+  weight = 6 
+  
+  
 [es]
   languageCode = "es"
   contentDir = "content/es"
+  
+[[es.menu.main]]
+  name = "El grupo"
+  url = "people"
+  weight = 1
+
+
+[[es.menu.main]]
+  name = "Proyectos"
+  url = "project/#projects"
+  weight = 2
+
+[[es.menu.main]]
+  name = "Publicaciones"
+  url = "publication/#publications"
+  weight = 3
+  
+[[es.menu.main]]
+  name = "Líneas de investigación"
+  url = "research/research"
+  weight = 4
+ 
+[[es.menu.main]]
+  name = "Galería"
+  url = "gallery/#gallery"
+  weight = 6
+ 
 #[zh]
 #  languageCode = "zh-Hans"
 #  contentDir = "content/zh"

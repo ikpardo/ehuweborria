@@ -3,36 +3,38 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "News"
-  url = "#news"
-  weight = 10
 
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 20
+  name = "Taldekideak"
+  url = "people"
+  weight = 1
+
 
 [[main]]
-  name = "People"
-  url = "#people"
-  weight = 30
+  name = "Proiektuak"
+  url = "project/#projects"
+  weight = 2
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
+  name = "Publikazioak"
+  url = "publication/#publications"
+  weight = 3
+  
 [[main]]
-  name = "Software or Data"
-  url = "#software"
-  weight = 50
+  name = "Ikerketa lerroak"
+  url = "research/research"
+  weight = 4
+ 
+#[[main]]
+#  name = "Software or Data"
+#  url = "software"
+#  weight = 5
   
 [[main]]
   name = "Gallery"
-  url = "#gallery"
-  weight = 56
+  url = "gallery/#gallery"
+  weight = 6
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"
