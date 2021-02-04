@@ -4,30 +4,28 @@ authors:
 - UsuePérez-López
 
 # education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
 
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Aldaketa-klimatikoa
+- CO2 kontzentrazio altua
+- elikadura-kalitatea
+- elikadura-segurtasuna
+- estres-biotikoa
+- fotosintesia
+- gazitasuna
+- lehortea
+- sistema antioxidatzailea
+- tenperatura altuak
+- ur-erlazioak
 
 organizations:
 - name: University of the Basque Country
   url: https://www.ehu.eus/en/en-home
 
-role: Lecturer
+role: Irakasle-agregatua
 
 social:
 - icon: orcid
@@ -42,4 +40,4 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Aldaketa klimatikoko baldintzapean elikadura-kalitatea eta segurtasuna mantentze helburuarekin, ikertzaile bezala biziki interesatuta nago aldaketa klimatikoari lotutako faktoreen artean (CO2 kontzentrazio altua, lehortea, gazitasuna eta tenperatura altua) ezartzen diren interakzioek nekazal-kultiboen (garagar, kinoa, basarto eta uraza, besteak beste) fisiologia eta ekoizpenean nola eragiten duten aztertzean. Baso eta larreko zenbait espezierekin ere lan egiten dut estatuko eta nazioarteko beste ikerketa talde batzuekin kolaborazioan, ikerketa lan-taldean egiten delako eta bakoitzak gure harri-koskorra ekar dezakegulako zientzia mundu gogotsu honetara.
