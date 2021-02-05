@@ -37,7 +37,7 @@ social:
   link: 'https://www.researchgate.net/profile/Usue_Perez-Lopez'
 
 user_groups: 
-  - Principal Investigator
+  - Investigador Principal
 
 ---
 
