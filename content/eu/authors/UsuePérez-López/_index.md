@@ -36,8 +36,8 @@ social:
   link: 'https://www.researchgate.net/profile/Usue_Perez-Lopez'
 
 user_groups: 
-  - Principal Investigator
+  - Ikertzaile Nagusia
 
 ---
 
-Aldaketa klimatikoko baldintzapean elikadura-kalitatea eta segurtasuna mantentze helburuarekin, ikertzaile bezala biziki interesatuta nago aldaketa klimatikoari lotutako faktoreen artean (CO2 kontzentrazio altua, lehortea, gazitasuna eta tenperatura altua) ezartzen diren interakzioek nekazal-kultiboen (garagar, kinoa, basarto eta uraza, besteak beste) fisiologia eta ekoizpenean nola eragiten duten aztertzean. Baso eta larreko zenbait espezierekin ere lan egiten dut estatuko eta nazioarteko beste ikerketa talde batzuekin kolaborazioan, ikerketa lan-taldean egiten delako eta bakoitzak gure harri-koskorra ekar dezakegulako zientzia mundu gogotsu honetara.
+Aldaketa klimatikoko baldintzapean elikadura-kalitatea eta segurtasuna mantentze helburuarekin, ikertzaile bezala biziki interesatuta nago aldaketa klimatikoari lotutako faktoreen artean (CO<sub>2</sub> kontzentrazio altua, lehortea, gazitasuna eta tenperatura altua) ezartzen diren interakzioek nekazal-kultiboen (garagar, kinoa, basarto eta uraza, besteak beste) fisiologia eta ekoizpenean nola eragiten duten aztertzean. Baso eta larreko zenbait espezierekin ere lan egiten dut estatuko eta nazioarteko beste ikerketa talde batzuekin kolaborazioan, ikerketa lan-taldean egiten delako eta bakoitzak gure harri-koskorra ekar dezakegulako zientzia mundu gogotsu honetara.

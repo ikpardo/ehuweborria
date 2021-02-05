@@ -45,4 +45,4 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+My research career has been focused on the fungal world! I studied macrofungal communities and ectomycorrhizae, but recently I started analysing bean roots searching for arbuscules and vesicules. Understanding the role of arbuscular mycorrhizal fungal diversity in crop development is today my first objective, as well as clarifying the factors that influence this diversity.
