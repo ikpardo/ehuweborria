@@ -14,7 +14,6 @@ interests:
 - Landareen memoria. Berreskuratzeko eta priming-a
 - Klima aldaketara egokitzeko estrategiak eta aztertutako mekanismoen aplikagarritasuna
 
-
 organizations:
 - name: University of the Basque Country
   url: https://www.ehu.eus/en/en-home
