@@ -16,6 +16,7 @@ interests:
 - estres-biotikoa
 - fotosintesia
 - gazitasuna
+- landare-fisiologia
 - lehortea
 - sistema antioxidatzailea
 - tenperatura altuak

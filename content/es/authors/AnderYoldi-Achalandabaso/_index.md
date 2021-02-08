@@ -8,11 +8,11 @@ authors:
 highlight_name: true
 
 interests:
-- Efecto del cambio climático en los cultivos y seguridad alimentaria
+- Efecto del cambio climático en los cultivos y seguridad alimentaria.
 - Relaciones hídricas de las plantas. Aquaporinas y regulación estomática.
-- Metabolismo fotosintético
-- Memoria vegetal. Capacidad para la recuperación y priming
-- Estrategias de adaptación al cambio climático y aplicabilidad de los mecanismos de estudio
+- Metabolismo fotosintético.
+- Memoria vegetal. Capacidad para la recuperación y priming.
+- Estrategias de adaptación al cambio climático y aplicabilidad de los mecanismos de estudio.
 
 organizations:
 - name: University of the Basque Country

@@ -15,6 +15,7 @@ interests:
 - elevada temperatura
 - elevado CO2
 - estrés biótico
+- fisiología vegetal
 - fotosíntesis
 - relaciones hídricas
 - salinidad

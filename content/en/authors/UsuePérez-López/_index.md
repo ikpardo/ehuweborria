@@ -20,7 +20,6 @@ interests:
  - high temperature
  - photosynthesis
  - plant physiology
- - food security
  - salinity
  - water-relations 
  
