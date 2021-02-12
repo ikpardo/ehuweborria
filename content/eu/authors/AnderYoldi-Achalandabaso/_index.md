@@ -15,8 +15,8 @@ interests:
 - Klima aldaketara egokitzeko estrategiak eta aztertutako mekanismoen aplikagarritasuna
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Euskal Herriko Unibertsitatea (EHU/UPV)
+  url: https://www.ehu.eus/eu/home
 
 role: Doktore-aurreko
 

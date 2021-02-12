@@ -24,8 +24,8 @@ highlight_name: true
 # - Information Retrieval
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Universidad del País Vasco (UPV/EHU)
+  url: https://www.ehu.eus/es/
 
 role: Profesora
 

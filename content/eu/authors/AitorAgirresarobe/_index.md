@@ -15,10 +15,10 @@ highlight_name: true
 # - Information Retrieval
 
 organizations:
-- name: Dept. of Plant Biology and Ecology
-  # url: https://www.ehu.eus/en/en-home
-
-role: Pre-doctoral fellow
+- name: Euskal Herriko Unibertsitatea (EHU/UPV)
+  url: https://www.ehu.eus/eu/home
+  
+role: Pre-doc
 
 social:
 - icon: orcid

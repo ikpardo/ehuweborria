@@ -18,14 +18,18 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Biodiversidad
+- Cambio global
+- Ecología del pastoreo y conservación
+- Gestión de ecosistemas de montaña
+- Atributos funcionales de las plantas
+- Interacción suelo-planta-herbivoro
+- Sostenibilidad
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Universidad del País Vasco (UPV/EHU)
+  url: https://www.ehu.eus/es/
 
 role: Profesora
 
@@ -41,8 +45,8 @@ social:
   link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
 
 user_groups: 
-  - Investigador Principal
+  - Investigadora Principal
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Cuento con más de 25 años de experiencia investigadora en el estudio de la interfaz suelo-vegetación-herbívoro tanto a pequeña como a gran escala espacial, desde las características individuales hasta las respuestas a nivel de comunidad. En los últimos años he profundizado en la evaluación de la sostenibilidad del pastoreo de montaña, simulando escenarios de cambio global para prever sus consecuencias. Para ello, he impulsado investigaciones interdisciplinares en colaboración con otros grupos de investigación, con el objetivo de integrar la conservación de la biodiversidad y la sostenibilidad de los sistemas ganaderos desde un punto de vista multifuncional.

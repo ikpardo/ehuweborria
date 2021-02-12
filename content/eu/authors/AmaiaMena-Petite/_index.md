@@ -26,8 +26,8 @@ interests:
 - Produktu fitosanitarientzako alternatiba
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Euskal Herriko Unibertsitatea (EHU/UPV)
+  url: https://www.ehu.eus/eu/home
 
 role: Irakasle-agregatua
 

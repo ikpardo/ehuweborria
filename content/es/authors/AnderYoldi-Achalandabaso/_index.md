@@ -15,8 +15,8 @@ interests:
 - Estrategias de adaptación al cambio climático y aplicabilidad de los mecanismos de estudio.
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Universidad del País Vasco (UPV/EHU)
+  url: https://www.ehu.eus/es/
 
 role: Doctorando
 

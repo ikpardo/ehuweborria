@@ -1,5 +1,5 @@
 ---
-title: Nere Amaia Laskuarain
+title: Nere Amaia Laskurain
 authors:
 - NereAmaiaLaskurain
 
@@ -24,7 +24,7 @@ highlight_name: true
 # - Information Retrieval
 
 organizations:
-- name: University of the Basque Country
+- name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
 role: Lecturer

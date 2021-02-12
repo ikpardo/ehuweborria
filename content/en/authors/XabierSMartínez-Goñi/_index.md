@@ -15,8 +15,8 @@ highlight_name: true
 # - Information Retrieval
 
 organizations:
-- name: Dept. of Plant Biology and Ecology
-  # url: https://www.ehu.eus/en/en-home
+- name: University of the Basque Country (UPV/EHU)
+  url: https://www.ehu.eus/en/en-home
 
 role: Pre-doctoral fellow
 

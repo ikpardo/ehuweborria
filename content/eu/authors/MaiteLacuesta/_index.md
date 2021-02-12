@@ -24,8 +24,8 @@ highlight_name: true
 # - Information Retrieval
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Euskal Herriko Unibertsitatea (EHU/UPV)
+  url: https://www.ehu.eus/eu/home
 
 role: Senior Lecturer
 

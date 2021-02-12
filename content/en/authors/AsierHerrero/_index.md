@@ -1,7 +1,6 @@
 ---
-title: Maite Lacuesta
-authors:
-- MaiteLacuesta
+title: Asier Herrero
+- AsierHerrero
 
 # education:
 #   courses:
@@ -17,7 +16,7 @@ authors:
 
 # email: ""
 
-highlight_name: true
+highlight_name: false
 # interests:
 # - Artificial Intelligence
 # - Computational Linguistics
@@ -27,21 +26,21 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Senior Lecturer
+role: Post-doc
 
 social:
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-5903-9362
+  link: https://orcid.org/0000-0003-2932-5194
 - icon: researchgate
   icon_pack: ai
-  link: 'https://www.researchgate.net/profile/Maite_Lacuesta'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
+  link: 'https://www.researchgate.net/profile/Asier_Herrero'
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=AdyO90gAAAAJ&hl=es
 
 user_groups: 
-  - Principal Investigator
+  - Post-doc
 
 ---
 

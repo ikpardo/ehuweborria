@@ -18,14 +18,18 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Biodibertsitatea
+- Aldaketa globala
+- Larratze-ekologia eta kontserbazioa
+- Mendiko ekosistemen kudeaketa
+- Landareen ezaugarri funtzionalak
+- Lurzoru-landare-herbiboro elkarrekintza
+- Iraunkortasuna
 
 organizations:
-- name: University of the Basque Country
-  url: https://www.ehu.eus/en/en-home
+- name: Euskal Herriko Unibertsitatea (EHU/UPV)
+  url: https://www.ehu.eus/eu/home
 
 role: Irakaslea
 
@@ -45,4 +49,4 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+25 urte baino gehiagoko ikerketa-esperientzia dut lurzoru-landare-herbiboro interfazea ikertzen mendiko ekosistemetan, eskala espazial txiki zein handian, norbanakoaren ezaugarrietatik hasi eta komunitate-mailako erantzunetaraino. Azken urte hauetan, mendiko artzantzaren iraunkortasunaren ebaluazioan sakondu dut eta aldaketa globalak eragingo dituen eszenatokien simulazioak aztertzen ditugu ondorioak aurrikusteko. Horretarako, diziplina arteko ikerketak sustatu ditut beste ikerketa-taldeekin elkarlanean, xedea izanik biodibertsitatearen kontserbazioa eta abeltzantza-sistemen jasangarritasuna uztartzea ikuspuntu multifuntzionaletik.

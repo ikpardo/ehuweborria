@@ -15,7 +15,7 @@ interests:
 - Adaptation strategies to deal with climate change effects on food security and applicability of the studied mechanisms
 
 organizations:
-- name: University of the Basque Country
+- name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
 role: Pre-doctoral fellow

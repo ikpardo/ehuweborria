@@ -18,13 +18,17 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Biodiversity
+- Global change
+- Grazing ecology and conservation
+- Mountain ecosystem management
+- Plant functional traits
+- Soil-plant-herbivore interactions
+- Sustainability
 
 organizations:
-- name: University of the Basque Country
+- name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
 role: Lecturer
@@ -45,4 +49,4 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+I have more than 25 years of research experience investigating the soil-vegetation-herbivore interface in mountain ecosystems at both fine and coarse spatial scales, from individual traits to community responses. In the last years I have focused on the evaluation of the sustainability of mountain grazing systems, simulating scenarios of global change in order to foresee the consequences. To do this, I have promoted interdisciplinary research in collaboration with other research groups, with the aim of integrating the conservation of biodiversity and sustainability of livestock systems from a multifunctional point of view.
