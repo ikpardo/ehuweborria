@@ -3,18 +3,6 @@ title: Jon Miranda-Apodaca
 authors:
 - JonMiranda-Apodaca
 
-# education:
-#   courses:
-#   - PhD in Environmental Agrobiology
-#     institution: University of the Basque Country UPV/EHU
-#     year: 2016
-#   - course: MSc in Environmental Agrobiology
-#     institution: University of the Basque Country UPV/EHU
-#     year: 2010
-#   - course: BSc in Biology
-#     institution: University of the Basque Country UPV/EHU
-#     year: 2009
-# email: "jon.miranda@ehu.eus"
 highlight_name: true
 
 interests:
@@ -50,7 +38,6 @@ social:
 
 user_groups: 
   - Post-doc
-
 ---
 
 My research focuses on the impact of climate change on plant physiology and biochemistry. I have studied impact on grassland communities and on crops, such as barley, wheat and quinoa. I have carried out field and growth chamber experiments to complement each other in the searching of the mechanisms underlying plant response to climate change.
