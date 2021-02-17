@@ -18,8 +18,9 @@ authors:
 highlight_name: true
 
 interests:
-- Climate Change
-- Plant Ecophyisiology
+- Climate change
+- Plant ecophyisiology
+- Quality improvement
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
