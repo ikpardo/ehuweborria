@@ -18,8 +18,9 @@ authors:
 highlight_name: true
 
 interests:
-- Climate Change
-- Plant Ecophyisiology
+- Cambio climático
+- Ecofisiología vegetal
+- Mejora de la calidad
 
 organizations:
 - name: Universidad del País Vasco (UPV/EHU)
@@ -49,7 +50,6 @@ social:
 
 user_groups: 
   - Post-doc
-
 ---
 
-My research focuses on the impact of climate change on plant physiology and biochemistry. I have studied impact on grassland communities and on crops, such as barley, wheat and quinoa. I have carried out field and growth chamber experiments to complement each other in the searching of the mechanisms underlying plant response to climate change.
+Mi investigación se centra en el impacto del cambio climático en la fisiología y bioquímica de las plantas. He estudiado su impacto en comunidades de pastos y en cultivos como la cebada, el trigo y la quinoa, llevando a cabo tanto experimentos en campo como en cámara para que se complementen, por un lado, en descubrir los efectos sobre las plantas al cambio climático y, por otro lado, en la búsqueda de los mecanismos de su respuesta.

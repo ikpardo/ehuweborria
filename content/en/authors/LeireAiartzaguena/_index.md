@@ -9,6 +9,7 @@ authors:
 # email: ""
 
 highlight_name: true
+interests:
 - Biodiversity
 - Global Change
 - First sector

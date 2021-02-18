@@ -18,8 +18,10 @@ authors:
 highlight_name: true
 
 interests:
-- Climate Change
-- Plant Ecophyisiology
+- Kalitatearen hobekuntza
+- Klima aldaketa
+- Landare ekofisiologia
+
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -52,4 +54,4 @@ user_groups:
 
 ---
 
-My research focuses on the impact of climate change on plant physiology and biochemistry. I have studied impact on grassland communities and on crops, such as barley, wheat and quinoa. I have carried out field and growth chamber experiments to complement each other in the searching of the mechanisms underlying plant response to climate change.
+Nire ikerketa aldaketa klimatikoak landareen fisiologia eta biokimikan duen eragina aztertzera bideratuta dago. Zehazki, aldaketa klimatikoak larre-komunitateetako espezieetan, eta baita ere kultibo-espezieetan (garagar, gari eta kinoa) duen eragina ikasi dut. Esperimentu osagarriak bai landa eremuan, bai hazkuntza-ganbaretan egin ditut, alde batetik aldaketa klimatikoaren eraginak landareetan zeintzuk diren jakiteko eta, bestetik, landareek aldaketa klimatikoaren aurrean martxan jartzen dituzten erantzun-mekanismoak bilatzeko.

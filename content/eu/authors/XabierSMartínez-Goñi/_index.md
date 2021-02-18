@@ -9,10 +9,16 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Arabidopsis 
+- Basartoa
+- brasinoesteroideak
+- CO2 altua
+- estres abiotikoa
+- klima-aldaketa
+- landare-bioteknologia
+- lehortea
+- tenperatura altua
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -32,4 +38,4 @@ user_groups:
   - Pre-doc
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Euskal Herriko Unibertsitatean (UPV/EHU) Bioteknologian eta Biokimikan eta Biologia Molekularrean graduatua, graduko azken urtean uzten hobekuntzaren inguruan interesatzen hasi nintzen. Horrek Bartzelonako Unibertsitate Autonomoko (UAB) eta Centre for Research in Agricultural Genomics-eko (CRAG) Plant Biology, Genomics and Biotechnology masterrarekin landare-bioteknologian espezializatzera eraman ninduen. Gaur egun, doktorego-tesia egiten ari naiz, Usue Pérez-López doktorearen (UPV/EHU) eta Ana I. Caño-Delgado doktorearen (CRAG) ikuskaritzapean. Arabidopsis thaliana eta Basartoko brasinoesteroideen bide metabolikoa ikertzen ari naiz, landareek etorkizuneko klimaren baldintzetan eragina edukiko duten estres abiotikoei (CO2 altua, tenperatura altua, lehorte) aurre egin ahal izateko bideak aurkitzeko helburuarekin. 
