@@ -9,10 +9,12 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Aldaketa globala 
+- Biodibertsitatea 
+- Jasangarritasuna 
+- Lehen sektorea
+- Lurzoru-landare-mikroorganismo elkarrekintza 
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -32,4 +34,4 @@ user_groups:
   - Pre-doc
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Biologian graduatua, gaur egun Biodibertsitate, Funtzionamendu eta Ekosistemen Gestioa doktorego programan nabil tesia burutzen. Nire ikerketaren helburua abeltzaintza ustiaketa jasangarri baten bidean, larreetako biodibertsitateak duen garrantzia aztertzea da, bai landare, bai mikroorganismo, eta baita beraien arteko interakzio mailan. Horren baitan, dagoeneko pairatzen gabiltzan aldaketa globalak, batez ere lehorteak, landareen traits morfologiko eta funtzionalengain eragiten dituen aldaketak aztertu eta horretan mikroorganismoek duten papera ikertzea izango da xedea eta horretarako negutegi mailako naiz landa eremuko esperimentu eta laginketak uztartzen nabil nire tesi proiektuan. 

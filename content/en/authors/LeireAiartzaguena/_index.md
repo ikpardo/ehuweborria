@@ -9,10 +9,11 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+- Biodiversity
+- Global Change
+- First sector
+- Soil-plant-microorganisms interaction
+- Sustainability
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
@@ -32,4 +33,4 @@ user_groups:
   - Pre-doc
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Graduated in Biology, nowadays I am working on my thesis in the Biodiversity, Functioning and Management of Ecosystems doctoral program. The aim of my research is to study the importance of pasture biodiversity towards sustainable livestock farming at plants, microorganisms and their interaction level. With this objective, I study how global change, especially drought, affects plants morphological and functional traits and the role of microorganisms in it and for this, I combine both, field and greenhouse experiments.
