@@ -9,10 +9,16 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Abiotic stress
+- Arabidopsis
+- Brassinosteroids
+- Climate change
+- Drought
+- High CO2
+- High temperature
+- Plant biotechnology
+- Sorghum
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
@@ -32,4 +38,4 @@ user_groups:
   - Pre-doc
 ---
 
-Xabi Xabi Xabi laburpen txikia (250 karaktere)
+Graduated in Biotechnology and Biochemistry and Molecular Biology in the University of the Basque Country (UPV/EHU), I began to be interested in the improvement of plant crops in my last year as a graduate student. This led me to specialize in plant biotechnology with the master's degree Plant Biology, Genomics and Biotechnology in the Autonomous University of Barcelona (UAB) and the Center for Research in Agricultural Genomics (CRAG). I am currently doing my PhD thesis under the supervision of Dr. Usue Pérez-López (UPV/EHU) and Dr. Ana I. Caño-Delgado (CRAG), researching the metabolic pathway of brassinosteroids in Arabidopsis thaliana and Sorghum aiming to find ways for plants to cope with the abiotic stresses (high CO2, high temperature, drought) that will affect crops under the future climatic conditions.
