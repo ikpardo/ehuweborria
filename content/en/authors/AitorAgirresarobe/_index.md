@@ -9,10 +9,10 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Abiotic stress
+- Climate change
+- Food security
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
@@ -32,4 +32,4 @@ user_groups:
   - Pre-doc
 ---
 
-Hemen laburpen txikia (250 karaktere)
+I am Graduated in Biology and actually doing my PhD thesis in the Environmental Agrobiology doctoral program from the UPV/EHU. The aims of my work are, on the one hand, to investigate how the climate change associated salinity, elevated CO2, high temperature and their interactions, affect quinoa growth from a physiological and biochemical perspective. On the other hand, to clear up whether quinoa tolerance mechanisms would be strengthen under climatic change conditions and to find new and yet unknown tolerance mechanisms.

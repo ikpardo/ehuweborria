@@ -9,10 +9,10 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Elikadura-segurtasuna
+- Estres abiotikoa
+- Klima aldaketa
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -32,4 +32,4 @@ user_groups:
   - Pre-doc
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Biologian graduatua naiz eta egun tesia burutzen ari naiz Ingurugiroaren Agrobiologia Doktorego programan UPV/EHUn. Nire ikerketaren helburuak, batetik, klima aldaketari loturiko faktoreak diren gazitasunak, atmosferako CO2 altuak eta tenperatura altuek eta hauen arteko interakzioek kinoa landarearen hazkuntzan (ikuspuntu fisiologiko zein biokimikotik aztertuta) nola eragiten duten ikertzea da. Bestetik, kinoaren tolerantzia mekanismoak klima aldaketa baldintzetan indartuak izango direnetz aztertzea eta oraindik ezezagunak izan daitezkeen mekanismo berriak aurkitzea dira.

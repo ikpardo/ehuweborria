@@ -9,16 +9,16 @@ authors:
 # email: ""
 
 highlight_name: true
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Cambio climático
+- Estrés abiótico
+- Seguridad alimentaria
 
 organizations:
 - name: Universidad del País Vasco (UPV/EHU)
   url: https://www.ehu.eus/es/
 
-role: Pre-doctoral fellow
+role: Doctorando
 
 social:
 - icon: orcid
@@ -32,4 +32,4 @@ user_groups:
   - Pre-doc
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Soy graduado en Biología y actualmente estoy realizando la tesis en el programa doctoral Agrobiología Ambiental en la UPV/EHU. Los objetivos de mi investigación son, por un lado, investigar cómo afectan los factores asociados al cambio climático de salinidad, el elevado CO2, las altas temperaturas y sus interacciones en el crecimiento de la quínoa desde un punto de vista fisiológico y bioquímico. Por otro lado, aclarar si los mecanismos de tolerancia de la quínoa se verán reforzados bajo condiciones de cambio climático y encontrar nuevos y todavía desconocidos mecanismos de tolerancia. 
