@@ -34,4 +34,11 @@ hero_media = "logoa.png"
   text_color_light = true
 +++
 
-AQUÍ EN CASTELLANO - Fisioclima is a consolidated research group that focuses on Impacto del cambio climático en los sistemas agro-pascícolas: producción bajo premisas de sostenibilidad y seguridad alimentaria
+Fisicolima es un grupo de investigación Consolidado (2001-2021) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU), asociado a las Factultades de Ciencia y Tecnológia. ....
+
+Nuestro objetivo principal es conocer el impacto que el cambio climático tendrá en los sistemas agro-pascícolas, avanzando en la búsqueda de soluciones para dar respuesta a las demandas, presentes y futuras, resultantes del proceso de cambio y transformación que vivimos. Para abordar este reto utilizamos una aproximación multidisciplinar, integrando aspectos ecológicos y ecofisiológicos de los sistemas de estudio. 
+
+El Grupo está formado en la actualidad por XX personas investigadoras de los cuales XX son  integrado por XX investigadores principales, 3 post-docs, XX pre-docs. 
+
+
+

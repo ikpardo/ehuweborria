@@ -19,14 +19,14 @@ authors:
 
 highlight_name: false
 interests:
-- Alpine grasslands
-- Biodiversity and conservation
-- Community ecology
-- Data analysis
-- Ecological modelling
-- Endangered species
-- Long-term ecological research
-- Shinyapps
+ - Alpine grasslands
+ - Biodiversity and conservation
+ - Community ecology
+ - Data analysis
+ - Ecological modelling
+ - Endangered species
+ - Long-term ecological research
+ - Shinyapps
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
