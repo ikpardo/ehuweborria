@@ -30,14 +30,14 @@ interests:
 
 organizations:
 - name: Universidad del País Vasco (UPV/EHU)
-  url: https://www.ehu.eus/es/
+  url: 'https://www.ehu.eus/es/'
   
 role: Post-doc
 
 social:
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-7005-6411
+  link: 'https://orcid.org/0000-0001-7005-6411'
 - icon: researchgate
   icon_pack: ai
   link: 'https://www.researchgate.net/profile/Iker_Pardo'
