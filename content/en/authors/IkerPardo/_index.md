@@ -44,7 +44,7 @@ social:
   link: 'https://www.researchgate.net/profile/Iker_Pardo'
 - icon: github
   icon_pack: fab
-  link: https://github.com/ikpardo
+  link: 'https://github.com/ikpardo'
 
 user_groups: 
   - Post-doc
