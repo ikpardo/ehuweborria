@@ -28,12 +28,11 @@ interests:
 - Long-term ecological research
 - Shinyapps
 
-
 organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Post-doc
+role: Post-doctoral fellow
 
 social:
 - icon: orcid
