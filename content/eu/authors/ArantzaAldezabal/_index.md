@@ -42,7 +42,7 @@ social:
   link: 'https://www.researchgate.net/profile/Arantza_Aldezabal'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
+  link: 'https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en'
 
 user_groups: 
   - Ikertzaile Nagusia

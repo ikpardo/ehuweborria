@@ -32,7 +32,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
 
-role: Post-doctoral fellow
+role: Post-doc
 
 social:
 - icon: orcid

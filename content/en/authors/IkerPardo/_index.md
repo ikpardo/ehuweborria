@@ -33,7 +33,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Post-doctoral fellow
+role: Post-doc
 
 social:
 - icon: orcid
