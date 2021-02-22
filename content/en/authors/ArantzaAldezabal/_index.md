@@ -42,10 +42,11 @@ social:
   link: 'https://www.researchgate.net/profile/Arantza_Aldezabal'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
+  link: 'https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en'
 
 user_groups: 
   - Principal Investigator
 
 ---
+
 I have more than 25 years of research experience investigating the soil-vegetation-herbivore interface in mountain ecosystems at both fine and coarse spatial scales, from individual traits to community responses. In the last years I have focused on the evaluation of the sustainability of mountain grazing systems, simulating scenarios of global change in order to foresee the consequences. To do this, I have promoted interdisciplinary research in collaboration with other research groups, with the aim of integrating the conservation of biodiversity and sustainability of livestock systems from a multifunctional point of view.
