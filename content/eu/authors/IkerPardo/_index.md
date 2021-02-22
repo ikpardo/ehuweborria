@@ -18,10 +18,15 @@ authors:
 # email: ""
 
 highlight_name: false
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Datu-analisiak
+- Biodibertsitatearen kontserbazioa y conservación
+- Komunitate-ekologia
+- Espezie mehatxatuak
+- Eredu ekologikoak
+- Epe-luzerako ikerketa (LTER)
+- Goi-mendiko larreak
+- Shinyapps
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -35,20 +40,18 @@ social:
   link: https://orcid.org/0000-0001-7005-6411
 - icon: researchgate
   icon_pack: ai
-  link: 'https:///'
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'https://www.researchgate.net/profile/Iker_Pardo'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/ikpardo
 
 user_groups: 
   - Post-doc
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Landare-ekologoa naiz eta nire ikerketak landare-dibertsitatearen banaketa espazio eta denboran zehar aztertzea du helburu. Zehazki, klima eta lur-erabilera aldaketek landare-komunitateen eta -populazioen epe-luzerako ondorioak aztertzen ditut, maila taxonomikoa, ebolutiboa (filogenia) eta funtzionala aintzat hartuta. Horretarako, mendian jasotako datuak eta analisi kuantitatiboak uztartzen ditut. Nire ikerketa-eremu nagusiena goi-mendiko larreak badira ere, azken boladan mendian beherago dauden larreetan aritu izan naiz.
+
+Doktoradutza garaietan datu-analisiak mendiko laginketak bezain gogoko nituela ohartu nintzen. Hori dela-eta, behin tesia amaituta, Bioinformatika eta bioestatistika master bat burutzera animatu nintzen. Garatutako ezagumenduei esker ikerketa-proiektu anitzetan parte hartzeko aukera izan dut. Ikerketan ez ezik, web-aplikazioan ere aritzen naiz, biodibertsitate-datuen ustiaketa ikertzaileei zein ingurumen-kudeatzaileei errazteko xedez.
+
+
