@@ -3,21 +3,8 @@ title: Iker Pardo
 authors:
 - IkerPardo
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-
-# email: ""
-
 highlight_name: false
+
 interests:
 - Alpine grasslands
 - Biodiversity and conservation
@@ -47,7 +34,6 @@ social:
 
 user_groups: 
   - Post-doc
-
 ---
 
 I am a plant ecologist who is passionate about nature, programming and data analysis. My research hinges on the study of spatio-temporal distribution of multiple facets of diversity, namely taxonomic, functional and phylogenetic diversity. I combine field data and quantitative approaches to elucidate the long-term response of plant populations and communities to land-use changes and climate warming. I have conducted my research in high-elevation grasslands of the Pyrenees, and more recently in other lower mountain systems. 
