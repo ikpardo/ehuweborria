@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Fisioclima"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "logoa.png"
+# hero_media = "logoa.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,11 +34,12 @@ hero_media = "logoa.png"
   text_color_light = true
 +++
 
-Fisicolima es un grupo de investigación Consolidado (2001-2021) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU), asociado a las Factultades de Ciencia y Tecnológia. ....
+Fisioclima es un grupo de investigación Consolidado ((IT1022-16) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU).
 
 Nuestro objetivo principal es conocer el impacto que el cambio climático tendrá en los sistemas agro-pascícolas, avanzando en la búsqueda de soluciones para dar respuesta a las demandas, presentes y futuras, resultantes del proceso de cambio y transformación que vivimos. Para abordar este reto utilizamos una aproximación multidisciplinar, integrando aspectos ecológicos y ecofisiológicos de los sistemas de estudio. 
 
-El Grupo está formado en la actualidad por XX personas investigadoras de los cuales XX son  integrado por XX investigadores principales, 3 post-docs, XX pre-docs. 
+Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de master y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
 
+[más info.]({{< ref "/content/es/research/research.md" >}} "About Us")
 
-
+[Posterra](/Poster.pdf)

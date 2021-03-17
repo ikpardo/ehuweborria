@@ -45,4 +45,6 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Profesora del Departamento de Ecología de la UAM desde el año 1982 y catedrática de Ecología desde el año 1996, he tratado de fomentar la investigación en el área de Ecología Terrestre, y el rigor científico a través de la docencia en materias relacionadas con el Diseño Experimental y Análisis Estadístico aplicados a la Ecología.
+
+Desde 1992 dirijo el grupo de Ecología Terrestre en mi departamento, en el que participan varios profesores y alumnos de postgrado, reconocido internacionalmente por su trabajo en el impacto de los distintos tipos de prácticas agrícolas y usos de suelo en la conservación de los sistemas extensivos mediterráneos. Nuestro grupo ha participado en el establecimiento de las estrategias europeas para la conservación de las estepas, pastizales y montes. Dentro de este grupo yo soy personalmente responsable de la línea de investigación en Ecología de Pastizales y Matorrales en la que he centrado mi investigación durante los últimos 30 años.

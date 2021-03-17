@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Fisioclima"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "logoa.png"
+# hero_media = "logoa.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,4 +34,13 @@ hero_media = "logoa.png"
   text_color_light = true
 +++
 
-HEMEN EUSKARAZ - Fisioclima is a consolidated research group that focuses on Impacto del cambio climático en los sistemas agro-pascícolas: producción bajo premisas de sostenibilidad y seguridad alimentaria
+Fisiclima Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1022-16) da.
+
+Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemetan eragingo dituen ondorioak aztertzea da, sistema hauetan gaur egungo eta etorkizunean sortuko diren erronkei aurre egin ahal izateko. Horretarako hurbilketa multidiziplinarra erabiltzen dugu, ikerketa-sistemen alderdi ekologiko eta ekofisiologikoak uztartuz.
+
+Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
+formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
+
+[info. gehiago]({{< ref "/content/eu/research/research.md" >}} "About Us")
+
+[Posterra](/Poster.pdf)

@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Fisioclima"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "logoa.png"
+# hero_media = "logoa.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,4 +34,11 @@ hero_media = "logoa.png"
   text_color_light = true
 +++
 
-Fisioclima is a consolidated research group that focuses on Impacto del cambio climático en los sistemas agro-pascícolas: producción bajo premisas de sostenibilidad y seguridad alimentaria
+Our consolidated research group (IT1022-16) analyzes the effect of elevated CO<sub>2</sub> and the main stresses associated (temperature change, drought, nitrogen fertilization and their interaction) on the growth and productivity of diverse crops. In addition, our group evaluates plant-plant and plant-herbivore interactions and plant functional ecology in semi-natural mountain grassland. Our research is devoted to improve the understanding of climate change impacts on agro-pastoral systems and to find solutions that respond to both present and future society demands for food security and environmental sustainability, 
+
+The main objectives of the research group are: (a) to improve the understanding of the adaptation
+mechanisms of species to climate change by identifying plant physiological and molecular tolerance traits; (b) to evaluate the effect of climate change on plant production and nutraceutical quality; and (c) to search strategies to minimize the impact of climate change on crops and grazing systems in order to secure to sustainable plant production and food security.
+
+[more info.]({{< ref "/content/en/research/research.md" >}} "About Us")
+
+[Posterra](/Poster.pdf)

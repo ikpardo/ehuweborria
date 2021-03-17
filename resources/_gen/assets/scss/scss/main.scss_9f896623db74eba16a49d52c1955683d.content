@@ -9322,3 +9322,12 @@ html[dir="rtl"] body {
 
 .dark .breadcrumb-item.active {
   color: rgba(255, 255, 255, 0.54); }
+
+.hero-title {
+  font-size: 28px;
+  margin-top: 0;
+  line-height: 1; }
+
+.hero-lead {
+  max-width: 900px;
+  font-size: 18px; }
