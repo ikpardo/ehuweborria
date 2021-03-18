@@ -21,22 +21,28 @@ showFooter = false
 
 +++
 
-<h4 style="text-align:justify">Line 1: To study the impact of climate change on barley, identifying agronomical, physiological, biochemical and molecular traits to select cultivars able to adapt to future climate conditions.
-</h4>
+<body style="text-align:justify">
 
-<h4 style="text-align:justify">Line 2: To look for strategies for increasing legumes’ productivity under climate change, selecting cultivars and Rhizobium strains of high symbiotic efficiency under controlled and field conditions either
-in organic or conventional farming.</h4>
+**Line 1**: To study the impact of climate change on barley, identifying agronomical, physiological, biochemical and molecular traits to select cultivars able to adapt to future climate conditions.
 
-<h4 style="text-align:justify">Line 3: To analyze the impact of extensive grazing abandonment on soil functions, biodiversity and forage quality in mountain grasslands under different changes in land use and climate change scenarios from a multidisciplinary perspective.</h4>
+
+**Line 2**: To look for strategies for increasing legumes’ productivity under climate change, selecting cultivars and Rhizobium strains of high symbiotic efficiency under controlled and field conditions either
+in organic or conventional farming.
+
+**Line 3**: To analyze the impact of extensive grazing abandonment on soil functions, biodiversity and forage quality in mountain grasslands under different changes in land use and climate change scenarios from a multidisciplinary perspective.
+
+</body>
+
+<br>
 
 ---
 
-<p style = "font-family:arial;">
+<p style = "font-family:'Brush Script MT', cursive; line-height: 200%">
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Biodiversity</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cereals</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Climate change</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ecosystem management</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legume-rhizobium symbiosis</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:green">soil-plant-herbivore interaction</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legume-Rhizobium symbiosis</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Soil-Plant-Herbivore interaction</span>
 </p>
 

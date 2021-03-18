@@ -2,12 +2,22 @@
   font-size: 28px;
   margin-top: 0;
   line-height: 1;
+  font-weight: bold;
 }
 
 .hero-lead {
+  max-width: 900px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.research-lead {
   max-width: 900px;
   font-size: 18px;
   text-align: justify;
 }
 
-
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 16px;
+}

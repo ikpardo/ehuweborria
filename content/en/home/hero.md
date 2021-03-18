@@ -39,5 +39,5 @@ Our consolidated research group (IT1022-16) analyzes the effect of elevated CO<s
 The main objectives of the research group are: (a) to improve the understanding of the adaptation
 mechanisms of species to climate change by identifying plant physiological and molecular tolerance traits; (b) to evaluate the effect of climate change on plant production and nutraceutical quality; and (c) to search strategies to minimize the impact of climate change on crops and grazing systems in order to secure to sustainable plant production and food security.
 
-[more info.]({{< ref "/content/en/research/research.md" >}} "See Research lines")   
+[Read more]({{< ref "/content/en/research/research.md" >}} "See Research lines")   
 {{% staticref "files/Poster.pdf" %}}Download poster{{% /staticref %}}

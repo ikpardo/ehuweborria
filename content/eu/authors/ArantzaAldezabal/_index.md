@@ -50,3 +50,5 @@ user_groups:
 ---
 
 25 urte baino gehiagoko ikerketa-esperientzia dut lurzoru-landare-herbiboro interfazea ikertzen mendiko ekosistemetan, eskala espazial txiki zein handian, norbanakoaren ezaugarrietatik hasi eta komunitate-mailako erantzunetaraino. Azken urte hauetan, mendiko artzantzaren iraunkortasunaren ebaluazioan sakondu dut eta aldaketa globalak eragingo dituen eszenatokien simulazioak aztertzen ditugu ondorioak aurrikusteko. Horretarako, diziplina arteko ikerketak sustatu ditut beste ikerketa-taldeekin elkarlanean, xedea izanik biodibertsitatearen kontserbazioa eta abeltzantza-sistemen jasangarritasuna uztartzea ikuspuntu multifuntzionaletik.
+
+[Ikusi gehiago](https://vimeo.com/161890891)
