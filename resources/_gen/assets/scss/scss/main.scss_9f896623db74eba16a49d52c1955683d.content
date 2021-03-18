@@ -9330,4 +9330,5 @@ html[dir="rtl"] body {
 
 .hero-lead {
   max-width: 900px;
-  font-size: 18px; }
+  font-size: 18px;
+  text-align: justify; }

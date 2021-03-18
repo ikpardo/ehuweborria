@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2021-02-02"
+date = "2021-03-01"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Research lines & aims"
@@ -15,37 +15,28 @@ title = "Research lines & aims"
 weight = 1
 
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
+
+# Suppress username footer
+showFooter = false
+
 +++
 
-<h4>1. Impacto del cambio climático en cereales: Identificación de caracteres fisiológicos, bioquímicos y moleculares para la selección de cultivares de cebada capaces de adaptarse al clima futuro</h4>
+<h4 style="text-align:justify">Line 1: To study the impact of climate change on barley, identifying agronomical, physiological, biochemical and molecular traits to select cultivars able to adapt to future climate conditions.
+</h4>
 
-+ Selección en campo de los cultivares de cebada que muestran características de adaptación (en base a producción y calidad del grano) al aumento del CO<sub>2</sub> y la disponibilidad hídrica.
+<h4 style="text-align:justify">Line 2: To look for strategies for increasing legumes’ productivity under climate change, selecting cultivars and Rhizobium strains of high symbiotic efficiency under controlled and field conditions either
+in organic or conventional farming.</h4>
 
-+ Selección en condiciones controladas (cámaras de crecimiento) de las características agronómicas, fisiológicas y moleculares responsables de la mayor capacidad de adaptación.
-
-+ Validar y comprobar la fiabilidad del carácter o caracteres seleccionado/s en el laboratorio para la identificación y selección de genotipos de interés.
-
-<h4>2. Impacto del cambio climático en la simbiosis rizobio-leguminosa: Influencia del elevado CO<sub>2</sub> y la sequía en soja y alubia</h4>
-
-+ Estudiar los cambios fisiológicos en planta y nódulo que producen la inoculación de la soja con diferentes cepas de *Bradyrhizobium* aisladas en condiciones de CO<sub>2</sub> ambiente y elevado.
-
-+ Selección de la asociación simbiótica *Rhizobium*-alubia más eficiente en condiciones de sequía con el fin de incrementar el potencial productor de variedades locales y comerciales de alubia tanto en cultivo ecológico como convencional.
-
-
-<h4>3. Impacto del cambio climático en pastos seminaturales: Evaluación de la sequía y el efecto del pastoreo en la diversidad, producción y calidad del pasto</h4>
-
-+ Dilucidar los efectos del pastoreo y la sequía en la biodiversidad y productividad de pastos de montaña.
+<h4 style="text-align:justify">Line 3: To analyze the impact of extensive grazing abandonment on soil functions, biodiversity and forage quality in mountain grasslands under different changes in land use and climate change scenarios from a multidisciplinary perspective.</h4>
 
 ---
 
 <p style = "font-family:arial;">
-Hemen keywords zerrenda idatzi daiteke horrela
-
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Climate warming</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Grasslands</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Barley and Quinoa</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legumes</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:cyan">Productivity</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Diversity</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Biodiversity</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cereals</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Climate change</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ecosystem management</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legume-rhizobium symbiosis</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:green">soil-plant-herbivore interaction</span>
 </p>
 
