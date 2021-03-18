@@ -18,15 +18,16 @@ authors:
 # email: ""
 
 highlight_name: false
+
 interests:
-- Análisis de datos
-- Conservatión de la biodiversidad
-- Ecología de comunidades
-- Especies amenazadas
-- Modelización ecológica
-- Monitorización a largo plazo (LTER)
-- Pastos alpinos
-- Shinyapps
+ - Análisis de datos
+ - Conservatión de la biodiversidad
+ - Ecología de comunidades
+ - Especies amenazadas
+ - Modelización ecológica
+ - Monitorización a largo plazo (LTER)
+ - Pastos alpinos
+ - Shinyapps
 
 organizations:
 - name: Universidad del País Vasco (UPV/EHU)
@@ -52,6 +53,6 @@ user_groups:
 
 Soy ecólogo vegetal, apasionado de la naturaleza, pero también del análisis de datos y la programación. Mi investigación se centra en el estudio de la distribución de los diferentes componentes de la diversidad vegetal y su variación a lo largo del tiempo. En concreto, estoy interesado en comprender la respuesta de la diversidad a nivel taxonómico, evolutivo y funcional, frente a los motores de cambio global (cambio de uso de suelo y calentamiento climático). La mayoría de mis estudios los he llevado a cabo en pastos (sub)alpinos del Pirineo, y más recientemente en otros sistemas ganaderos de media montaña. 
 
-Durante mi etapa predoctoral descubrí que el análisis de datos podía ser tan divertido como el trabajo de campo, lo cual me llevó a cursar un máster en Bioinformática y bioestádistica. Las competencias adquiridas me han abierto la posibilidad de colaborar en proyectos de temáticas, sistemas y organismos muy diversos. En paralelo a la investigación, he desarrollado varias *apps* orientadas a agilizar y facilitar la explotación de los datos recogidos en las grandes bases de datos de biodiversidad a todo el público involucrado en tareas de gestión ambiental y conservación de la biodiversidad.
+Durante mi etapa predoctoral descubrí que el análisis de datos podía ser tan divertido como el trabajo de campo, lo cual me llevó a cursar un máster en Bioinformática y bioestádistica. Las competencias adquiridas me han permitido colaborar en proyectos de temáticas, sistemas y organismos muy diversos. En paralelo a la investigación, he desarrollado varias *apps* orientadas a agilizar y facilitar el análisis de la información recogida en las grandes bases de datos de biodiversidad para los diferentes actores involucrados en las tareas de gestión y conservación de la biodiversidad.
 
 

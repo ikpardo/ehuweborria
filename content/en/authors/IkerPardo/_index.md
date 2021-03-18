@@ -36,7 +36,7 @@ user_groups:
   - Post-doc
 ---
 
-I am a plant ecologist who is passionate about nature, programming and data analysis. My research hinges on the study of spatio-temporal distribution of multiple facets of diversity, namely taxonomic, functional and phylogenetic diversity. I combine field data and quantitative approaches to elucidate the long-term response of plant populations and communities to land-use changes and climate warming. I have conducted my research in high-elevation grasslands of the Pyrenees, and more recently in other lower mountain systems. 
+My research hinges on the study of spatio-temporal distribution of multiple facets of diversity, namely taxonomic, functional and phylogenetic diversity. I combine field data and quantitative approaches to elucidate the long-term response of plant populations and communities to land-use changes and climate warming.
 
-Througout my PhD I developed a keen interest in data analysis which brought me to take a master's degree in Bioinfo & Biostats. Quantitative skills aquired over this and previous work experiences have given me the opportunity to collaborate on numerous research projects on a wide range of topics and systems/organisms. Besides research, I have developed some *apps* devoted to make biodiversity analysis as accessible as possible to other researchers and stakeholders in biodiversity conservation.
+Througout my PhD I developed a keen interest in data analysis and programming which brought me to take a master's degree in Bioinfo & Biostats. Quantitative skills aquired over this and previous work experiences have given me the opportunity to collaborate on several research projects on quite different systems/organisms. Besides research, I have developed some *apps* devoted to make biodiversity analysis as accessible as possible to other researchers and stakeholders.
 

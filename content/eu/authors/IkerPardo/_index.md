@@ -18,15 +18,16 @@ authors:
 # email: ""
 
 highlight_name: false
+
 interests:
-- Datu-analisiak
-- Biodibertsitatearen kontserbazioa y conservación
-- Komunitate-ekologia
-- Espezie mehatxatuak
-- Eredu ekologikoak
-- Epe-luzerako ikerketa (LTER)
-- Goi-mendiko larreak
-- Shinyapps
+ - Datu-analisiak
+ - Biodibertsitatearen kontserbazioa y conservación
+ - Komunitate-ekologia
+ - Espezie mehatxatuak
+ - Eredu ekologikoak
+ - Epe-luzerako ikerketa (LTER)
+ - Goi-mendiko larreak
+ - Shinyapps
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -50,6 +51,8 @@ user_groups:
 
 ---
 
-Landare-ekologoa naiz eta nire ikerketak landare-dibertsitatearen banaketa espazio eta denboran zehar aztertzea du helburu. Zehazki, klima eta lur-erabilera aldaketek landare-komunitateen eta -populazioen epe-luzerako ondorioak aztertzen ditut, maila taxonomikoa, ebolutiboa (filogenia) eta funtzionala aintzat hartuta. Horretarako, mendian jasotako datuak eta analisi kuantitatiboak uztartzen ditut. Nire ikerketa-eremu nagusiena goi-mendiko larreak badira ere, azken boladan mendian beherago dauden larreetan aritu izan naiz.
+Nire ikerketaren helburua landare-dibertsitatearen espazioan eta denboran zeharreko antolaketa aztertzea da, ikuspegi taxonomiko, ebolutibo eta funtzional batetik. Zehazki, klima-aldaketak eta lurzoru-erabilerak goi mendiko landare-komunitatetan zein populazioetan eragiten dituzten epe-luzerako ondorioak aztergai ditut. Horretarako, goi mendian jasotako datuak eta hurbilketa kuantitatiboak uztartzen ditut.
 
-Doktoradutza garaietan datu-analisiak mendiko laginketak bezain gogoko nituela ohartu nintzen. Hori dela-eta, behin tesia amaituta, Bioinformatika eta bioestatistika master bat burutzera animatu nintzen. Garatutako ezagumenduei esker ikerketa-proiektu anitzetan parte hartzeko aukera izan dut. Ikerketan ez ezik, web-aplikazioan ere aritzen naiz, biodibertsitate-datuen ustiaketa ikertzaileei zein ingurumen-kudeatzaileei errazteko xedez.
+Doktoradutza garaietan datu-analisiak mendiko laginketak bezain gogoko nituela ohartu nintzen. Hori dela-eta, behin tesia amaituta, Bioinformatika eta bioestatistika master bat burutzera animatu nintzen. Garatutako gaitasunei teknikoei esker ikerketa-proiektu anitzetan parte hartzeko aukera izan dut. Ikerketan ez ezik, web-aplikazioan ere aritzen naiz, besteak beste, biodibertsitate datu-basetan metatutako informazi oparoaren analisia kudeaketa eta kontserbazioan aritzen den edonori errazteko xedez.
+
+
