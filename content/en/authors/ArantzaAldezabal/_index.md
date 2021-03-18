@@ -18,14 +18,15 @@ authors:
 # email: ""
 
 highlight_name: true
+
 interests:
-- Biodiversity
-- Global change
-- Grazing ecology and conservation
-- Mountain ecosystem management
-- Plant functional traits
-- Soil-plant-herbivore interactions
-- Sustainability
+ - Biodiversity
+ - Global change
+ - Grazing ecology and conservation
+ - Mountain ecosystem management
+ - Plant functional traits
+ - Soil-plant-herbivore interactions
+ - Sustainability
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)

@@ -18,14 +18,15 @@ authors:
 # email: ""
 
 highlight_name: true
+
 interests:
-- Biodiversidad
-- Cambio global
-- Ecología del pastoreo y conservación
-- Gestión de ecosistemas de montaña
-- Atributos funcionales de las plantas
-- Interacción suelo-planta-herbivoro
-- Sostenibilidad
+ - Biodiversidad
+ - Cambio global
+ - Ecología del pastoreo y conservación
+ - Gestión de ecosistemas de montaña
+ - Atributos funcionales de las plantas
+ - Interacción suelo-planta-herbivoro
+ - Sostenibilidad
 
 organizations:
 - name: Universidad del País Vasco (UPV/EHU)

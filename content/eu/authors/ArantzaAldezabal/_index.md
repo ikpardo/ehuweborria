@@ -18,14 +18,15 @@ authors:
 # email: ""
 
 highlight_name: true
+
 interests:
-- Biodibertsitatea
-- Aldaketa globala
-- Larratze-ekologia eta kontserbazioa
-- Mendiko ekosistemen kudeaketa
-- Landareen ezaugarri funtzionalak
-- Lurzoru-landare-herbiboro elkarrekintza
-- Iraunkortasuna
+ - Biodibertsitatea
+ - Aldaketa globala
+ - Larratze-ekologia eta kontserbazioa
+ - Mendiko ekosistemen kudeaketa
+ - Landareen ezaugarri funtzionalak
+ - Lurzoru-landare-herbiboro elkarrekintza
+ - Iraunkortasuna
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
