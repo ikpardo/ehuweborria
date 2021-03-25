@@ -31,7 +31,7 @@ authors:
 - AitorAgirresarobe
 - AlbertoMuñoz-Rueda
 - MaiteLacuesta
-- AmaiaMenaPetite
+- AmaiaMena-Petite
 - ArantzaAldezabal
 
 ---
