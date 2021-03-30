@@ -18,7 +18,7 @@ tags:
 - Drought
 - Climate Change
 - Sustainability
-
+- Fisio
 title: Quinoa: ¿Opción de cultivo en Álava? Búsqueda de variedades productivas y de alta calidad bajo condiciones climáticas actuales y futuras 
 url_code: ""
 url_pdf: ""

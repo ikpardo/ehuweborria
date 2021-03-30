@@ -10,12 +10,12 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
+summary: AAA
 tags:
 - Alternaria
 - Mycotoxins
 - Food safety
-
+- Fisio
 title: Evaluación de la presencia de hongos micotoxigénicos del género Alternaria en alimentos animales y humanos producidos en la CAPV.
 url_code: ""
 url_pdf: ""

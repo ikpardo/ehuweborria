@@ -20,7 +20,7 @@ tags:
 - Drought
 - Temperature
 - Tolerance
-
+- Fisio
 title: Determinantes bioquímicos y fisiológicos de la producción y la calidad de la cebada de uso maltero –un reto ante las condiciones climáticas futuras– 
 url_code: ""
 url_pdf: ""
