@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: ABC
+summary:
 tags:
 - Phloem
 - Water Use Efficiency

@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: AAA
+summary:
 tags:
 - Alternaria
 - Mycotoxins

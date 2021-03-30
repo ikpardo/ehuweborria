@@ -13,6 +13,12 @@ slides: ""
 summary:
 tags:
 - Fisio
+- Floema
+- Fotosíntesis
+- Fagus sylvatica
+- Conductancia del mesófilo
+- Isótopos estables
+- Eficiencia en el uso del agua
 title: Aplicación de la composición isotópica de carbono del floema para resolver discrepancias entre estimas de eficiencia del uso del agua en escenarios de cambio climático (PHLISCO) (2020-2023)
 url_code: ""
 url_pdf: ""
