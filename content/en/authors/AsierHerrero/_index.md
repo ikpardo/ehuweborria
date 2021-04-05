@@ -3,25 +3,15 @@ title: Asier Herrero
 authors:
 - AsierHerrero
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-
-# email: ""
 
 highlight_name: false
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Forest resilience
+- Global change effects on forest dynamics
+- Forest management for adaptation to climate change
+- Forest decline and mortality
+- Plant-plant and plant-animal interactions
+- Species abundance and coexistence patterns
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
@@ -45,4 +35,4 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+I am an ecologist mainly focused in the analysis of vulnerability and resilience of forest ecosystems to disturbances and stressors associated to global change. Management actions and strategies for forest ecosystems adaptation to climate change and the study of ecological mechanisms underlying species abundance and coexistence patterns are my secondary research lines.

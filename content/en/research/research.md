@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2021-03-01"
+date = "2021-04-05"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Research lines & aims"
@@ -31,6 +31,8 @@ in organic or conventional farming.
 
 **Line 3**: To analyze the impact of extensive grazing abandonment on soil functions, biodiversity and forage quality in mountain grasslands under different changes in land use and climate change scenarios from a multidisciplinary perspective.
 
+**Line 4**: To analyze resilience capacity to abiotic and biotic disturbances at individual, population and landscape scales in forest ecosystems, with a special emphasis in tree species main demographic rates (survival, growth and recruitment).
+
 </body>
 
 <br>
@@ -44,5 +46,6 @@ in organic or conventional farming.
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ecosystem management</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legume-Rhizobium symbiosis</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Soil-Plant-Herbivore interaction</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Forest resilience</span>
 </p>
 
