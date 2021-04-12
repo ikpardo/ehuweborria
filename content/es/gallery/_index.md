@@ -1,4 +1,4 @@
 ---
-title: "Misfotos"
+title: "Galería de fotos"
 ---
 
