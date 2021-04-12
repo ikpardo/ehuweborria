@@ -1,9 +1,4 @@
 ---
-header:
-  caption: ""
-  image: ""
-title: Gallery
-view: 1
+title: "Misfotos"
 ---
-
 
