@@ -14,7 +14,7 @@ interests:
 - biotecnología vegetal
 - brasinoesteroides
 - cambio climático
-- elevado CO2
+- elevado CO<sub>2</sub>
 - elevada temperatura
 - estrés abiótico
 - sequía

@@ -14,7 +14,7 @@ interests:
  - biotic-stress
  - climate-change
  - drought
- - elevated CO2
+ - elevated CO<sub>2</sub>
  - food quality
  - food security
  - high temperature

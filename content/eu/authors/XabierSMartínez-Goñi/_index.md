@@ -13,7 +13,7 @@ interests:
 - Arabidopsis 
 - Basartoa
 - brasinoesteroideak
-- CO2 altua
+- CO<sub>2</sub> altua
 - estres abiotikoa
 - klima-aldaketa
 - landare-bioteknologia

@@ -15,7 +15,7 @@ interests:
 - Brassinosteroids
 - Climate change
 - Drought
-- High CO2
+- High CO<sub>2</sub>
 - High temperature
 - Plant biotechnology
 - Sorghum
