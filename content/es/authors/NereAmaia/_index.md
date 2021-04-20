@@ -41,7 +41,7 @@ social:
   link: https://scholar.google.com/citations?user=xLmgB8YAAAAJ&hl=es
 
 user_groups: 
-  - Principal Investigator
+  - Investigador Principal 
 
 ---
 

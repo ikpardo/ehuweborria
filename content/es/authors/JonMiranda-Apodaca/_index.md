@@ -3,18 +3,6 @@ title: Jon Miranda-Apodaca
 authors:
 - JonMiranda-Apodaca
 
-# education:
-#   courses:
-#   - PhD in Environmental Agrobiology
-#     institution: University of the Basque Country UPV/EHU
-#     year: 2016
-#   - course: MSc in Environmental Agrobiology
-#     institution: University of the Basque Country UPV/EHU
-#     year: 2010
-#   - course: BSc in Biology
-#     institution: University of the Basque Country UPV/EHU
-#     year: 2009
-# email: "jon.miranda@ehu.eus"
 highlight_name: true
 
 interests:
@@ -35,18 +23,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: 'https://www.researchgate.net/profile/Jon_Miranda-Apodaca'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
   link: https://github.com/poiklo
-#- icon: graduation-cap
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
 
 user_groups: 
   - Post-doc

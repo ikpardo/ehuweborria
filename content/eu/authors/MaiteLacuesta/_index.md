@@ -49,7 +49,7 @@ social:
   link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
 
 user_groups: 
-  - Principal Investigator
+  - Ikertzaile Nagusia
 
 ---
 
