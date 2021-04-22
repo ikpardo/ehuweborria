@@ -23,13 +23,13 @@ role: Post-doc
 social:
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-2932-5194
+  link: 'https://orcid.org/0000-0003-2932-5194'
 - icon: researchgate
   icon_pack: ai
   link: 'https://www.researchgate.net/profile/Asier_Herrero'
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=AdyO90gAAAAJ&hl=es
+  link: 'https://scholar.google.com/citations?user=AdyO90gAAAAJ&hl=es'
 
 user_groups: 
   - Post-doc
