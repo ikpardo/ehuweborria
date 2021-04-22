@@ -2,7 +2,7 @@
 # date: ""
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: Hemen proiektuaren laburpena
+summary: 
 tags:
 - Forest
 title: Vulnerabilidad y adaptación de los bosques ibéricos a la sequía- una aproximación multi-escala basada en la dendroecología, inventarios forestales y modelización (CGL2015-69186-C2-2-R).

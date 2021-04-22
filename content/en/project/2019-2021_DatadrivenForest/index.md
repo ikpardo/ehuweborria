@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: Hemen proiektuaren laburpena
+summary: 
 tags:
 - Forest
 title: Data-driven models of forest drought vulnerability and resilience across spatial and temporal scales- application to the Spanish climate change adaptation strategy (DARE, RTI2018-096884-B-C32).

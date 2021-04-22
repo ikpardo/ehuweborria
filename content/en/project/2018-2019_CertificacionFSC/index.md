@@ -2,7 +2,7 @@
 # date: ""
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: Hemen proiektuaren laburpena
+summary: 
 tags:
 - Forest
 title: Adaptación al cambio climático a través de la certificación FSC- Implementación y seguimiento de un protocolo de gestión adaptativa en los bosques españoles (138/2018).

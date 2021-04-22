@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: Hemen proiektuaren laburpena
+summary: 
 tags:
 - Forest
 title: Adaptación de los bosques mediterráneos al cambio climático- el papel de las masas mixtas en el fomento de la resiliencia a eventos de sequía (ADAPTAMIX, PID2019-110470RA-I00).

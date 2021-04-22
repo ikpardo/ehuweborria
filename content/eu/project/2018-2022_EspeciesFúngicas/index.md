@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: Hemen proiektuaren laburpena
+summary: 
 tags:
 - Mico
 title: Estudio de las especies fúngicas del País Vasco
@@ -22,4 +22,3 @@ authors:
 - EstiSarrionandia
 ---
 
-Hemen proiektuaren deskribapena

@@ -2,7 +2,7 @@
 title: Ongoing projects
 cms_exclude: true
 
-view: 2
+view: 1
 header: 
   image: "featured.jpg"
 ---
