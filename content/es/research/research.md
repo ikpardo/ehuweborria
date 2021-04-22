@@ -37,6 +37,8 @@ weight = 1
 
 + Dilucidar los efectos del pastoreo y la sequía en la biodiversidad y productividad de pastos de montaña.
 
+**Line 4: Análisis de la capacidad de resiliencia de los ecosistemas forestales frente pertubaciones abióticas y bióticas, a escala de individuo, población y paisaje, con especial énfasis en las principales tasas demográficas (supervivencia, crecimiento y reclutamiento) de las especie arborícolas.**
+
 </body>
 
 <br>
