@@ -24,7 +24,7 @@ title = "Fisioclima"
   gradient_end = "#2b94c3"
   
   # Background image.
-  image = "bubbles-wide.jpg"  # Name of image in `static/media/`.
+  image = "portada_es.jpg"  # Name of image in `static/media/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -40,5 +40,6 @@ Nuestro objetivo principal es conocer el impacto que el cambio climático tendr�
 
 Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de master y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
 
-[más info.]({{< ref "/content/es/research/research.md" >}} "Mostrar Líneas de investigación")
-{{% staticref "files/Poster.pdf" %}}Descargar póster presentación{{% /staticref %}}
+[Más info.]({{< ref "/content/es/research/research.md" >}} "Mostrar Líneas de investigación")
+
+{{% staticref "files/Poster.pdf" %}}Pster presentación{{% /staticref %}}

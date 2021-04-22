@@ -24,7 +24,7 @@ title = "Fisioclima"
   gradient_end = "#2b94c3"
   
   # Background image.
-  image = "bubbles-wide.jpg"  # Name of image in `static/media/`.
+  image = "portada_eu.jpg"  # Name of image in `static/media/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -41,5 +41,6 @@ Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemeta
 Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
 formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
 
-[info. gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikus Ikerketa-lerroak")
-{{% staticref "files/Poster.pdf" %}}Jaitsi laburpen posterra{{% /staticref %}}
+[Info. gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikus ikerketa-lerroak")
+
+{{% staticref "files/Poster.pdf" %}}Aurkepen-posterra{{% /staticref %}}
