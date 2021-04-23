@@ -28,6 +28,11 @@ url_video: ""
 authors: 
 - UsuePérez-López
 - JonMiranda-Apodaca
+- Teresa Gimeno
+- John Marshall
+- Adriá Barbetá
+- Javier Cano
+- Javier Porras
 
 ---
 
