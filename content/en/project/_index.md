@@ -1,8 +1,7 @@
 ---
-title: Ongoing projects
+title: Ongoing and recent projects
 cms_exclude: true
 
-view: 1
 header: 
   image: "featured.jpg"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Abian dauden proiektuak
+title: Egungo eta orain dela gutxiko proiektuak
 cms_exclude: true
 
 view: 1
