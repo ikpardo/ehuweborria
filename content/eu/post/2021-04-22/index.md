@@ -10,7 +10,7 @@ math: true
 title: Balio Natural Handiko agrosistemen inguruko proiektu berria 
 ---
 
-Jada martxan dugu [Nafarroako Balio Natural Handiko (BNH) agrosistemen indizearen neurketarako]({{< ref "/content/eu/research/research.md" >}} "Ver proyecto") proiektu berria. Proiektu honek Nafarroako Gobernuko eskari bati erantzuten dio, eta berau aurrera eramateko gaian eskarmentu handia duten [GAN-NIK](https://gan-nik.es/) enpresa publikoko teknikariekin batera arituko gara.
+Jada martxan dugu Nafarroako Balio Natural Handiko (BNH) agrosistemen indizearen neurketarako proiektu berria. Proiektu honek Nafarroako Gobernuko eskari bati erantzuten dio, eta berau aurrera eramateko gaian eskarmentu handia duten [GAN-NIK](https://gan-nik.es/) enpresa publikoko teknikariekin batera arituko gara.
 
 Kasu! Baina ez dakizula zer arraio den BNH? Kontzepu hau Europa maila garatu izan zen helburua nagusi batekin: modu jakin batzuekin kudeatutako agrosistemek biodibertsiatearen kontserbazioari eta paisaiaren estrukturari egiten dieten ekarpena baliostea. 
 

@@ -15,7 +15,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: project
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -30,18 +30,6 @@ content:
     author: ''
     exclude_featured: false
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-  
   filter_default: 
 
   # Filter toolbar (optional).
@@ -53,9 +41,11 @@ content:
   - name: All
     tag: '*'
   - name: Ecology
-    tag: Eko
-  - name: Fisio
-    tag: Fisio
+    tag: Ecology
+  - name: Physiology
+    tag: Physiology
+  - name: Forestry
+    tag: Forestry
   - name: Other
     tag: Other
 
@@ -68,7 +58,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
