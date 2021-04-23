@@ -5,7 +5,7 @@ image:
   caption: 'Autora: S. Zabalza'
   
   
-  placement: 2
+placement: 2
 math: true
 title: Nuevo proyecto sobre los sistemas agrarios de Alto Valor Natural
 ---
