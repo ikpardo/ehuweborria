@@ -34,7 +34,7 @@ title = "Fisioclima"
   text_color_light = true
 +++
 
-Fisioclima es un grupo de investigación Consolidado ((IT1022-16) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU).
+Fisioclima es un grupo de investigación Consolidado (IT1022-16) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU).
 
 Nuestro objetivo principal es conocer el impacto que el cambio climático tendrá en los sistemas agro-pascícolas, avanzando en la búsqueda de soluciones para dar respuesta a las demandas, presentes y futuras, resultantes del proceso de cambio y transformación que vivimos. Para abordar este reto utilizamos una aproximación multidisciplinar, integrando aspectos ecológicos y ecofisiológicos de los sistemas de estudio. 
 
