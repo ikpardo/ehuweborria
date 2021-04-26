@@ -26,10 +26,10 @@
   url = "research/research"
   weight = 4
  
-#[[main]]
-#  name = "Software or Data"
-#  url = "software"
-#  weight = 5
+[[main]]
+  name = "Courses"
+  url = "our_courses/#courses"
+  weight = 5
   
 [[main]]
   name = "Gallery"
