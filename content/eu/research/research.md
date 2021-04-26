@@ -27,7 +27,7 @@ weight = 1
 
 **3. Lerroa**:  Mendiko larreen abeltzantza estentsiboa bertan behera uzteak lurzoru-funtzioetan, biodibertsitatean eta bazka-kalitatean duen eragina azterketa multidiziplinarra egitea, lurzoruaren erabilera eta klima-aldaketarako agertoki desberdineak aintzat hartuz.
 
-** 4. Lerroa**: Baso-ekosistemek asaldura abiotiko zein biotikoen aurrean indibiduo-, populazio- eta paisaia-mailan duten erresilientzia gaitasuna aztertzea,  horretarako zuhaitz espezieen tasa demografiko nagusiei (biziraupena, hazkuntza eta erreklutamenduari) erreparatuz.
+**4. Lerroa**: Baso-ekosistemek asaldura abiotiko zein biotikoen aurrean indibiduo-, populazio- eta paisaia-mailan duten erresilientzia gaitasuna aztertzea,  horretarako zuhaitz espezieen tasa demografiko nagusiei (biziraupena, hazkuntza eta erreklutamenduari) erreparatuz.
 
 
 </body>
