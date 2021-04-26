@@ -1,7 +1,7 @@
 ---
-title: "Growth chamber experiments"
+title: "Baldintza kontrolatupeko esperimentuak"
 date: "2021-04-12"
 ---
 
-{{< gallery  caption-position="none" dir="/img/en/Growth chamber experiments"/>}} {{< load-photoswipe >}}
+{{< gallery  caption-position="none" dir="/img/eu/Growth chamber experiments"/>}} {{< load-photoswipe >}}
 

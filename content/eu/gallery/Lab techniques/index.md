@@ -1,7 +1,7 @@
 ---
-title: "Lab techniques"
+title: "Laborategiko teknikak"
 date: "2021-04-12"
 ---
 
-{{< gallery  caption-position="none" dir="/img/en/Lab techniques"/>}} {{< load-photoswipe >}}
+{{< gallery  caption-position="none" dir="/img/eu/Lab techniques"/>}} {{< load-photoswipe >}}
 

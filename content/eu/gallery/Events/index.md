@@ -1,7 +1,7 @@
 ---
-title: "Events"
+title: "Ekitaldiak"
 date: "2021-04-12"
 ---
 
-{{< gallery  caption-position="none" dir="/img/en/Events"/>}} {{< load-photoswipe >}}
+{{< gallery  caption-position="none" dir="/img/eu/Events"/>}} {{< load-photoswipe >}}
 
