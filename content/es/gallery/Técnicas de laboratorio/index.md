@@ -1,5 +1,5 @@
 ---
-title: "Lab techniques"
+title: "Técnicas de laboratorio"
 date: "2021-04-12"
 ---
 

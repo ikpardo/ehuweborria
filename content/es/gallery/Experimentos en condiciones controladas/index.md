@@ -1,5 +1,5 @@
 ---
-title: "Growth chamber experiments"
+title: "Experimentos en condiciones controladas"
 date: "2021-04-12"
 ---
 

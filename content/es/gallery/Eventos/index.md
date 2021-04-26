@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "Eventos"
 date: "2021-04-12"
 ---
 

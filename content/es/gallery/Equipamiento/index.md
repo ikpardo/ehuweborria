@@ -1,5 +1,5 @@
 ---
-title: "Equipment"
+title: "Equipamiento"
 date: "2021-04-12"
 ---
 

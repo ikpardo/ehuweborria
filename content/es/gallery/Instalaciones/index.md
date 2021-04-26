@@ -1,5 +1,5 @@
 ---
-title: "Facilities"
+title: "Instalaciones"
 date: "2021-04-12"
 ---
 

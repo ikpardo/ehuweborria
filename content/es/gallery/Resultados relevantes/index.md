@@ -1,5 +1,5 @@
 ---
-title: "Relevant results"
+title: "Resultados relevantes"
 date: "2021-04-12"
 ---
 
