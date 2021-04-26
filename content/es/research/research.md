@@ -51,6 +51,8 @@ weight = 1
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cereales</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Gestión de ecosistemas</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Interacción suelo-planta-herbívoro</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Resiliencia forestal</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Simbiosis legumbre-rhizobium</span>
+
 </p>
 

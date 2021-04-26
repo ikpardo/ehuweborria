@@ -37,10 +37,12 @@ weight = 1
 ---
 
 <p style = "font-family:'Brush Script MT', cursive; line-height: 200%">
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Baso erresilientzia</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Biodibertsitatea</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ekosistemen kudeaketa</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Klima-aldaketa</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:purple"> Lekale-Rhizobium interakzioa</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Lurzoru-Landare-Belarjale interakzioa</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Zerealak</span>
+
 </p>

@@ -44,8 +44,9 @@ in organic or conventional farming.
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cereals</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Climate change</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ecosystem management</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Forest resilience</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legume-Rhizobium symbiosis</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Soil-Plant-Herbivore interaction</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Forest resilience</span>
+
 </p>
 
