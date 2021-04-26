@@ -1,5 +1,5 @@
 ---
-title: "Emaitza aipagarriak"
+title: "Emaitza nabarmenak"
 date: "2021-04-12"
 ---
 
