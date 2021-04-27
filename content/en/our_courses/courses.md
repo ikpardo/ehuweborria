@@ -28,7 +28,7 @@ item:
 - date_end: ""
   date_start: "2018-10-01"
   description: "Degree subject"
-  organization: Arantza Aldezabal
+  organization: Alberto Muñoz-Rueda
   # organization_url: https://www.coursera.org
   title: Plant physiology
   subtitle: Hola
