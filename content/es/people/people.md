@@ -18,6 +18,7 @@ subtitle = ""
                  "Post-doc",
                  "Pre-doc",
                  "Estudiantes de grado Students",
+                 "Colaboradores",
                  "Personal administrativo",
                  "Visitors",
                  "Alumnos/as"]

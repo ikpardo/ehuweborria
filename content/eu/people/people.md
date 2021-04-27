@@ -18,6 +18,7 @@ subtitle = ""
                  "Post-doc",
                  "Pre-doc",
                  "Gradu-ikasleak Students",
+                 "Ikertzaile kolaboratzailea",
                  "Administrariak",
                  "Visitors",
                  "Ikasleak"]

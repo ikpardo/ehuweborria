@@ -41,7 +41,7 @@ social:
   link: https://scholar.google.es/citations?user=I5MNtoAAAAAJ&hl=es
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile kolaboratzailea
 
 ---
 
