@@ -32,7 +32,7 @@ social:
   link: 'https://scholar.google.com/citations?user=AdyO90gAAAAJ&hl=es'
 
 user_groups: 
-  - Post-doc
+  - Principal Investigator
 
 ---
 
