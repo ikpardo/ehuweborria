@@ -23,7 +23,7 @@ role: Pre-doctoral fellow
 social:
 
 user_groups: 
-  - Pre-doc
+  - Post-doc
 
 ---
 Graduated in Environmental Sciences. Last year PhD student. My PhD is focused in the study of climate change effects (elevated air CO2 concentration, elevated air temperature and drought) on the physiological, biochemical, molecular and agronomic processes response along the full life span of a malting barley cultivar. More specifically, I am studying the following processes:

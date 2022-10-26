@@ -23,7 +23,7 @@ role: Doctorando
 social:
 
 user_groups: 
-  - Pre-doc
+  - Post-doc
 
 ---
 Graduado en Ciencias Ambientales. PhD student (último año). Mi tesis trata sobre el estudio de los efectos del cambio climático (ECO2, ET & Sequía) en los procesos fisiológicos, bioquímicos, moleculares y agronómicos a lo largo del ciclo completo de una variedad de cebada maltera. Más específicamente, me centro en los siguientes procesos:

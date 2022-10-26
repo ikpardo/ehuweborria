@@ -23,7 +23,7 @@ role: Doktore-aurreko
 social:
 
 user_groups: 
-  - Pre-doc
+  - Post-doc
 
 ---
 Ingurumen Zientzietan graduatua. Doktoregaia azkenengo urtean. Nire tesiak, klima aldaketak (CO2 altuak, tenperatura altuak eta lehorteak) garagar barietate baten bizi ziklo osoan zeharreko prozesu fisiologiko, biokimiko, molekular eta agronomikoetan dituen efektuak aztertzeak du helburu. Bereziki, hurrengo prozesuak aztertzen ditut:
