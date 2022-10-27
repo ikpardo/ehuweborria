@@ -10,22 +10,21 @@
   url = "people"
   weight = 1
 
-
+[[main]]
+  name = "Líneas de investigación"
+  url = "research/research"
+  weight = 2
+  
 [[main]]
   name = "Proyectos"
   url = "project/#projects"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Publicaciones"
   url = "publication/#publications"
-  weight = 3
-  
-[[main]]
-  name = "Líneas de investigación"
-  url = "research/research"
   weight = 4
- 
+  
 [[main]]
   name = "Docencia"
   url = "teaching"

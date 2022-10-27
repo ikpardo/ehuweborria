@@ -34,13 +34,13 @@ title = "FisioKlima-AgroSosT"
   text_color_light = true
 +++
 
-Fisiclima Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1682-22) da.
+Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1682-22) gara.
 
 Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemetan eragingo dituen ondorioak aztertzea da, sistema hauetan gaur egungo eta etorkizunean sortuko diren erronkei aurre egin ahal izateko. Horretarako hurbilketa multidiziplinarra erabiltzen dugu, ikerketa-sistemen alderdi ekologiko eta ekofisiologikoak uztartuz.
 
 Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
 formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
 
-[Info. gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikus ikerketa-lerroak")
+[Info. gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikerketa-lerroak")
 
 {{% staticref "files/Poster.pdf" %}}Aurkepen-posterra{{% /staticref %}}
