@@ -1,7 +1,7 @@
 ---
 title: Zuzendutako doktorego tesi, MAL eta GrAL  (azken 10 urteak)
-summary: 
-date: 
+pager: ""
+show_breadcrumb: true
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -12,22 +12,24 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+  navbar:
+    enable: true
 ---
 
  <!-- Urtearen araberako hurrenkera --> 
 
-**Doktorego tesia**
+<span style="color:blue">Doktorego tesiak</span>
 
-- ds
-- fsf
+- **Titulo**, Autor, 2050, Univ, Lugar. Dirigido por by: *director*
+- 
 
-**Master Amaierako Lana (MAL)**
+<span style="color:blue">Master Amaierako Lanak (MAL)</span>
 
--
--
+- **Titulo**, Autor, 2050, Univ, Lugar. Dirigido por by: *director*
+- 
 
+<span style="color:blue">Gradu Amaierako Lanak (GrAL)</span>
 
-**Gradu Amaierako Lana (GrAL)**
+- **Titulo**, Autor, 2050, Univ, Lugar. Dirigido por by: *director*
+- 
 
--
--

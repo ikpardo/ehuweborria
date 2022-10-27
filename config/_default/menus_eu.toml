@@ -4,7 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 
-
 [[main]]
   name = "Taldekideak"
   url = "people"
@@ -28,13 +27,14 @@
  
 [[main]]
   name = "Irakaskuntza"
-  url = "teaching/#courses"
+  url = "teaching"
   weight = 5
   
 [[main]]
   name = "Gallery"
   url = "gallery/#gallery"
   weight = 6
+  
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"

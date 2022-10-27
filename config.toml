@@ -7,10 +7,13 @@ theme = "starter-academic"
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Fisioclima"
+title = "FisioKlima-AgroSosT"
 
 [params]
-name = "FisioCLIMA"
+name = "FisioKlima-AgroSosT"
+
+# Hide Next and Previous page buttons normally displayed full height beside content
+# disableNextPrev = true
 
 # Organization
 organizations = [{name = "University of the Basque Country"}]

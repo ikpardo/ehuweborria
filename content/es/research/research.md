@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2021-03-01"
+date = "2022-10-27"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Líneas de investigación principales y objetivos"
@@ -18,7 +18,7 @@ weight = 1
 +++
 <body style="text-align:justify">
 
-**Línea 1:  Identificación del impacto de los estreses ambientales en especies de interés agrícola y búsqueda de estrategias, procesos de mejora y soluciones de producción sostenibles de especies de interés agrícola, que garanticen la seguridad alimentaria (entendiendo esta como disponibilidad de alimentos y seguridad para el consumidor), con el fin de hacer frente a las condiciones climáticas proyectadas para el futuro. **
+**Línea 1:  Identificación del impacto de los estreses ambientales en especies de interés agrícola y búsqueda de estrategias, procesos de mejora y soluciones de producción sostenibles de especies de interés agrícola, que garanticen la seguridad alimentaria (entendiendo esta como disponibilidad de alimentos y seguridad para el consumidor), con el fin de hacer frente a las condiciones climáticas proyectadas para el futuro.**
 
 + Reducción del aporte de fertilizantes nitrogenados mediante la búsqueda de simbiosis en leguminosas altamente eficientes bajo condiciones de sequía y la optimización del aporte de nitratos en otros cultivos de interés.
 

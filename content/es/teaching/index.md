@@ -16,17 +16,17 @@ header:
 
  <!-- ordenar por año --> 
 
-**Tesis doctoral**
+<span style="color:blue">Tésis doctorales</span>
 
-- ds
-- fsf
+- **Titulo**, Autor, 2050, Univ, Lugar. Dirigido por by: *director*
+- 
 
-**Trabajo Fin de Máster**
+<span style="color:blue">Trabajos Fin de Máster (TFM)</span>
 
 -
 -
 
-**Trabajo Fin de Grado**
+<span style="color:blue">Trabajos Fin de Grado (TFG)</span>
 
 -
 -

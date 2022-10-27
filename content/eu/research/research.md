@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2021-03-01"
+date = "2022-10-27"
 
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -20,7 +20,7 @@ weight = 1
 
 <body style="text-align:justify">
 
-**1. Lerroa: Ingurumen-estresek nekazaritza-intereseko espezieetan duten eragina identifikatzea eta estrategiak, hobekuntza-prozesuak eta nekazaritza-intereseko espezieen ekoizpen iraunkorreko irtenbideak bilatzea, elikagaien segurtasuna bermatzeko (elikagaien eskuragarritasunaren eta kontsumitzailearentzako segurtasunaren ikuspegitik), etorkizunerako proiektatutako klima-baldintzei aurre egiteko. **
+**1. Lerroa: Ingurumen-estresek nekazaritza-intereseko espezieetan duten eragina identifikatzea eta estrategiak, hobekuntza-prozesuak eta nekazaritza-intereseko espezieen ekoizpen iraunkorreko irtenbideak bilatzea, elikagaien segurtasuna bermatzeko (elikagaien eskuragarritasunaren eta kontsumitzailearentzako segurtasunaren ikuspegitik), etorkizunerako proiektatutako klima-baldintzei aurre egiteko.**
 
 + Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz.
 

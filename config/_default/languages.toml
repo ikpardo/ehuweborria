@@ -32,8 +32,13 @@
   name = "Ikerketa-lerroak"
   url = "research/research"
   weight = 4
- 
+  
 [[eu.menu.main]]
+  name = "Irakaskuntza"
+  url = "teaching"
+  weight = 5
+  
+ [[eu.menu.main]]
   name = "Argazki-bilduma"
   url = "gallery/#gallery"
   weight = 6 
@@ -63,6 +68,11 @@
   name = "Líneas de investigación"
   url = "research/research"
   weight = 4
+  
+[[es.menu.main]]
+  name = "Docencia"
+  url = "teaching"
+  weight = 5
  
 [[es.menu.main]]
   name = "Galería"

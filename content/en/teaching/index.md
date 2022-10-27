@@ -1,5 +1,5 @@
 ---
-title: Supervised thesis and projects (last 10 years)
+title: Supervised theses and projects (last 10 years)
 summary: 
 date: 
 
@@ -16,17 +16,17 @@ header:
 
  <!-- sort by year --> 
 
-**PhD Thesis**
+<span style="color:blue">PhD Theses</span>
 
-- ds
+- **Titulo**, Autor, 2050, Univ, Lugar. Dirigido por by: *director*
 - fsf
 
-**MSc. Thesis**
+<span style="color:blue">MSc. Theses</span>
 
 -
 -
 
-**Final Degree Project**
+<span style="color:blue">Final Degree Projects</span>
 
 -
 -
