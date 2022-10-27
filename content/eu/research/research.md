@@ -20,15 +20,32 @@ weight = 1
 
 <body style="text-align:justify">
 
-**1. Lerroa**: Klima-aldaketak garagarrean duen eragina ikertzea, alderdi agronomikoa, fisiologikoa, biokimikoa eta molekularra aintzat hartuta etorkizuneko klima-baldintzetara egokitutako garagar-barietateak hautatzeko.
+**1. Lerroa: Ingurumen-estresek nekazaritza-intereseko espezieetan duten eragina identifikatzea eta estrategiak, hobekuntza-prozesuak eta nekazaritza-intereseko espezieen ekoizpen iraunkorreko irtenbideak bilatzea, elikagaien segurtasuna bermatzeko (elikagaien eskuragarritasunaren eta kontsumitzailearentzako segurtasunaren ikuspegitik), etorkizunerako proiektatutako klima-baldintzei aurre egiteko. **
+
++ Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz.
+
++ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa dutenak laboreak erabiltzea.
+
++ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea.
+
++ Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko.
+
++ Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea.
+
++ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz.
 
 
-**2. Lerroa**: Klima-aldaketaren aurrean lekadunen produktibitatea handitzeko estrategiak bilatzea, horretarako baldintza kontrolatuetan zein landa-eremuan eraginkortasun sinbiotiko handiko landare-barietateak eta bakterio-anduiak hautatutz.</h4>
+**2. Lerroa: Agro-biodibertsitatea kontserbatzeko eta landa-ingurunearen iraunkortasuna bermatezeko estrategiak bilatzea eta diseinatzea, ekoizpen ekologikorako trantsizioaren bidez, eta nekazaritza zein abeltzaintza ustiategien eta landa-paisaiaren baliabide naturalen (belarkien eta baso-baliabideen) erresilientzia aztertuz.**
 
-**3. Lerroa**:  Mendiko larreen abeltzantza estentsiboa bertan behera uzteak lurzoru-funtzioetan, biodibertsitatean eta bazka-kalitatean duen eragina azterketa multidiziplinarra egitea, lurzoruaren erabilera eta klima-aldaketarako agertoki desberdineak aintzat hartuz.
++ Biodibertsitatearen, lurzoruaren kalitatearen eta hauek laboreen ekoizpen iraunkorrarekin eta lehortearekiko tolerantziarekin duten elkarrekintza aztertzea.
 
-**4. Lerroa**: Baso-ekosistemek asaldura abiotiko zein biotikoen aurrean indibiduo-, populazio- eta paisaia-mailan duten erresilientzia gaitasuna aztertzea,  horretarako zuhaitz espezieen tasa demografiko nagusiei (biziraupena, hazkuntza eta erreklutamenduari) erreparatuz.
++ Laborantza-sistemek (ekologikoa/konbentzionala) eta haien biodibertsitateak laboreen ekoizpenean, kalitatean eta lehortearekiko tolerantzian duten eragina ebaluatzea.
 
++ Estentsiboki maneiatutako esnetarako ardien (Latxa ardia) ustiategien iraunkortasuna eta erresilientzia aztertzea, hurbilketa multidisziplinarra erabiliz, adierazle ekologikoak (biodibertsitatea, lurzoruaren trinkotzea), ingurumenekoak (berotegi-efektuko gasen emisioa, karbono-bahiketa), ekonomikoak, sozialak eta nutrizionalak uztartuz.
+
++ Klima-asalduren aurrean basoek duten erresilientzia modu integratuan aztertzea, klima-aldaketara egokitzeko eta zerbitzu ekosistemikoak mantentzeko kudeaketa garatzeko helburuarekin. Horretarako, banaketa zabaleko eta garrantzi ekonomiko handiko pagoa (Fagus sylvatica) eta banaketa mugatuko eta balio kultural eta ekologiko handiko espezie mehatxatuen den hagina (Taxus baccata) modelo hartuta.
+
+</body>
 
 </body>
 

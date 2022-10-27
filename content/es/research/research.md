@@ -18,27 +18,30 @@ weight = 1
 +++
 <body style="text-align:justify">
 
-**Línea 1: Estudio del impacto del cambio climático en cebada identificando caracteres agronómicos, fisiológicos, bioquímicos y moleculares para la selección de cultivares capaces de adaptarse a condiciones climáticas futuras.**
+**Línea 1:  Identificación del impacto de los estreses ambientales en especies de interés agrícola y búsqueda de estrategias, procesos de mejora y soluciones de producción sostenibles de especies de interés agrícola, que garanticen la seguridad alimentaria (entendiendo esta como disponibilidad de alimentos y seguridad para el consumidor), con el fin de hacer frente a las condiciones climáticas proyectadas para el futuro. **
 
-+ Seleccionar en campo de los cultivares de cebada que muestran características de adaptación (en base a producción y calidad del grano) al aumento del CO<sub>2</sub> y la disponibilidad hídrica.
++ Reducción del aporte de fertilizantes nitrogenados mediante la búsqueda de simbiosis en leguminosas altamente eficientes bajo condiciones de sequía y la optimización del aporte de nitratos en otros cultivos de interés.
 
-+ Seleccionar en condiciones controladas (cámaras de crecimiento) las características agronómicas, fisiológicas y moleculares responsables de la mayor capacidad de adaptación.
++ Utilización de cultivos alternativos a los actuales con una mejor capacidad de adaptación a los efectos negativos de la sequía en la productividad.
 
-+ Validar y comprobar la fiabilidad del carácter o caracteres seleccionado/s en el laboratorio para la identificación y selección de genotipos de interés.
++ Búsqueda de marcadores bioquímicos y moleculares de la tolerancia a la sequía, y su implementación a especies de interés alimentario.
 
-**Línea 2: Búsqueda de estrategias para incrementar la productividad de leguminosas en condiciones de cambio climático, seleccionando variedades vegetales y cepas bacterianas de alta eficiencia simbiótica. Estudio en condiciones controladas y campo convencional y ecológico.**
++ Conocimiento de los mecanismos de tolerancia a la salinidad de las plantas halófitas para usar suelos salinos o de mala calidad como suelo cultivable.
 
-+ Estudiar los cambios fisiológicos en planta y nódulo que producen la inoculación de la soja con diferentes cepas de *Bradyrhizobium* aisladas en condiciones de CO<sub>2</sub> ambiente y elevado.
++ Evaluación de los factores ambientales que desencadenan la generación de micotoxinas en el hongo Alternaria alternata en distintas especies vegetales.
 
-+ Seleccionar la asociación simbiótica *Rhizobium*-alubia más eficiente en condiciones de sequía con el fin de incrementar el potencial productor de variedades locales y comerciales de alubia tanto en cultivo ecológico como convencional.
++ Mejora del estado fisiológico y sanitario de plantas mediante el uso de bioestimulantes (productos alternativos a fitosanitarios de síntesis).
 
 
-**Línea 3: Análisis del impacto del abandono del pastoreo extensivo sobre las funciones del suelo, la biodiversidad y la calidad del forraje en mosaicos de pastos y matorrales de montaña, bajo escenarios de cambio de usos del territorio y cambio climático desde una perspectiva multidisciplinar.**
+**Línea 2: Búsqueda y diseño de estrategias de conservación de la agro-biodiversidad y sostenibilidad del medio rural, mediante la transición hacia una producción ecológica, y el análisis de la resiliencia de explotaciones agro-ganaderas y los recursos naturales (herbáceos y forestales) del paisaje rural**
 
-+ Dilucidar los efectos del pastoreo y la sequía en la biodiversidad y productividad de pastos de montaña.
++  Análisis de la biodiversidad y la calidad del suelo y su interacción con la producción sostenible de cultivos y su tolerancia a la sequía.
 
-**Line 4: Análisis de la capacidad de resiliencia de los ecosistemas forestales frente pertubaciones abióticas y bióticas, a escala de individuo, población y paisaje, con especial énfasis en las principales tasas demográficas (supervivencia, crecimiento y reclutamiento) de las especies arbóreas.**
++ Evaluación de la influencia de los sistemas de cultivo (ecológico/convencional) y su biodiversidad en la producción, calidad y tolerancia de los cultivos a la sequía.
 
++ Análisis de la sostenibilidad y resiliencia de explotaciones ganaderas de ovino de leche (oveja Latxa) manejadas en régimen extensivo, mediante una aproximación multidisciplinar, incluyendo indicadores ecológicos (biodiversidad, compactación del suelo), ambientales (emisión de gases efecto invernadero, secuestro de carbono), económicos, sociales y nutricionales.
+
++ Análisis integrado de la resiliencia forestal a perturbaciones climáticas: gestión para la adaptación al cambio climático y mantenimiento de servicios ecosistémicos. Más concretamente, se evalúa la capacidad de resiliencia forestal de especies dominantes de amplia distribución e importancia económica (Fagus sylvatica) y especies localmente amenazadas de distribución restringida y alto valor cultural y ecológico (Taxus baccata).
 </body>
 
 <br>
