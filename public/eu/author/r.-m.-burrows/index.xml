@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. M. Burrows | Fisioclima</title>
+    <link>/eu/author/r.-m.-burrows/</link>
+      <atom:link href="/eu/author/r.-m.-burrows/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. M. Burrows</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>R. M. Burrows</title>
+      <link>/eu/author/r.-m.-burrows/</link>
+    </image>
+    
+    <item>
+      <title>Sediment Respiration Pulses in Intermittent Rivers and Ephemeral Streams</title>
+      <link>/eu/publication/2019-01-01_sediment_respiration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2019-01-01_sediment_respiration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

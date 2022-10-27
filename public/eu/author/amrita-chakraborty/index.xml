@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amrita Chakraborty | Fisioclima</title>
+    <link>/eu/author/amrita-chakraborty/</link>
+      <atom:link href="/eu/author/amrita-chakraborty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amrita Chakraborty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Amrita Chakraborty</title>
+      <link>/eu/author/amrita-chakraborty/</link>
+    </image>
+    
+    <item>
+      <title>Termites are associated with external species-specific bacterial communities</title>
+      <link>/eu/publication/2020-01-01_termites_are_associa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_termites_are_associa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termites host specific fungal communities that differ from those in their ambient environments</title>
+      <link>/eu/publication/2020-01-01_termites_host_specif/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_termites_host_specif/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

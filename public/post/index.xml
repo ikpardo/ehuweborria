@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Fisioclima</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>New project on High Nature Value farming systems</title>
+      <link>/post/2021-04-22/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-04-22/</guid>
+      <description>&lt;p&gt;Today we are pleased to announce the launch of a new project about the High Nature Value (HVN) farming systems in Navarra: index 2020. This work is going to be carried out in collaboration with the Government of Navarra and the staff of the public company &lt;a href=&#34;https://gan-nik.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GAN-NIK&lt;/a&gt;, who have a strong background on the topic.&lt;/p&gt;
+&lt;p&gt;Wait, don&amp;rsquo;t you know what HNV is? Put it simple, this concept aims to value the role that the maintenance of some farmland systems plays on biodiversity conservation and landscape structure in European countries.&lt;/p&gt;
+&lt;p&gt;The index was measured in both 2008 and &lt;a href=&#34;https://www.navarra.es/NR/rdonlyres/86815038-FE6D-404A-9A29-3C27FCCBF013/371833/SistemasdeAltoValorNaturalenNavarra2013.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2013&lt;/a&gt; in Navarre, so with this third assessment we would get the first insights into the temporal trends of AVN and main causes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The web is almost done!</title>
+      <link>/post/2021-03-19/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2021-03-19/</guid>
+      <description>&lt;p&gt;Just a reminder, please add your contributions &lt;strong&gt;no latter than March 30&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

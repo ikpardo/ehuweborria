@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cesar Sancho-Garcia | Fisioclima</title>
+    <link>/author/cesar-sancho-garcia/</link>
+      <atom:link href="/author/cesar-sancho-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cesar Sancho-Garcia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Cesar Sancho-Garcia</title>
+      <link>/author/cesar-sancho-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Forest productivity in southwestern Europe is controlled by coupled North Atlantic and Atlantic Multidecadal Oscillations</title>
+      <link>/publication/2017-01-01_forest_productivity_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_forest_productivity_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

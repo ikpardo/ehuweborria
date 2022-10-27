@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fisioclima</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fisioclima</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Fisioclima</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Research lines &amp; aims</title>
+      <link>/research/research/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/research/research/</guid>
+      <description>&lt;body style=&#34;text-align:justify&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Line 1: Assessement of the impact of environmental stresses on plant species of agricultural value and search for strategies, enhancement processes and sustainable production solutions for agricultural species that guarantee food security in the face of projected climatic conditions.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reduction of the nitrogen fertilizer input through symbiosis in highly efficient legumes under drought conditions and optimisation of nitrate input in other crops of interest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Development of alternative crops with greater adaptation ability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Search for biochemical and molecular markers of drought tolerance, and their implementation in food species.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understanding the mechanisms of salinity tolerance of halophyte plants to use saline or poor quality soils as arable soil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluation of the environmental factors that trigger the generation of mycotoxins of the fungus Alternaria alternata in different plant species.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improvement of physiological and sanitary states of plants through the use of biostimulants (alternative products to synthetic phytosanitar).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Line 2: Research and design of strategies for agro-diversity conservation and sustainability of the rural environment, through the transition to organic production, and the resilience analysis of agro-livestock farm and associated natural resources (herbaceous and forest).&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Analysis of biodiversity, soil quality and their interaction with sustainable crop production and drought tolerance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluation of the influence of agricultural systems (organic/conventional) and their biodiversity on crop production, quality and drought tolerance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analysis of the sustainability and resilience of extensively managed dairy sheep farms (Latxa sheep) by using a multidisciplinary approach, including ecological (biodiversity, soil compaction), environmental (greenhouse gas emissions, carbon sequestration), economic, social and nutritional indicators.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated analysis of forest resilience to climate perturbations: management for adaptation to climate change and maintenance of ecosystem services. Two model species are used to this aim: the widely distributed and economically relevant beech (Fagus sylvatica) and the locally threatened and high cultural and ecological value yew (Taxus baccata).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;p style = &#34;font-family:&#39;Brush Script MT&#39;, cursive; line-height: 200%&#34;&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:blue&#34;&gt;Biodiversity&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:brown&#34;&gt;Cereals&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:red&#34;&gt;Climate change&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:orange&#34;&gt;Ecosystem management&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:pink&#34;&gt;Forest resilience&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:purple&#34;&gt;Legume-Rhizobium symbiosis&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:green&#34;&gt;Soil-Plant-Herbivore interaction&lt;/span&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/publication/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/publications/</guid>
+      <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;quickly-discover-relevant-content-by-filtering-publicationspublication&#34;&gt;Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New project on High Nature Value farming systems</title>
+      <link>/post/2021-04-22/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-04-22/</guid>
+      <description>&lt;p&gt;Today we are pleased to announce the launch of a new project about the High Nature Value (HVN) farming systems in Navarra: index 2020. This work is going to be carried out in collaboration with the Government of Navarra and the staff of the public company &lt;a href=&#34;https://gan-nik.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GAN-NIK&lt;/a&gt;, who have a strong background on the topic.&lt;/p&gt;
+&lt;p&gt;Wait, don&amp;rsquo;t you know what HNV is? Put it simple, this concept aims to value the role that the maintenance of some farmland systems plays on biodiversity conservation and landscape structure in European countries.&lt;/p&gt;
+&lt;p&gt;The index was measured in both 2008 and &lt;a href=&#34;https://www.navarra.es/NR/rdonlyres/86815038-FE6D-404A-9A29-3C27FCCBF013/371833/SistemasdeAltoValorNaturalenNavarra2013.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2013&lt;/a&gt; in Navarre, so with this third assessment we would get the first insights into the temporal trends of AVN and main causes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equipment</title>
+      <link>/gallery/equipment/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/equipment/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Equipment/Conviron%20growth%20chamber.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Equipment/Conviron%20growth%20chamber.jpg&#34; alt=&#34;Conviron growth chamber&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Conviron growth chamber&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Equipment/Conviron%20growth%20chamber.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Equipment/Licor.png&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Equipment/Licor.png&#34; alt=&#34;Licor&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Licor&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Equipment/Licor.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Equipment/Osmometer.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Equipment/Osmometer.jpg&#34; alt=&#34;Osmometer&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Osmometer&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Equipment/Osmometer.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Equipment/Scholander%20pressure%20chamber.png&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Equipment/Scholander%20pressure%20chamber.png&#34; alt=&#34;Scholander pressure chamber&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Scholander pressure chamber&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Equipment/Scholander%20pressure%20chamber.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Equipment/Thermocycler.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Equipment/Thermocycler.jpg&#34; alt=&#34;Thermocycler&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Thermocycler&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Equipment/Thermocycler.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/gallery/events/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/events/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Events/Taller%20de%20agroecolog%c3%ada%20en%20el%20Campus%20de%20%c3%81raba.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Events/Taller%20de%20agroecolog%c3%ada%20en%20el%20Campus%20de%20%c3%81raba.jpg&#34; alt=&#34;Taller de agroecología en el campus de áraba&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Taller de agroecología en el campus de áraba&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Events/Taller%20de%20agroecolog%c3%ada%20en%20el%20Campus%20de%20%c3%81raba.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facilities</title>
+      <link>/gallery/facilities/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/facilities/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Facilities/Greenhouse.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Facilities/Greenhouse.jpg&#34; alt=&#34;Greenhouse&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Greenhouse&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Facilities/Greenhouse.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Field experiments</title>
+      <link>/gallery/field-experiments/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/field-experiments/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/01_2019_otsaila_egur_gabe_hurbil_egurrarekin_urrun.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/01_2019_otsaila_egur_gabe_hurbil_egurrarekin_urrun.jpg&#34; alt=&#34;01 2019 otsaila egur gabe hurbil egurrarekin urrun&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;01 2019 otsaila egur gabe hurbil egurrarekin urrun&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/01_2019_otsaila_egur_gabe_hurbil_egurrarekin_urrun.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/02_2018_lagintzen_AH.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/02_2018_lagintzen_AH.jpg&#34; alt=&#34;02 2018 lagintzen ah&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;02 2018 lagintzen ah&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/02_2018_lagintzen_AH.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/03_2018_lagintzen_NAL.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/03_2018_lagintzen_NAL.jpg&#34; alt=&#34;03 2018 lagintzen nal&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;03 2018 lagintzen nal&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/03_2018_lagintzen_NAL.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/Bardenas.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/Bardenas.jpg&#34; alt=&#34;Bardenas&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Bardenas&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/Bardenas.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/Field%20experiment.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/Field%20experiment.jpg&#34; alt=&#34;Field experiment&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Field experiment&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/Field%20experiment.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/a9acf576-d2a9-4b8b-8e71-8500eb30d629.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/a9acf576-d2a9-4b8b-8e71-8500eb30d629.jpg&#34; alt=&#34;A9acf576 d2a9 4b8b 8e71 8500eb30d629&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;A9acf576 d2a9 4b8b 8e71 8500eb30d629&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/a9acf576-d2a9-4b8b-8e71-8500eb30d629.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/experimental_sites1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/experimental_sites1.jpg&#34; alt=&#34;Experimental sites1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Experimental sites1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/experimental_sites1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/experimental_sites2.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/experimental_sites2.jpg&#34; alt=&#34;Experimental sites2&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Experimental sites2&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/experimental_sites2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/itxitura_animaliak1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/itxitura_animaliak1.jpg&#34; alt=&#34;Itxitura animaliak1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Itxitura animaliak1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/itxitura_animaliak1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/laginketak_in_out1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/laginketak_in_out1.jpg&#34; alt=&#34;Laginketak in out1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Laginketak in out1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/laginketak_in_out1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/lurzorua_soslaia_in_out1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/lurzorua_soslaia_in_out1.jpg&#34; alt=&#34;Lurzorua soslaia in out1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Lurzorua soslaia in out1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/lurzorua_soslaia_in_out1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/lurzorua_soslaia_in_out2.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/lurzorua_soslaia_in_out2.jpg&#34; alt=&#34;Lurzorua soslaia in out2&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Lurzorua soslaia in out2&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/lurzorua_soslaia_in_out2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/paisaia1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/paisaia1.jpg&#34; alt=&#34;Paisaia1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Paisaia1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/paisaia1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/paisaia2.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/paisaia2.jpg&#34; alt=&#34;Paisaia2&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Paisaia2&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/paisaia2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/plants1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/plants1.jpg&#34; alt=&#34;Plants1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Plants1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/plants1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/plants2.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/plants2.jpg&#34; alt=&#34;Plants2&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Plants2&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/plants2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/sheep1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/sheep1.jpg&#34; alt=&#34;Sheep1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Sheep1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/sheep1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Field%20experiments/sheep_gps.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Field%20experiments/sheep_gps.jpg&#34; alt=&#34;Sheep gps&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Sheep gps&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Field%20experiments/sheep_gps.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Growth chamber experiments</title>
+      <link>/gallery/growth-chamber-experiments/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/growth-chamber-experiments/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/Barley.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/Barley.jpg&#34; alt=&#34;Barley&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Barley&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/Barley.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/DSC_0041.JPG&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/DSC_0041.JPG&#34; alt=&#34;Dsc 0041&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Dsc 0041&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/DSC_0041.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/Greenhouse.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/Greenhouse.jpg&#34; alt=&#34;Greenhouse&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Greenhouse&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/Greenhouse.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/Greenhousebis.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/Greenhousebis.jpg&#34; alt=&#34;Greenhousebis&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Greenhousebis&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/Greenhousebis.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/Growth%20chamber.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/Growth%20chamber.jpg&#34; alt=&#34;Growth chamber&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Growth chamber&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/Growth%20chamber.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/Quinoa%20Experiment.JPG&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/Quinoa%20Experiment.JPG&#34; alt=&#34;Quinoa experiment&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Quinoa experiment&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/Quinoa%20Experiment.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Growth%20chamber%20experiments/Quinoa.png&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Growth%20chamber%20experiments/Quinoa.png&#34; alt=&#34;Quinoa&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Quinoa&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Growth%20chamber%20experiments/Quinoa.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab techniques</title>
+      <link>/gallery/lab-techniques/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/lab-techniques/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Agarose.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Agarose.jpg&#34; alt=&#34;Agarose&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Agarose&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Agarose.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Bacteria.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Bacteria.jpg&#34; alt=&#34;Bacteria&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Bacteria&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Bacteria.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Biochemical%20extraction.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Biochemical%20extraction.jpg&#34; alt=&#34;Biochemical extraction&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Biochemical extraction&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Biochemical%20extraction.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/DSC_0017.JPG&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/DSC_0017.JPG&#34; alt=&#34;Dsc 0017&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Dsc 0017&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/DSC_0017.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Enzyme%20activity.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Enzyme%20activity.jpg&#34; alt=&#34;Enzyme activity&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Enzyme activity&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Enzyme%20activity.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Hypocotyls%20in%20Arabidopsis.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Hypocotyls%20in%20Arabidopsis.jpg&#34; alt=&#34;Hypocotyls in arabidopsis&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Hypocotyls in arabidopsis&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Hypocotyls%20in%20Arabidopsis.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Measuring%20leaf%20area.JPG&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Measuring%20leaf%20area.JPG&#34; alt=&#34;Measuring leaf area&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Measuring leaf area&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Measuring%20leaf%20area.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Nodules%20in%20salinity%20soil.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Nodules%20in%20salinity%20soil.jpg&#34; alt=&#34;Nodules in salinity soil&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Nodules in salinity soil&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Nodules%20in%20salinity%20soil.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Nodules%20in%20silica.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Nodules%20in%20silica.jpg&#34; alt=&#34;Nodules in silica&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Nodules in silica&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Nodules%20in%20silica.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Nodulos.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Nodulos.jpg&#34; alt=&#34;Nodulos&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Nodulos&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Nodulos.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Lab%20techniques/Salt%20bladders%20in%20quinoa.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Lab%20techniques/Salt%20bladders%20in%20quinoa.jpg&#34; alt=&#34;Salt bladders in quinoa&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Salt bladders in quinoa&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Lab%20techniques/Salt%20bladders%20in%20quinoa.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relevant results</title>
+      <link>/gallery/relevant-results/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/gallery/relevant-results/</guid>
+      <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Relevant%20results/emaitzak_in_out1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Relevant%20results/emaitzak_in_out1.jpg&#34; alt=&#34;Emaitzak in out1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Emaitzak in out1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Relevant%20results/emaitzak_in_out1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Relevant%20results/graphics1.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Relevant%20results/graphics1.jpg&#34; alt=&#34;Graphics1&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Graphics1&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Relevant%20results/graphics1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//img/en/Relevant%20results/graphics2.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//img/en/Relevant%20results/graphics2.jpg&#34; alt=&#34;Graphics2&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Graphics2&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;//img/en/Relevant%20results/graphics2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+
+
+
+  
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determinantes bioquímicos y fisiológicos de la producción y la calidad de la cebada de uso maltero –un reto ante las condiciones climáticas futuras–</title>
+      <link>/project/2017-2018_cebadas/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/2017-2018_cebadas/</guid>
+      <description>&lt;p&gt;Agricultural production is strongly influenced by climate, and any change in climate can reduce crop productivity and put the food security of the world&amp;rsquo;s growing population at risk. Barley is one of the most important cereal species worldwide in terms of production, being used both in animal and human food as well as in the malting industry. Climate predictions suggest a continuous increase in CO2 in the atmosphere, associated with higher temperatures and an increase in the duration and intensity of droughts. This implies that crop productivity will be affected by complex environmental interactions between these factors (higher [CO2], higher temperature and drought).
+In this sense, understanding which biochemical and physiological processes are involved in the interactions of drought, high temperature and high CO2 and knowing through what mechanisms affect growth, final production and grain quality is important if we want to select cultivars of barley that are well adapted to future climatic conditions, maintaining, if possible, production and quality.
+This area of research is important due to its potential applications in fields such as the agricultural and food industries. Studies are being carried out where biochemical and physiological characters related with increased tolerance capacity of the crops in the climatic conditions foreseen for the future are selected; However, the influence of these characters on the final production is not so studied, much less their influence on the quality of the grain. On the other hand, studies where the three factors are combined (high CO2, high temperature and drought) are not very abundant and, therefore, we cannot predict how plants will develop under future conditions. That is, we do not know if the mechanisms that allow the plant to benefit from the fertilizing effect of the high CO2 will be valid under the conditions combined with the high temperatures and drought expected.
+Therefore, the main objective of this research project is to determine which biochemical and physiological processes are involved in the interaction of combined conditions of high CO2, high temperature and drought, and to know through what mechanisms affect the growth, production and quality of the grain of two cultivars of barley. The key to this proposal is that the study will be multiscalar (physiological and molecular agronomic parameters) and multifactorial (high Tª, high CO2 and drought) which will allow a deep analysis of the interactions that will occur in future climatic conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluación de la presencia de hongos micotoxigénicos del género Alternaria en alimentos animales y humanos producidos en la CAPV.</title>
+      <link>/project/2021_evaluaci%C3%B3ndelapresenciahongosmicotoxig%C3%A9nicos/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/2021_evaluaci%C3%B3ndelapresenciahongosmicotoxig%C3%A9nicos/</guid>
+      <description>&lt;p&gt;Alternaria is a very common fungal genus, including numerous saprophytic, endophytic, and pathogenic species widely distributed in soil and decaying organic matter. It includes pathogenic species that can invade vegetable crops before and after harvesting and is responsible for considerable economic losses, due to the fact that it reduces the yield of the crops and produces alterations in the vegetables during their storage. Species of the genus Alternaria synthesize more than 70 secondary metabolites toxic to plants (phytotoxins), some of which also affect people and animals, which is why they are considered mycotoxins. The main mycotoxins produced by the main toxigenic species of the genus Alternaria do not depend on the host species, and are altenuene(ALT), alternariol (AOH), alternariol monomethyl ether (AME), tenuazonic acid (TeA) and tentoxin (TEN). It is important to note that mycotoxin synthesis depends both on the presence of the producing Alternaria species and on environmental conditions.
+Exposure to the toxins of Alternaria spp. it has been linked to the occurrence of adverse health effects in humans and animals and, in many cases, has been shown to have genotoxic, mutagenic, carcinogenic and cytotoxic effects. The mycotoxins of Alternaria spp. have been isolated from fruits (apple, pear, melon, apricot, grapes, raisins, strawberry, olive, citrus and dried figs), vegetables (tomato, pepper and carrot) and tubers (potato), as well as from numerous processed foods with contaminated raw materials (juices, preserves, sauces, etc.). Therefore, the objective of this project is to evaluate the presence of mycotoxigenic fungi of the genus Alternaria and the production of their mycotoxins in foods of plant cultivated in the Basque Country.
+We will provide data to prepare a risk analysis of Alternaria mycotoxins in different foods consumed in the Basque Country.&lt;/p&gt;
+&lt;p&gt;We will define which foods for human consumption are those with the highest risk of containing Alternaria and its mycotoxins.&lt;/p&gt;
+&lt;p&gt;We will establish the environmental conditions (seasonal risk) where the appearance of Alternaria and its mycotoxins is minimum and maximum.&lt;/p&gt;
+&lt;p&gt;We will define the guidelines for storage and handling of food to reduce the presence of Alternaria and its mycotoxins&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quinoa- ¿Opción de cultivo en Álava? Búsqueda de variedades productivas y de alta calidad bajo condiciones climáticas actuales y futuras</title>
+      <link>/project/2018-2019_quinoa/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/2018-2019_quinoa/</guid>
+      <description>&lt;p&gt;Climate change supposes an alteration of the main environmental factors that affect the productivity and quality of crops that, together with the increase in food demand by the world&amp;rsquo;s largest population, puts future food security in risk. The scenarios predict an increase in atmospheric CO2, a higher temperature and an increase in the intensity and duration of droughts, which will imply changes in productivity and quality. An alternative is the search for species more tolerant to these environmental stresses, quinoa being one of the possible species, thanks to its high tolerance to drought and salinity. In addition, it is necessary to reduce the use of organic and phosphorous fertilizers in order to reduce the environmental impact of both the contamination of fresh water reserves and the greenhouse gas emissions associated with the fertilizer manufacturing process. For this, it is very important to promote ecological agricultural practices. In this sense, quinoa can also be a very interesting species to be cultivated through ecological agricultural practices since the demand is increasing due to its high nutritional value, higher than that of cereals with gluten; especially because of its high protein content (approximately 16%), its excellent digestibility (92%) and balanced content of essential amino acids, such as lysine and methionine, characteristics highly appreciated by groups committed to the environment and health.
+Although various studies are being carried out on its adaptation to different regions, there is still a long way to go to find the right variety, cycle and cultivation needs. Therefore, the objective of this research project will be, from a multiscalar analysis, on the one hand, to verify the degree of adaptation in the Alava plain of different quinoa cultivars and, on the other hand, to study the incidence of drought in production and grain quality in field studies using ecological agricultural practices.
+The approach will range from production studies to molecular and biochemical analyzes, allowing the interrelation between different study scales and obtaining results of both basic and applied knowledge, with the aim of maintaining food security in future climatic conditions and under premises of sustainability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconciling water-use efficiency estimates across scales under future climate change scenarios using PHLoem carbon ISotopic</title>
+      <link>/project/2020-2023_phlisco/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/2020-2023_phlisco/</guid>
+      <description>&lt;p&gt;The exchange of water for carbon between the vegetation and the atmosphere constitutes the most important feedback mechanism underlying the regulation of water and carbon (C) cycles by the terrestrial biosphere. Water use efficiency (WUE) is the trait that serves to describe this intimate link between the C and water cycles and is a crucial parameter incorporated in many land-surface-models to predict vegetation-climatic feedbacks under future climate change scenario. WUE can be estimated using multiple approaches and methodologies concerning different temporal spatial and temporal scales. Empirical comparison of WUE estimates reveal that important disagreements exists among methodologies; however, these empirical comparisons cannot reveal the underlying mechanisms driving these discrepancies. Two of the most widely used methodologies to estimate WUE are measurements of the ratio of photosynthesis to stomatal conductance to water, using gas-exchange techniques, and analyses of the carbon isotopic composition (d13C) of plant material. This latter approach is based on the assumption that the d13C of plant material is mostly the result of isotopic discrimination occurring during diffusion through the stomatal pores and fractionation at the point of carboxylation. The vast majority of these studies analyses d13C in either the leaves or the wood, but these reflect the signal of the plant physiological status all along the organ ontogeny. In addition, in tall trees, d13C varies greatly among leaves and thus individual measurements cannot capture whole-tree physiological status. Analyses of the phloem d13C constitute a promising avenue, as the phloem signal, when collected at the base of the trunk should reflect the whole tree physiological performance. Still, WUE estimates from d13C, even when they come from the phloem, are usually lower than WUE from measurements of gas-exchange. This is partly due the fact that estimates of WUE from d13C most often neglect the leaf internal resistance to CO2 diffusion, beyond the stomatal pores. Mesophyll conductance (gm) is the inverse of this resistance and it is a trait that varies greatly among plant functional types and in large individuals (adult trees) also among canopy layers. Furthermore, gm also varies greatly in response to climate change drivers including increasing vapour pressure deficit, water availability and atmospheric CO2concentration. Previous studies, including ours, combining measurements of gm with WUE from different estimates suggest that neglecting gm limitations in the calculations of WUE from d13C could induce large biases and that these biases would be even larger under water limitations.&lt;/p&gt;
+&lt;p&gt;Still, these studies showed that even after incorporating gm limitations, other post-photosynthetic fractionation processes exist that underlie disagreements between WUE estimates. The aim of this proposal is to reconcile estimates of WUE describing vegetation functioning at different scales by incorporating internal leaf diffusional limitations, using Fagus sylvatica as a model species. This objective will materialise in the form of a novel protocol for estimating whole-tree WUE at large spatial scales from analyses of the phloem content. In this project, we will combine measurements under controlled conditions, intensive field measurements of physiological performance, sampling of physiological performance (including WUE from different methodolgies and gm) across a broad geographical range.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A physiological approach to study the competition ability of the grassland species Trifolium pratense and Agrostis capillaris</title>
+      <link>/publication/2020-01-01_a_physiological_appr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_a_physiological_appr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are pine-oak mixed stands in Mediterranean mountains more resilient to drought than their monospecific counterparts?</title>
+      <link>/publication/2021-01-01_are-pine-oak-mixed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_are-pine-oak-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate reverses directionality in the richness–abundance relationship across the World’s main forest biomes</title>
+      <link>/publication/2020-01-01_climate_reverses_dir/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_climate_reverses_dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmentally relevant concentrations of silver nanoparticles diminish soil microbial biomass but do not alter enzyme activities or microbial diversity</title>
+      <link>/publication/2020-01-01_environmentally_rele/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_environmentally_rele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies</title>
+      <link>/publication/2020-01-01_globalfungi_a_globa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_globalfungi_a_globa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gps Telemetry and Home Range of the White-Backed Woodpecker Dendrocopos leucotos: Results of the First Experience</title>
+      <link>/publication/2020-01-01_gps_telemetry_and_ho/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_gps_telemetry_and_ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between 1-aminocyclopropane-1-carboxylic acid, γ-aminobutyrate and D-glucose in the regulation of high nitrate-induced root growth inhibition in maize</title>
+      <link>/publication/2020-01-01_interplay_between_1-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_interplay_between_1-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LabelStoma: A tool for stomata detection based on the YOLO algorithm</title>
+      <link>/publication/2020-01-01_labelstoma_a_tool_fo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_labelstoma_a_tool_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N metabolism performance in Chenopodium quinoa subjected to drought or salt stress conditions</title>
+      <link>/publication/2020-01-01_n_metabolism_perform/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_n_metabolism_perform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive associations among rare species and their persistence in ecological assemblages</title>
+      <link>/publication/2020-01-01_positive_association/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_positive_association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of Horticultural Soil Microbiota to Different Fertilization Practices</title>
+      <link>/publication/2020-01-01_response_of_horticul/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_response_of_horticul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stand age affects fungal community composition in a Central European temperate forest</title>
+      <link>/publication/2020-01-01_stand_age_affects_fu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_stand_age_affects_fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchrony matters more than species richness in plant community stability at a global scale</title>
+      <link>/publication/2020-01-01_synchrony_matters_mo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_synchrony_matters_mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termites are associated with external species-specific bacterial communities</title>
+      <link>/publication/2020-01-01_termites_are_associa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_termites_are_associa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termites host specific fungal communities that differ from those in their ambient environments</title>
+      <link>/publication/2020-01-01_termites_host_specif/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_termites_host_specif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The web is almost done!</title>
+      <link>/post/2021-03-19/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2021-03-19/</guid>
+      <description>&lt;p&gt;Just a reminder, please add your contributions &lt;strong&gt;no latter than March 30&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emissive Enhancement of the Singlet Oxygen Chemiluminescence Probe after Binding to Bovine Serum Albumin</title>
+      <link>/publication/2019-01-01_emissive_enhancement/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_emissive_enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grazing Abandonment Delays the Effect of Temperature on Aboveground Net Primary Production in Atlantic Grasslands☆</title>
+      <link>/publication/2019-01-01_grazing_abandonment_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_grazing_abandonment_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of elevated CO2 and drought on yield and quality traits of a historical (Blanqueta) and a modern (Sula) durum wheat</title>
+      <link>/publication/2019-01-01_impact_of_elevated_c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_impact_of_elevated_c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sediment Respiration Pulses in Intermittent Rivers and Ephemeral Streams</title>
+      <link>/publication/2019-01-01_sediment_respiration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_sediment_respiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surfing the Hyperbola Equations of the Steady-State Farquhar–von Caemmerer–Berry C3 Leaf Photosynthesis Model: What Can a Theoretical Analysis of Their Oblique Asymptotes and Transition Points Tell Us?</title>
+      <link>/publication/2019-01-01_surfing_the_hyperbol/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_surfing_the_hyperbol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example title</title>
+      <link>/teaching/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description>&lt;p&gt;hi mate!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carbon Isotope Ratio Fractionation among Plant Tissues of Soybean</title>
+      <link>/publication/2018-01-01_carbon_isotope_ratio/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_carbon_isotope_ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coexisting oak species, including rear-edge populations, buffer climate stress through xylem adjustments</title>
+      <link>/publication/2018-01-01_coexisting_oak_speci/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_coexisting_oak_speci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of phenolic compounds is increased in lettuce grown under high light intensity and elevated CO2</title>
+      <link>/publication/2018-01-01_concentration_of_phe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_concentration_of_phe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macrofungal diversity of holm-oak forests at the northern limit of their distribution range in the Iberian Peninsula</title>
+      <link>/publication/2018-01-01_macrofungal_diversit/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_macrofungal_diversit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarities and differences between the responses to osmotic and ionic stress in quinoa from a water use perspective</title>
+      <link>/publication/2018-01-01_similarities_and_dif/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_similarities_and_dif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing wastewater treatment plant effluent effects on microbial and detritivore performance: A combined field and laboratory experiment</title>
+      <link>/publication/2018-01-01_testing_wastewater_t/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_testing_wastewater_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interaction between drought and elevated CO2 in water relations in two grassland species is species-specific</title>
+      <link>/publication/2018-01-01_the_interaction_betw/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_the_interaction_betw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The trans and cis zeatin isomers play different roles in regulating growth inhibition induced by high nitrate concentrations in maize</title>
+      <link>/publication/2018-01-01_the_trans_and_cis_ze/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_the_trans_and_cis_ze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the long-term dynamics of plant diversity in Northeast Spain with a network of volunteers and rangers</title>
+      <link>/publication/2018-01-01_tracking_the_long-te/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_tracking_the_long-te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation in the Climate Sensitivity Dependent on Neighbourhood Composition in a Secondary Mixed Forest</title>
+      <link>/publication/2018-01-01_variation_in_the_cli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_variation_in_the_cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevated CO2 and salinity are responsible for phenolics-enrichment in two differently pigmented lettuces</title>
+      <link>/publication/2017-01-01_elevated_co2_and_sal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_elevated_co2_and_sal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest productivity in southwestern Europe is controlled by coupled North Atlantic and Atlantic Multidecadal Oscillations</title>
+      <link>/publication/2017-01-01_forest_productivity_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_forest_productivity_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grazing exclusion unleashes competitive plant responses in Iberian Atlantic mountain grasslands</title>
+      <link>/publication/2017-01-01_grazing_exclusion_un/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_grazing_exclusion_un/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf and canopy scale drivers of genotypic variation in soybean response to elevated carbon dioxide concentration</title>
+      <link>/publication/2017-01-01_leaf_and_canopy_scal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_leaf_and_canopy_scal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of species relatedness created by competitive exclusion depend on species niche differences: Evidence from Iberian Atlantic grasslands</title>
+      <link>/publication/2017-01-01_patterns_of_species_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_patterns_of_species_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience to drought in a dry forest: Insights from demographic rates</title>
+      <link>/publication/2017-01-01_resilience_to_drough/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_resilience_to_drough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-term effects of non-grazing on plants, soil biota and aboveground-belowground links in Atlantic mountain grasslands</title>
+      <link>/publication/2017-01-01_short-term_effects_o/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_short-term_effects_o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The imbalance between C and N metabolism during high nitrate supply inhibits photosynthesis and overall growth in maize (Zea mays L.)</title>
+      <link>/publication/2017-01-01_the_imbalance_betwee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_the_imbalance_betwee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uneven abundances determine nestedness in climbing plant-host interaction networks</title>
+      <link>/publication/2017-01-01_uneven_abundances_de/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_uneven_abundances_de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptación al cambio climático a través de la certificación FSC- Implementación y seguimiento de un protocolo de gestión adaptativa en los bosques españoles (138/2018).</title>
+      <link>/project/2018-2019_certificacionfsc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2018-2019_certificacionfsc/</guid>
+      <description>&lt;p&gt;Desde FSC se trabaja en la promoción de una gestión forestal sostenible, en una gestión adaptativa en sí misma, por lo que lo que se pretende con los resultados de este proyectos es mejorar el sistema, incorporando una serie de herramientas fáciles de usar por los propietarios y gestores forestales para que se pueda realizar una seguimiento adecuado de los efectos del cambio climático en nuestros sistemas forestales y actuar en consecuencia, haciendo nuestros bosques más resilientes ante los efectos de dicho cambio climático. En este sentido, el objetivo principal del proyecto supone la puesta en práctica en general de técnicas de gestión forestal adaptativa para hacer frente al cambio climático. Este objetivo principal pretende conseguir masas forestales más resilientes ante los efectos del cambio climático, a partir de los siguientes objetivos de gestión: (i) diseño, implementación y seguimiento de un sistema de indicadores de adaptación al cambio climático para evaluar los impactos del cambio climático y las medidas de adaptación; (ii) diagnóstico y disminución de la vulnerabilidad frente a los impactos del cambio climático en superficie certificada FSC; (iii) difusión de conocimientos a través de la publicación de documentos técnicos y validación del método con la comunidad científica, y comunicación a la sociedad en general a través de documentos y acciones divulgativas. En definitiva, el estudio supone el diagnóstico de la situación actual de los montes piloto y recomendaciones específicas para su gestión. También supone el desarrollo de un protocolo de implementación, seguimiento y evaluación de las medidas recomendadas, que incorpora la creación y seguimiento de una red de alerta, así como una validación y jerarquización de indicadores. Con todo ello se obtendrá una importante información de la evolución de dichos indicadores en el tiempo y se realizará una valoración del funcionamiento y evaluación de las medidas implementadas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptación de los bosques mediterráneos al cambio climático- el papel de las masas mixtas en el fomento de la resiliencia a eventos de sequía (ADAPTAMIX, PID2019-110470RA-I00).</title>
+      <link>/project/2020-2023_bosquesmediterraneoscambioclimatico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2020-2023_bosquesmediterraneoscambioclimatico/</guid>
+      <description>&lt;p&gt;Los escenarios de cambio climático prevén un aumento de la frecuencia e intensidad de eventos de sequía lo que conllevará impactos muy negativos para el funcionamiento de los ecosistemas forestales, especialmente aquellos con limitaciones hídricas como los mediterráneos. Anticiparse a estos impactos constituye un reto crucial para los gestores forestales y para el mantenimiento de los servicios ecosistémicos y la multifuncionalidad de los bosques. Sin embargo, la mayor parte de la investigación llevada a cabo sobre gestión para la adaptación al cambio climático se ha centrado en estrategias para mejorar su resistencia a corto plazo en vez de garantizar su resiliencia a largo plazo. En este sentido, la diversificación de masas forestales mediante el fomento de masas mixtas supone una medida prometedora para mejorar la productividad, la estabilidad y la provisión de bienes y servicios forestales en un contexto de cambio climático. Existen muchas evidencias que apuntan a una relación positiva entre diversidad y productividad forestal, pero se desconoce aún si las relaciones entre diversidad, productividad y estabilidad son consistentes independientemente de la escala organizativa evaluada, estructura de las masas, composición de especies y condiciones climáticas. Arrojar luz al respecto es esencial para predecir y gestionar los ecosistemas forestales en respuesta al cambio climático. La relación entre diversidad y productividad se ha asociado comúnmente a interacciones de complementariedad en el uso de la luz. Sin embargo, en ecosistemas mediterráneos el agua y los nutrientes son los principales limitantes de la productividad y hasta ahora pocos estudios han comparado la respuesta a la sequía y el estado nutricional en masas mixtas y monoespecíficas. Nuestro objetivo principal es demostrar que las masas mixtas son más productivas y estables que las masas monoespecíficas. Además, proponemos que las masas mixtas presentan una mayor resiliencia a eventos de sequía, eficiencia en el uso del agua y estado nutricional, siendo estos los principales mecanismos responsables de la relación diversidad-productividad en sistemas forestales mediterráneos. Para ello combinaremos estudios de campo con experimentos, donde reconstruiremos series de crecimiento en anillos de árboles, realizaremos análisis isotópicos de los mismos y análisis de nutrientes en hojas y suelos en masas mixtas y monoespecíficas. Mediante nuestro diseño experimental evaluaremos la direccionalidad de las relaciones entre especies (positiva, neutra o negativa) bajo distintos escenarios de aridez consecuencia del cambio climático. Los objetivos planteados en este proyecto tendrán un gran impacto científico y técnico, con importantes implicaciones socioeconómicas relacionadas con el sector forestal y la gestión y conservación del medio natural. Nuestro objetivo final es desarrollar un conocimiento con base científica para la diversificación de los ecosistemas forestales, que reduzca la vulnerabilidad de estos y garantice su estabilidad, productividad y capacidad de secuestro de carbono en respuesta a eventos climáticos extremos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data-driven models of forest drought vulnerability and resilience across spatial and temporal scales- application to the Spanish climate change adaptation strategy (DARE, RTI2018-096884-B-C32).</title>
+      <link>/project/2019-2021_datadrivenforest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2019-2021_datadrivenforest/</guid>
+      <description>&lt;p&gt;El proyecto DARE (&amp;ldquo;Modelos empíricos de la vulnerabilidad y resiliencia de los bosques a la sequía a diferentes escalas espacio- temporales: aplicación a la estrategia española de adaptación al cambio climático&amp;rdquo;) tiene como objetivo identificar mecanismos clave (desde el individuo al ecosistema) que subyacen a la resiliencia de los bosques frente a sequias extremas, y cuantificar la vulnerabilidad y riesgo para diferentes tipos de bosque. Utilizaremos una combinación de modelos correlacionales y de proceso para comprobar hipótesis sobre los mecanismos que confieren estabilidad frente a la sequía (resistencia y resiliencia) a diferentes niveles de organización, con énfasis en el papel desempeñado por los legados y la &amp;ldquo;memoria&amp;rdquo; del sistema. A escala de árbol, la propuesta se centra en investigar cómo diferentes dendro-fenotipos modulan la respuesta de los individuos a eventos climáticos extremos, así́ como su base genética. Utilizaremos el concepto de umbrales de vulnerabilidad como un indicador de alerta temprana para evaluar de forma retrospectiva los episodios de sequía y la muerte provocada por golpes de calor. Estos episodios pueden modificar la composición del rodal y provocar la contracción local de la distribución de las especies salvo que mecanismos demográficos compensatorios amortigüen estos impactos. Por este motivo desarrollaremos un modelo de dinámica forestal que integra el crecimiento con otros parámetros poblaciones -reclutamiento, mortalidad e interacciones entre individuos - y que utilizaremos para identificar mecanismos que controlan la resiliencia de la comunidad. Utilizaremos modelos jerarquizados bayesianos para constreñir el modelo con datos de diferentes niveles de organización e incluiremos variables clave identificadas en los modelos de antecedente estocásticos (SAM). Usaremos el simulador forestal para investigar las reglas de ensamblaje de especies a lo largo de gradientes de aridez, la existencia de memoria y la importancia de los legados en la dinámica forestal y en la resiliencia. Se utilizará un enfoque basado en rasgos funcionales para investigar la dominancia y la estabilidad de diferentes tipos funcionales después de la sequía y reducir la complejidad del modelo. Finalmente, desarrollaremos modelos estocásticos analíticos simples para investigar cómo se propagan los efectos de la memoria a lo largo del tiempo. A nivel del ecosistema, describiremos la estabilidad de la productividad forestal a través de modelos correlacionales calibrados con observaciones de sensores remotos. Se proporcionará una caracterización espaciotemporal de la heterogeneidad estructural más detallada que la de los inventarios de campo y se investigará la existencia de mecanismos compensatorios a nivel de ecosistema y, esta información se utilizará para constreñir los modelos de simulación forestal. Finalmente, integraremos las series de datos previas y los resultados del modelo en un Análisis de Riesgos Probabilístico a múltiples escalas que nos permita llevar a cabo predicciones de riesgo, incluido un análisis de errores, para las principales formaciones forestales ibéricas. Estableceremos un protocolo de transferencia de la evaluación de riesgos a las partes interesadas para llevar establecer categorías de vulnerabilidad y riesgo para las principales formaciones forestales, desarrollar indicadores de proceso y priorizar recursos en adaptación.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estudio de las especies fúngicas del País Vasco</title>
+      <link>/project/2018-2022_especiesf%C3%BAngicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2018-2022_especiesf%C3%BAngicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerabilidad y adaptación de los bosques ibéricos a la sequía- una aproximación multi-escala basada en la dendroecología, inventarios forestales y modelización (CGL2015-69186-C2-2-R).</title>
+      <link>/project/2016-2018_vulneracion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2016-2018_vulneracion/</guid>
+      <description>&lt;p&gt;Las ultimas predicciones del IPCC sugieren un aumento en la frecuencia e intensidad de las sequias con consecuencias muy negativas sobre procesos fundamentales de la biosfera como la productividad primaria neta o el reciclado de nutrientes para las próximas décadas. En zonas limitadas por la escasez de agua, como es el caso de la cuenca Mediterránea, los eventos de sequía extrema podrían reducir drásticamente la productividad forestal y desencadenar fenómenos de decaimiento particularmente en poblaciones situadas en el límite meridional de sus rangos de distribución. Por tanto, es crucial identificar aquellos mecanismos que confieren estabilidad a las comunidades frente a eventos de sequía. Experimentos llevados a cabo con pastizales apoyan la hipótesis de que la biodiversidad confiere estabilidad frente a perturbaciones y otros cambios ambientales a través de &amp;lsquo;efectos portafolio&amp;rsquo; y &amp;lsquo;efectos de selección. Es decir, un mayor numero de especies aumentan la probabilidad de que alguna de ellas presente mecanismos funcionales para sobrellevar los cambios ambientales y mantener el funcionamiento de la comunidad dentro de unos niveles de estabilidad. La longevidad de las plantas herbáceas, la escasa estructuración en tamaños así como las limitaciones espacio-temporales de estos experimentos dificulta no obstante la generalización a bosques. Además de la diversidad funcional, la estructuración de la comunidad en función de los tamaños/edades de los individuos que la componen condicionan los procesos funcionales de la comunidad; y previsiblemente la resistencia y resiliencia frente a eventos de sequía. Un tamaño diferente implica tanto mecanismos de diferenciación de nicho como respuestas diferenciales del crecimiento a lo largo de gradientes ambientales. Por tanto, la heterogeneidad estructural (es decir, el aumento de la variedad de tamaños o edades) podría incrementar la estabilidad de la comunidad con mecanismos similares a los descritos para la diversidad funcional. El objetivo principal de este estudio es analizar el papel potencial de la diversidad funcional y estructural como estabilizadores de la productividad forestal frente a la sequía. Prestaremos especial atención a las transiciones en donde especies en su borde xérico de distribución conviven con especies tolerantes al estrés. Nuestro objetivo será́ comprender de qué manera los efectos de la diversidad sobre el individuo (en relación a su respuesta frente a sequias extremas) escalan a nivel de la comunidad. Para ello utilizaremos aproximaciones y observaciones complementarias en el espacio y en el tiempo (dendrocronología, inventarios forestales y modelización principalmente). El objetivo final será́ desarrollar un modelo de diagnóstico para evaluar la vulnerabilidad de algunas de las principales tipologías forestales ibéricas al cambio climático a partir de información de respuestas previas en el tiempo y de los patrones actuales de diversidad funcional y estructural a lo largo de gradientes ambientales. El reto principal es el de proporcionar bases científicas para el desarrollo de una selvicultura de adaptación al cambio climático mediante el control de la estructura y la diversidad funcional de la comunidad. Este conocimiento es necesario para incrementar la estabilidad de zonas forestales con un alto valor ecológico, económico y social, pero muy vulnerables al cambio climático.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

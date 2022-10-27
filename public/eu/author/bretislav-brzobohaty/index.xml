@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bretislav Brzobohaty | Fisioclima</title>
+    <link>/eu/author/bretislav-brzobohaty/</link>
+      <atom:link href="/eu/author/bretislav-brzobohaty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bretislav Brzobohaty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Bretislav Brzobohaty</title>
+      <link>/eu/author/bretislav-brzobohaty/</link>
+    </image>
+    
+    <item>
+      <title>The imbalance between C and N metabolism during high nitrate supply inhibits photosynthesis and overall growth in maize (Zea mays L.)</title>
+      <link>/eu/publication/2017-01-01_the_imbalance_betwee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_the_imbalance_betwee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

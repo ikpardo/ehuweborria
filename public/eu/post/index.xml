@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Fisioclima</title>
+    <link>/eu/post/</link>
+      <atom:link href="/eu/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>/eu/post/</link>
+    </image>
+    
+    <item>
+      <title>Balio Natural Handiko agrosistemen inguruko proiektu berria</title>
+      <link>/eu/post/2021-04-22/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/eu/post/2021-04-22/</guid>
+      <description>&lt;p&gt;Jada martxan dugu Nafarroako Balio Natural Handiko (BNH) agrosistemen indizearen neurketarako proiektu berria. Proiektu honek Nafarroako Gobernuko eskari bati erantzuten dio, eta berau aurrera eramateko gaian eskarmentu handia duten &lt;a href=&#34;https://gan-nik.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GAN-NIK&lt;/a&gt; enpresa publikoko teknikariekin batera arituko gara.&lt;/p&gt;
+&lt;p&gt;Kasu! Baina ez dakizula zer arraio den BNH? Kontzepu hau Europa maila garatu izan zen helburua nagusi batekin: modu jakin batzuekin kudeatutako agrosistemek biodibertsiatearen kontserbazioari eta paisaiaren estrukturari egiten dieten ekarpena baliostea.&lt;/p&gt;
+&lt;p&gt;Nafarroan, dagoeneko BNH indize birritan (2008. eta &lt;a href=&#34;https://www.navarra.es/NR/rdonlyres/86815038-FE6D-404A-9A29-3C27FCCBF013/371833/SistemasdeAltoValorNaturalenNavarra2013.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2013&lt;/a&gt;. urteetan) neurtu izan da. Hirugarren neurketa honek indizeak azken hamarkadan izan duen bilakaeraren azterketa sakona egitea ahalbidetuko digu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weborria azken txanpan!</title>
+      <link>/eu/post/2021-03-19/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/eu/post/2021-03-19/</guid>
+      <description>&lt;p&gt;Weborria amaitzear dago, ez ahaztu zure ekapenak &lt;strong&gt;martxoaren 30ra bainon lehenago bidaltzea&lt;/strong&gt;.
+Edozein iradokizun estimatua izanen da.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

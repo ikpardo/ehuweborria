@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Líneas de investigación principales y objetivos | Fisioclima</title>
+    <link>/es/research/</link>
+      <atom:link href="/es/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Líneas de investigación principales y objetivos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Líneas de investigación principales y objetivos</title>
+      <link>/es/research/</link>
+    </image>
+    
+    <item>
+      <title>Líneas de investigación principales y objetivos</title>
+      <link>/es/research/research/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/es/research/research/</guid>
+      <description>&lt;body style=&#34;text-align:justify&#34;&gt;
+&lt;p&gt;**Línea 1:  Identificación del impacto de los estreses ambientales en especies de interés agrícola y búsqueda de estrategias, procesos de mejora y soluciones de producción sostenibles de especies de interés agrícola, que garanticen la seguridad alimentaria (entendiendo esta como disponibilidad de alimentos y seguridad para el consumidor), con el fin de hacer frente a las condiciones climáticas proyectadas para el futuro. **&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reducción del aporte de fertilizantes nitrogenados mediante la búsqueda de simbiosis en leguminosas altamente eficientes bajo condiciones de sequía y la optimización del aporte de nitratos en otros cultivos de interés.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utilización de cultivos alternativos a los actuales con una mejor capacidad de adaptación a los efectos negativos de la sequía en la productividad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Búsqueda de marcadores bioquímicos y moleculares de la tolerancia a la sequía, y su implementación a especies de interés alimentario.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conocimiento de los mecanismos de tolerancia a la salinidad de las plantas halófitas para usar suelos salinos o de mala calidad como suelo cultivable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluación de los factores ambientales que desencadenan la generación de micotoxinas en el hongo Alternaria alternata en distintas especies vegetales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mejora del estado fisiológico y sanitario de plantas mediante el uso de bioestimulantes (productos alternativos a fitosanitarios de síntesis).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Línea 2: Búsqueda y diseño de estrategias de conservación de la agro-biodiversidad y sostenibilidad del medio rural, mediante la transición hacia una producción ecológica, y el análisis de la resiliencia de explotaciones agro-ganaderas y los recursos naturales (herbáceos y forestales) del paisaje rural&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Análisis de la biodiversidad y la calidad del suelo y su interacción con la producción sostenible de cultivos y su tolerancia a la sequía.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluación de la influencia de los sistemas de cultivo (ecológico/convencional) y su biodiversidad en la producción, calidad y tolerancia de los cultivos a la sequía.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Análisis de la sostenibilidad y resiliencia de explotaciones ganaderas de ovino de leche (oveja Latxa) manejadas en régimen extensivo, mediante una aproximación multidisciplinar, incluyendo indicadores ecológicos (biodiversidad, compactación del suelo), ambientales (emisión de gases efecto invernadero, secuestro de carbono), económicos, sociales y nutricionales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Análisis integrado de la resiliencia forestal a perturbaciones climáticas: gestión para la adaptación al cambio climático y mantenimiento de servicios ecosistémicos. Más concretamente, se evalúa la capacidad de resiliencia forestal de especies dominantes de amplia distribución e importancia económica (Fagus sylvatica) y especies localmente amenazadas de distribución restringida y alto valor cultural y ecológico (Taxus baccata).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;p style = &#34;font-family:&#39;Brush Script MT&#39;, cursive; line-height: 200%&#34;&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:blue&#34;&gt;Biodiversidad&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:red&#34;&gt;Cambio climático&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:brown&#34;&gt;Cereales&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:orange&#34;&gt;Gestión de ecosistemas&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:green&#34;&gt;Interacción suelo-planta-herbívoro&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:pink&#34;&gt;Resiliencia forestal&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:purple&#34;&gt;Simbiosis legumbre-rhizobium&lt;/span&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

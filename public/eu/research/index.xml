@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research lines &amp; goals | Fisioclima</title>
+    <link>/eu/research/</link>
+      <atom:link href="/eu/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research lines &amp; goals</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Research lines &amp; goals</title>
+      <link>/eu/research/</link>
+    </image>
+    
+    <item>
+      <title>Ikerketa-lerro nagusiak eta helburuak</title>
+      <link>/eu/research/research/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/eu/research/research/</guid>
+      <description>&lt;body style=&#34;text-align:justify&#34;&gt;
+&lt;p&gt;**1. Lerroa: Ingurumen-estresek nekazaritza-intereseko espezieetan duten eragina identifikatzea eta estrategiak, hobekuntza-prozesuak eta nekazaritza-intereseko espezieen ekoizpen iraunkorreko irtenbideak bilatzea, elikagaien segurtasuna bermatzeko (elikagaien eskuragarritasunaren eta kontsumitzailearentzako segurtasunaren ikuspegitik), etorkizunerako proiektatutako klima-baldintzei aurre egiteko. **&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa dutenak laboreak erabiltzea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Lerroa: Agro-biodibertsitatea kontserbatzeko eta landa-ingurunearen iraunkortasuna bermatezeko estrategiak bilatzea eta diseinatzea, ekoizpen ekologikorako trantsizioaren bidez, eta nekazaritza zein abeltzaintza ustiategien eta landa-paisaiaren baliabide naturalen (belarkien eta baso-baliabideen) erresilientzia aztertuz.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Biodibertsitatearen, lurzoruaren kalitatearen eta hauek laboreen ekoizpen iraunkorrarekin eta lehortearekiko tolerantziarekin duten elkarrekintza aztertzea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Laborantza-sistemek (ekologikoa/konbentzionala) eta haien biodibertsitateak laboreen ekoizpenean, kalitatean eta lehortearekiko tolerantzian duten eragina ebaluatzea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Estentsiboki maneiatutako esnetarako ardien (Latxa ardia) ustiategien iraunkortasuna eta erresilientzia aztertzea, hurbilketa multidisziplinarra erabiliz, adierazle ekologikoak (biodibertsitatea, lurzoruaren trinkotzea), ingurumenekoak (berotegi-efektuko gasen emisioa, karbono-bahiketa), ekonomikoak, sozialak eta nutrizionalak uztartuz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Klima-asalduren aurrean basoek duten erresilientzia modu integratuan aztertzea, klima-aldaketara egokitzeko eta zerbitzu ekosistemikoak mantentzeko kudeaketa garatzeko helburuarekin. Horretarako, banaketa zabaleko eta garrantzi ekonomiko handiko pagoa (Fagus sylvatica) eta banaketa mugatuko eta balio kultural eta ekologiko handiko espezie mehatxatuen den hagina (Taxus baccata) modelo hartuta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+&lt;/body&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;p style = &#34;font-family:&#39;Brush Script MT&#39;, cursive; line-height: 200%&#34;&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:pink&#34;&gt;Baso erresilientzia&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:blue&#34;&gt;Biodibertsitatea&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:orange&#34;&gt;Ekosistemen kudeaketa&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:red&#34;&gt;Klima-aldaketa&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:purple&#34;&gt; Lekale-Rhizobium interakzioa&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:green&#34;&gt;Lurzoru-Landare-Belarjale interakzioa&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:brown&#34;&gt;Zerealak&lt;/span&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Odriozola | Fisioclima</title>
+    <link>/eu/author/i.-odriozola/</link>
+      <atom:link href="/eu/author/i.-odriozola/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Odriozola</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>I. Odriozola</title>
+      <link>/eu/author/i.-odriozola/</link>
+    </image>
+    
+    <item>
+      <title>Sediment Respiration Pulses in Intermittent Rivers and Ephemeral Streams</title>
+      <link>/eu/publication/2019-01-01_sediment_respiration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2019-01-01_sediment_respiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of species relatedness created by competitive exclusion depend on species niche differences: Evidence from Iberian Atlantic grasslands</title>
+      <link>/eu/publication/2017-01-01_patterns_of_species_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_patterns_of_species_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

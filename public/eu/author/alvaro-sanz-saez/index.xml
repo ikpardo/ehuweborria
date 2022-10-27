@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alvaro Sanz-Saez | Fisioclima</title>
+    <link>/eu/author/alvaro-sanz-saez/</link>
+      <atom:link href="/eu/author/alvaro-sanz-saez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alvaro Sanz-Saez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Alvaro Sanz-Saez</title>
+      <link>/eu/author/alvaro-sanz-saez/</link>
+    </image>
+    
+    <item>
+      <title>LabelStoma: A tool for stomata detection based on the YOLO algorithm</title>
+      <link>/eu/publication/2020-01-01_labelstoma_a_tool_fo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_labelstoma_a_tool_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of elevated CO2 and drought on yield and quality traits of a historical (Blanqueta) and a modern (Sula) durum wheat</title>
+      <link>/eu/publication/2019-01-01_impact_of_elevated_c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2019-01-01_impact_of_elevated_c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon Isotope Ratio Fractionation among Plant Tissues of Soybean</title>
+      <link>/eu/publication/2018-01-01_carbon_isotope_ratio/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2018-01-01_carbon_isotope_ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf and canopy scale drivers of genotypic variation in soybean response to elevated carbon dioxide concentration</title>
+      <link>/eu/publication/2017-01-01_leaf_and_canopy_scal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_leaf_and_canopy_scal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

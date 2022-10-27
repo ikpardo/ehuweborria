@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angela Casado-Garcia | Fisioclima</title>
+    <link>/eu/author/angela-casado-garcia/</link>
+      <atom:link href="/eu/author/angela-casado-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angela Casado-Garcia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Angela Casado-Garcia</title>
+      <link>/eu/author/angela-casado-garcia/</link>
+    </image>
+    
+    <item>
+      <title>LabelStoma: A tool for stomata detection based on the YOLO algorithm</title>
+      <link>/eu/publication/2020-01-01_labelstoma_a_tool_fo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_labelstoma_a_tool_fo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

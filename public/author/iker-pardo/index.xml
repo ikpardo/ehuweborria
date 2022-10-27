@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iker Pardo | Fisioclima</title>
+    <link>/author/iker-pardo/</link>
+      <atom:link href="/author/iker-pardo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iker Pardo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Iker Pardo</title>
+      <link>/author/iker-pardo/</link>
+    </image>
+    
+    <item>
+      <title>Gps Telemetry and Home Range of the White-Backed Woodpecker Dendrocopos leucotos: Results of the First Experience</title>
+      <link>/publication/2020-01-01_gps_telemetry_and_ho/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_gps_telemetry_and_ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchrony matters more than species richness in plant community stability at a global scale</title>
+      <link>/publication/2020-01-01_synchrony_matters_mo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_synchrony_matters_mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the long-term dynamics of plant diversity in Northeast Spain with a network of volunteers and rangers</title>
+      <link>/publication/2018-01-01_tracking_the_long-te/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_tracking_the_long-te/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

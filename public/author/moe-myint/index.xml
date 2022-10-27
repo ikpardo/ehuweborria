@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moe Myint | Fisioclima</title>
+    <link>/author/moe-myint/</link>
+      <atom:link href="/author/moe-myint/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moe Myint</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Moe Myint</title>
+      <link>/author/moe-myint/</link>
+    </image>
+    
+    <item>
+      <title>Climate reverses directionality in the richness–abundance relationship across the World’s main forest biomes</title>
+      <link>/publication/2020-01-01_climate_reverses_dir/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_climate_reverses_dir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

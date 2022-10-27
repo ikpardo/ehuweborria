@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maite Lacuesta | Fisioclima</title>
+    <link>/es/author/maite-lacuesta/</link>
+      <atom:link href="/es/author/maite-lacuesta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maite Lacuesta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Maite Lacuesta</title>
+      <link>/es/author/maite-lacuesta/</link>
+    </image>
+    
+    <item>
+      <title>A physiological approach to study the competition ability of the grassland species Trifolium pratense and Agrostis capillaris</title>
+      <link>/es/publication/2020-01-01_a_physiological_appr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2020-01-01_a_physiological_appr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between 1-aminocyclopropane-1-carboxylic acid, γ-aminobutyrate and D-glucose in the regulation of high nitrate-induced root growth inhibition in maize</title>
+      <link>/es/publication/2020-01-01_interplay_between_1-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2020-01-01_interplay_between_1-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LabelStoma: A tool for stomata detection based on the YOLO algorithm</title>
+      <link>/es/publication/2020-01-01_labelstoma_a_tool_fo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2020-01-01_labelstoma_a_tool_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of phenolic compounds is increased in lettuce grown under high light intensity and elevated CO2</title>
+      <link>/es/publication/2018-01-01_concentration_of_phe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_concentration_of_phe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interaction between drought and elevated CO2 in water relations in two grassland species is species-specific</title>
+      <link>/es/publication/2018-01-01_the_interaction_betw/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_the_interaction_betw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The trans and cis zeatin isomers play different roles in regulating growth inhibition induced by high nitrate concentrations in maize</title>
+      <link>/es/publication/2018-01-01_the_trans_and_cis_ze/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_the_trans_and_cis_ze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The imbalance between C and N metabolism during high nitrate supply inhibits photosynthesis and overall growth in maize (Zea mays L.)</title>
+      <link>/es/publication/2017-01-01_the_imbalance_betwee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2017-01-01_the_imbalance_betwee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

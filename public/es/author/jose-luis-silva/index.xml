@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose Luis Silva | Fisioclima</title>
+    <link>/es/author/jose-luis-silva/</link>
+      <atom:link href="/es/author/jose-luis-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose Luis Silva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Jose Luis Silva</title>
+      <link>/es/author/jose-luis-silva/</link>
+    </image>
+    
+    <item>
+      <title>Tracking the long-term dynamics of plant diversity in Northeast Spain with a network of volunteers and rangers</title>
+      <link>/es/publication/2018-01-01_tracking_the_long-te/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_tracking_the_long-te/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

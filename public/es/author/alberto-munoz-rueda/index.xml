@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Munoz-Rueda | Fisioclima</title>
+    <link>/es/author/alberto-munoz-rueda/</link>
+      <atom:link href="/es/author/alberto-munoz-rueda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Munoz-Rueda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Alberto Munoz-Rueda</title>
+      <link>/es/author/alberto-munoz-rueda/</link>
+    </image>
+    
+    <item>
+      <title>A physiological approach to study the competition ability of the grassland species Trifolium pratense and Agrostis capillaris</title>
+      <link>/es/publication/2020-01-01_a_physiological_appr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2020-01-01_a_physiological_appr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LabelStoma: A tool for stomata detection based on the YOLO algorithm</title>
+      <link>/es/publication/2020-01-01_labelstoma_a_tool_fo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2020-01-01_labelstoma_a_tool_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of phenolic compounds is increased in lettuce grown under high light intensity and elevated CO2</title>
+      <link>/es/publication/2018-01-01_concentration_of_phe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_concentration_of_phe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interaction between drought and elevated CO2 in water relations in two grassland species is species-specific</title>
+      <link>/es/publication/2018-01-01_the_interaction_betw/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_the_interaction_betw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevated CO2 and salinity are responsible for phenolics-enrichment in two differently pigmented lettuces</title>
+      <link>/es/publication/2017-01-01_elevated_co2_and_sal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2017-01-01_elevated_co2_and_sal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The imbalance between C and N metabolism during high nitrate supply inhibits photosynthesis and overall growth in maize (Zea mays L.)</title>
+      <link>/es/publication/2017-01-01_the_imbalance_betwee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2017-01-01_the_imbalance_betwee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruben Lopez-Mondejar | Fisioclima</title>
+    <link>/author/ruben-lopez-mondejar/</link>
+      <atom:link href="/author/ruben-lopez-mondejar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruben Lopez-Mondejar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Ruben Lopez-Mondejar</title>
+      <link>/author/ruben-lopez-mondejar/</link>
+    </image>
+    
+    <item>
+      <title>Environmentally relevant concentrations of silver nanoparticles diminish soil microbial biomass but do not alter enzyme activities or microbial diversity</title>
+      <link>/publication/2020-01-01_environmentally_rele/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_environmentally_rele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies</title>
+      <link>/publication/2020-01-01_globalfungi_a_globa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_globalfungi_a_globa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

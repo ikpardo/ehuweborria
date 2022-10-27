@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ondrej Novak | Fisioclima</title>
+    <link>/author/ondrej-novak/</link>
+      <atom:link href="/author/ondrej-novak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ondrej Novak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Ondrej Novak</title>
+      <link>/author/ondrej-novak/</link>
+    </image>
+    
+    <item>
+      <title>The trans and cis zeatin isomers play different roles in regulating growth inhibition induced by high nitrate concentrations in maize</title>
+      <link>/publication/2018-01-01_the_trans_and_cis_ze/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_the_trans_and_cis_ze/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

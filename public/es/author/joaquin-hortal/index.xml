@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joaquin Hortal | Fisioclima</title>
+    <link>/es/author/joaquin-hortal/</link>
+      <atom:link href="/es/author/joaquin-hortal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joaquin Hortal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Joaquin Hortal</title>
+      <link>/es/author/joaquin-hortal/</link>
+    </image>
+    
+    <item>
+      <title>Uneven abundances determine nestedness in climbing plant-host interaction networks</title>
+      <link>/es/publication/2017-01-01_uneven_abundances_de/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2017-01-01_uneven_abundances_de/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

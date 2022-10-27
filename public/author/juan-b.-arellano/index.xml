@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan B. Arellano | Fisioclima</title>
+    <link>/author/juan-b.-arellano/</link>
+      <atom:link href="/author/juan-b.-arellano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan B. Arellano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Juan B. Arellano</title>
+      <link>/author/juan-b.-arellano/</link>
+    </image>
+    
+    <item>
+      <title>Emissive Enhancement of the Singlet Oxygen Chemiluminescence Probe after Binding to Bovine Serum Albumin</title>
+      <link>/publication/2019-01-01_emissive_enhancement/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_emissive_enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surfing the Hyperbola Equations of the Steady-State Farquhar–von Caemmerer–Berry C3 Leaf Photosynthesis Model: What Can a Theoretical Analysis of Their Oblique Asymptotes and Transition Points Tell Us?</title>
+      <link>/publication/2019-01-01_surfing_the_hyperbol/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_surfing_the_hyperbol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

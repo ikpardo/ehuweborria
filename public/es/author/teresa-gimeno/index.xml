@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teresa Gimeno | Fisioclima</title>
+    <link>/es/author/teresa-gimeno/</link>
+      <atom:link href="/es/author/teresa-gimeno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teresa Gimeno</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Teresa Gimeno</title>
+      <link>/es/author/teresa-gimeno/</link>
+    </image>
+    
+    <item>
+      <title>Aplicación de la composición isotópica de carbono del floema para resolver discrepancias entre estimas de eficiencia del uso del agua en escenarios de cambio climático (PHLISCO) (2020-2023)</title>
+      <link>/es/project/2020-2023_phlisco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/project/2020-2023_phlisco/</guid>
+      <description>&lt;p&gt;El intercambio de carbono y agua entre la vegetación terrestre y la atmósfera es clave para la regulación del clima a nivel global. La eficiencia del uso del agua (WUE por sus siglas en inglés) es el rasgo que describe el vínculo que existe entre los ciclos terrestres del agua y el carbono. WUE constituye un parámetro fundamental dentro de los modelos dinámicos de la vegetación para predecir el impacto del clima en el funcionamiento de la vegetación y vice-versa. El parámetro WUE se puede estimar empleando distintas aproximaciones experimentales o metodologías, a cada una de las cuales se aplica una distinta escala espacial y temporal. Las comparaciones empíricas de las estimas de WUE muestran importantes fuentes de desacuerdo entre distintas estimas, pero no son capaces de revelar las causas que las subyacen. Dos de las aproximaciones más utilizadas para medir WUE consisten en medir la relación entre la tasa de fotosíntesis y conductancia estomática, mediante medidas de intercambio gaseoso a distintas escalas y la medida de la composición isotópica del carbono (d13C) de los tejidos vegetales. Esta última aproximación se basa el principio de que la composición isotópica de la materia vegetal es el resultado de la discriminación isotópica que ocurre durante la difusión a través de los estomas y durante la fijación de carbono por la enzima Rubisco. La inmensa mayoría de este tipo de estudios se centra en el análisis del d13C de las hojas y la madera, a pesar de que éstos reflejan el estatus fisiológico de la planta integrado a lo largo de la ontogenia de estos órganos. Además, en árboles altos, existe una gran variabilidad en el d13C entre hojas de distintas capas del dosel y por tanto las medidas individuales no pueden capturar la variabilidad experimentada a nivel de árbol entero. El análisis de d13C del floema constituye una alternativa muy prometedora, puesto que la señal del floema debería integrar la totalidad del dosel. Sin embargo, incluso las estimas de WUE a partir de d13C del floema son menores que las calculadas a partir de medidas de intercambio gaseoso. Esto es debido fundamentalmente a que en los cálculos de WUE a partir de d13C se obvia la resistencia del interior de la hoja, en el mesófilo. La conductancia del mesófilo (gm) es un carácter que varía entre grupos funcionales y en árboles también dentro de individuos. Aún más importante, gm es sensible a los motores de cambio climático, como el aumento del déficit de la presión de vapor y de la concentración de CO2 en la atmósfera. Estudios anteriores han mostrado que obviar la resistencia de gm en los cálculos de WUE a partir de d13C introduce un error de cálculo que aumenta con el estrés hídrico. Estos mismos estudios muestran que incluso después de incorporar el efecto de gm, existen discrepancias entre estimas de WUE y que los procesos de fraccionamiento post-fotosintético serían los causantes más probables de estas discrepancias. El objetivo de este proyecto es desarrollar una nueva aproximación experimental para reconciliar estimas de WUE de distintas metodologías y escalas temporales y espaciales poniendo especial énfasis en el uso del d13C del floema. En este proyecto utilizaremos el haya (Fagus sylvatica) como especie modelo. En el proyecto combinaremos una aproximación experimental con medidas en campo y en experimentos en condiciones controladas, con un ejercicio de modelización. En las distintas tareas caracterizaremos gm y WUE a partir de distintas metodologías.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

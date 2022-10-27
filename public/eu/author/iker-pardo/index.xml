@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iker Pardo | Fisioclima</title>
+    <link>/eu/author/iker-pardo/</link>
+      <atom:link href="/eu/author/iker-pardo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iker Pardo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language>
+    <image>
+      <url>/eu/author/iker-pardo/avatar_hu9b4597404a25c7d3568c823e5d779ec6_1047904_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Iker Pardo</title>
+      <link>/eu/author/iker-pardo/</link>
+    </image>
+    
+  </channel>
+</rss>

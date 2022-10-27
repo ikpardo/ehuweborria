@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inaki Odriozola | Fisioclima</title>
+    <link>/author/inaki-odriozola/</link>
+      <atom:link href="/author/inaki-odriozola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inaki Odriozola</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Inaki Odriozola</title>
+      <link>/author/inaki-odriozola/</link>
+    </image>
+    
+    <item>
+      <title>Environmentally relevant concentrations of silver nanoparticles diminish soil microbial biomass but do not alter enzyme activities or microbial diversity</title>
+      <link>/publication/2020-01-01_environmentally_rele/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_environmentally_rele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies</title>
+      <link>/publication/2020-01-01_globalfungi_a_globa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_globalfungi_a_globa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stand age affects fungal community composition in a Central European temperate forest</title>
+      <link>/publication/2020-01-01_stand_age_affects_fu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_stand_age_affects_fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termites are associated with external species-specific bacterial communities</title>
+      <link>/publication/2020-01-01_termites_are_associa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_termites_are_associa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grazing Abandonment Delays the Effect of Temperature on Aboveground Net Primary Production in Atlantic Grasslands☆</title>
+      <link>/publication/2019-01-01_grazing_abandonment_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_grazing_abandonment_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation in the Climate Sensitivity Dependent on Neighbourhood Composition in a Secondary Mixed Forest</title>
+      <link>/publication/2018-01-01_variation_in_the_cli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_variation_in_the_cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grazing exclusion unleashes competitive plant responses in Iberian Atlantic mountain grasslands</title>
+      <link>/publication/2017-01-01_grazing_exclusion_un/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_grazing_exclusion_un/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

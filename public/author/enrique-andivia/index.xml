@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrique Andivia | Fisioclima</title>
+    <link>/author/enrique-andivia/</link>
+      <atom:link href="/author/enrique-andivia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enrique Andivia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Enrique Andivia</title>
+      <link>/author/enrique-andivia/</link>
+    </image>
+    
+    <item>
+      <title>Are pine-oak mixed stands in Mediterranean mountains more resilient to drought than their monospecific counterparts?</title>
+      <link>/publication/2021-01-01_are-pine-oak-mixed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_are-pine-oak-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive associations among rare species and their persistence in ecological assemblages</title>
+      <link>/publication/2020-01-01_positive_association/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_positive_association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest productivity in southwestern Europe is controlled by coupled North Atlantic and Atlantic Multidecadal Oscillations</title>
+      <link>/publication/2017-01-01_forest_productivity_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_forest_productivity_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

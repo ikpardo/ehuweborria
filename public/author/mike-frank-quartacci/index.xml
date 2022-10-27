@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Frank Quartacci | Fisioclima</title>
+    <link>/author/mike-frank-quartacci/</link>
+      <atom:link href="/author/mike-frank-quartacci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mike Frank Quartacci</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Mike Frank Quartacci</title>
+      <link>/author/mike-frank-quartacci/</link>
+    </image>
+    
+    <item>
+      <title>Concentration of phenolic compounds is increased in lettuce grown under high light intensity and elevated CO2</title>
+      <link>/publication/2018-01-01_concentration_of_phe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_concentration_of_phe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevated CO2 and salinity are responsible for phenolics-enrichment in two differently pigmented lettuces</title>
+      <link>/publication/2017-01-01_elevated_co2_and_sal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_elevated_co2_and_sal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

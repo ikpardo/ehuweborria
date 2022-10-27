@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amaia Mena-Petite | Fisioclima</title>
+    <link>/eu/author/amaia-mena-petite/</link>
+      <atom:link href="/eu/author/amaia-mena-petite/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amaia Mena-Petite</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Amaia Mena-Petite</title>
+      <link>/eu/author/amaia-mena-petite/</link>
+    </image>
+    
+    <item>
+      <title>A physiological approach to study the competition ability of the grassland species Trifolium pratense and Agrostis capillaris</title>
+      <link>/eu/publication/2020-01-01_a_physiological_appr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_a_physiological_appr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of phenolic compounds is increased in lettuce grown under high light intensity and elevated CO2</title>
+      <link>/eu/publication/2018-01-01_concentration_of_phe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2018-01-01_concentration_of_phe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interaction between drought and elevated CO2 in water relations in two grassland species is species-specific</title>
+      <link>/eu/publication/2018-01-01_the_interaction_betw/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2018-01-01_the_interaction_betw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevated CO2 and salinity are responsible for phenolics-enrichment in two differently pigmented lettuces</title>
+      <link>/eu/publication/2017-01-01_elevated_co2_and_sal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_elevated_co2_and_sal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

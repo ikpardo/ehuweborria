@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenka Meszarosova | Fisioclima</title>
+    <link>/author/lenka-meszarosova/</link>
+      <atom:link href="/author/lenka-meszarosova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lenka Meszarosova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Lenka Meszarosova</title>
+      <link>/author/lenka-meszarosova/</link>
+    </image>
+    
+    <item>
+      <title>GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies</title>
+      <link>/publication/2020-01-01_globalfungi_a_globa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_globalfungi_a_globa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

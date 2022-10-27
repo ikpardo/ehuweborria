@@ -28,7 +28,7 @@
  
 [[main]]
   name = "Docencia"
-  url = "teaching/#courses"
+  url = "teaching/index"
   weight = 5
   
 [[main]]

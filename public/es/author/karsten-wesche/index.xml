@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karsten Wesche | Fisioclima</title>
+    <link>/es/author/karsten-wesche/</link>
+      <atom:link href="/es/author/karsten-wesche/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karsten Wesche</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Karsten Wesche</title>
+      <link>/es/author/karsten-wesche/</link>
+    </image>
+    
+    <item>
+      <title>Synchrony matters more than species richness in plant community stability at a global scale</title>
+      <link>/es/publication/2020-01-01_synchrony_matters_mo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2020-01-01_synchrony_matters_mo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

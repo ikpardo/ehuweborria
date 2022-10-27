@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix B. Fritschi | Fisioclima</title>
+    <link>/author/felix-b.-fritschi/</link>
+      <atom:link href="/author/felix-b.-fritschi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felix B. Fritschi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Felix B. Fritschi</title>
+      <link>/author/felix-b.-fritschi/</link>
+    </image>
+    
+    <item>
+      <title>LabelStoma: A tool for stomata detection based on the YOLO algorithm</title>
+      <link>/publication/2020-01-01_labelstoma_a_tool_fo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_labelstoma_a_tool_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon Isotope Ratio Fractionation among Plant Tissues of Soybean</title>
+      <link>/publication/2018-01-01_carbon_isotope_ratio/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_carbon_isotope_ratio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

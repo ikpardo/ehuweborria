@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenka Michalcikova | Fisioclima</title>
+    <link>/eu/author/lenka-michalcikova/</link>
+      <atom:link href="/eu/author/lenka-michalcikova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lenka Michalcikova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Lenka Michalcikova</title>
+      <link>/eu/author/lenka-michalcikova/</link>
+    </image>
+    
+    <item>
+      <title>GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies</title>
+      <link>/eu/publication/2020-01-01_globalfungi_a_globa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_globalfungi_a_globa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

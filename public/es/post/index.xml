@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Fisioclima</title>
+    <link>/es/post/</link>
+      <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>/es/post/</link>
+    </image>
+    
+    <item>
+      <title>Nuevo proyecto sobre los sistemas agrarios de Alto Valor Natural</title>
+      <link>/es/post/2021-04-22/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/es/post/2021-04-22/</guid>
+      <description>&lt;p&gt;Hoy comenzamos de manera oficial el estudio para la actualización del indicador de los Sistemas agrarios de Alto Valor Natural (AVN) en Navarra. Este trabajo encargado por el Gobierno de Navarra lo vamos a realizar bajo la supervisión del personal de la empresa pública &lt;a href=&#34;https://gan-nik.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GAN-NIK&lt;/a&gt;, que cuenta con una amplia experiencia en el tema.&lt;/p&gt;
+&lt;p&gt;Pero, ¿qué significa el AVN? Es un concepto desarrollado a nivel europeo para unir la conservación de la biodiversidad y la estructura de paisaje al mantenimiento de explotaciones agrícolas y ganaderas y el mantenimiento de ciertos sistemas específicos (principalmente extensivos).&lt;/p&gt;
+&lt;p&gt;El indicador de AVN ya ha sido medido en el territorio Navarro en años anteriores (2008 y &lt;a href=&#34;https://www.navarra.es/NR/rdonlyres/86815038-FE6D-404A-9A29-3C27FCCBF013/371833/SistemasdeAltoValorNaturalenNavarra2013.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2013&lt;/a&gt;), por lo que la obtención de un tercer registro va a poder permitir comenzar a explorar las transiciones observadas en la última década.&lt;/p&gt;
+&lt;p&gt;ref &amp;ldquo;/content/en/research/research.md&amp;rdquo; &amp;gt;}}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acabanto la web!</title>
+      <link>/es/post/2021-03-19/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/es/post/2021-03-19/</guid>
+      <description>&lt;p&gt;La web está ya a punto, no olvidéis mandar vuestras contribuciones antes del &lt;strong&gt;30 de marzo&lt;/strong&gt;.
+Asimismo que toda sugerencia de mejora será bienvenida hasta esa fecha.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

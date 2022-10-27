@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel A. Zavala | Fisioclima</title>
+    <link>/eu/author/miguel-a.-zavala/</link>
+      <atom:link href="/eu/author/miguel-a.-zavala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel A. Zavala</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Miguel A. Zavala</title>
+      <link>/eu/author/miguel-a.-zavala/</link>
+    </image>
+    
+    <item>
+      <title>Climate reverses directionality in the richness–abundance relationship across the World’s main forest biomes</title>
+      <link>/eu/publication/2020-01-01_climate_reverses_dir/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_climate_reverses_dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest productivity in southwestern Europe is controlled by coupled North Atlantic and Atlantic Multidecadal Oscillations</title>
+      <link>/eu/publication/2017-01-01_forest_productivity_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_forest_productivity_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience to drought in a dry forest: Insights from demographic rates</title>
+      <link>/eu/publication/2017-01-01_resilience_to_drough/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_resilience_to_drough/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

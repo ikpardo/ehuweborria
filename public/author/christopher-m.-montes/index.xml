@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher M. Montes | Fisioclima</title>
+    <link>/author/christopher-m.-montes/</link>
+      <atom:link href="/author/christopher-m.-montes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher M. Montes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Christopher M. Montes</title>
+      <link>/author/christopher-m.-montes/</link>
+    </image>
+    
+    <item>
+      <title>Leaf and canopy scale drivers of genotypic variation in soybean response to elevated carbon dioxide concentration</title>
+      <link>/publication/2017-01-01_leaf_and_canopy_scal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_leaf_and_canopy_scal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

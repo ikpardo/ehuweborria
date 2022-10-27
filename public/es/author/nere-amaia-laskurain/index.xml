@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nere Amaia Laskurain | Fisioclima</title>
+    <link>/es/author/nere-amaia-laskurain/</link>
+      <atom:link href="/es/author/nere-amaia-laskurain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nere Amaia Laskurain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Nere Amaia Laskurain</title>
+      <link>/es/author/nere-amaia-laskurain/</link>
+    </image>
+    
+    <item>
+      <title>Variation in the Climate Sensitivity Dependent on Neighbourhood Composition in a Secondary Mixed Forest</title>
+      <link>/es/publication/2018-01-01_variation_in_the_cli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2018-01-01_variation_in_the_cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grazing exclusion unleashes competitive plant responses in Iberian Atlantic mountain grasslands</title>
+      <link>/es/publication/2017-01-01_grazing_exclusion_un/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2017-01-01_grazing_exclusion_un/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

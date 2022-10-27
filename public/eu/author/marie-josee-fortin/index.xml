@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie-Josee Fortin | Fisioclima</title>
+    <link>/eu/author/marie-josee-fortin/</link>
+      <atom:link href="/eu/author/marie-josee-fortin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marie-Josee Fortin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Marie-Josee Fortin</title>
+      <link>/eu/author/marie-josee-fortin/</link>
+    </image>
+    
+    <item>
+      <title>Grazing exclusion unleashes competitive plant responses in Iberian Atlantic mountain grasslands</title>
+      <link>/eu/publication/2017-01-01_grazing_exclusion_un/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2017-01-01_grazing_exclusion_un/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

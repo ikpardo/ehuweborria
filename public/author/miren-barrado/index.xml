@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miren Barrado | Fisioclima</title>
+    <link>/author/miren-barrado/</link>
+      <atom:link href="/author/miren-barrado/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miren Barrado</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Miren Barrado</title>
+      <link>/author/miren-barrado/</link>
+    </image>
+    
+    <item>
+      <title>Testing wastewater treatment plant effluent effects on microbial and detritivore performance: A combined field and laboratory experiment</title>
+      <link>/publication/2018-01-01_testing_wastewater_t/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_testing_wastewater_t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

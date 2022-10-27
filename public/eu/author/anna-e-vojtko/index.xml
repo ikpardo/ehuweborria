@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna E-Vojtko | Fisioclima</title>
+    <link>/eu/author/anna-e-vojtko/</link>
+      <atom:link href="/eu/author/anna-e-vojtko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna E-Vojtko</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>eu</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Anna E-Vojtko</title>
+      <link>/eu/author/anna-e-vojtko/</link>
+    </image>
+    
+    <item>
+      <title>Synchrony matters more than species richness in plant community stability at a global scale</title>
+      <link>/eu/publication/2020-01-01_synchrony_matters_mo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/eu/publication/2020-01-01_synchrony_matters_mo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

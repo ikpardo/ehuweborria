@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research lines &amp; goals | Fisioclima</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research lines &amp; goals</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Research lines &amp; goals</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>Research lines &amp; aims</title>
+      <link>/research/research/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/research/research/</guid>
+      <description>&lt;body style=&#34;text-align:justify&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Line 1: Assessement of the impact of environmental stresses on plant species of agricultural value and search for strategies, enhancement processes and sustainable production solutions for agricultural species that guarantee food security in the face of projected climatic conditions.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reduction of the nitrogen fertilizer input through symbiosis in highly efficient legumes under drought conditions and optimisation of nitrate input in other crops of interest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Development of alternative crops with greater adaptation ability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Search for biochemical and molecular markers of drought tolerance, and their implementation in food species.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understanding the mechanisms of salinity tolerance of halophyte plants to use saline or poor quality soils as arable soil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluation of the environmental factors that trigger the generation of mycotoxins of the fungus Alternaria alternata in different plant species.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improvement of physiological and sanitary states of plants through the use of biostimulants (alternative products to synthetic phytosanitar).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Line 2: Research and design of strategies for agro-diversity conservation and sustainability of the rural environment, through the transition to organic production, and the resilience analysis of agro-livestock farm and associated natural resources (herbaceous and forest).&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Analysis of biodiversity, soil quality and their interaction with sustainable crop production and drought tolerance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluation of the influence of agricultural systems (organic/conventional) and their biodiversity on crop production, quality and drought tolerance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analysis of the sustainability and resilience of extensively managed dairy sheep farms (Latxa sheep) by using a multidisciplinary approach, including ecological (biodiversity, soil compaction), environmental (greenhouse gas emissions, carbon sequestration), economic, social and nutritional indicators.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated analysis of forest resilience to climate perturbations: management for adaptation to climate change and maintenance of ecosystem services. Two model species are used to this aim: the widely distributed and economically relevant beech (Fagus sylvatica) and the locally threatened and high cultural and ecological value yew (Taxus baccata).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;p style = &#34;font-family:&#39;Brush Script MT&#39;, cursive; line-height: 200%&#34;&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:blue&#34;&gt;Biodiversity&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:brown&#34;&gt;Cereals&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:red&#34;&gt;Climate change&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:orange&#34;&gt;Ecosystem management&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:pink&#34;&gt;Forest resilience&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:purple&#34;&gt;Legume-Rhizobium symbiosis&lt;/span&gt;
+&lt;span style=&#34;color:white; border-radius: 4px; padding: 3px; background-color:green&#34;&gt;Soil-Plant-Herbivore interaction&lt;/span&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

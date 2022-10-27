@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco J. Muñoz-Galvez | Fisioclima</title>
+    <link>/author/francisco-j.-mu%C3%B1oz-galvez/</link>
+      <atom:link href="/author/francisco-j.-mu%C3%B1oz-galvez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco J. Muñoz-Galvez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Francisco J. Muñoz-Galvez</title>
+      <link>/author/francisco-j.-mu%C3%B1oz-galvez/</link>
+    </image>
+    
+    <item>
+      <title>Are pine-oak mixed stands in Mediterranean mountains more resilient to drought than their monospecific counterparts?</title>
+      <link>/publication/2021-01-01_are-pine-oak-mixed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_are-pine-oak-mixed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

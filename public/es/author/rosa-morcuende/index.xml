@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosa Morcuende | Fisioclima</title>
+    <link>/es/author/rosa-morcuende/</link>
+      <atom:link href="/es/author/rosa-morcuende/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rosa Morcuende</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu3fcfe40a2b605561f55cc8be1a2377c0_94697_300x300_fit_lanczos_2.png</url>
+      <title>Rosa Morcuende</title>
+      <link>/es/author/rosa-morcuende/</link>
+    </image>
+    
+    <item>
+      <title>Surfing the Hyperbola Equations of the Steady-State Farquhar–von Caemmerer–Berry C3 Leaf Photosynthesis Model: What Can a Theoretical Analysis of Their Oblique Asymptotes and Transition Points Tell Us?</title>
+      <link>/es/publication/2019-01-01_surfing_the_hyperbol/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/es/publication/2019-01-01_surfing_the_hyperbol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
