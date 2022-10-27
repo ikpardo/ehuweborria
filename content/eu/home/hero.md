@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Fisioclima"
+title = "FisioKlima-AgroSosT"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "logoa.png"
@@ -34,7 +34,7 @@ title = "Fisioclima"
   text_color_light = true
 +++
 
-Fisiclima Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1022-16) da.
+Fisiclima Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1682-22) da.
 
 Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemetan eragingo dituen ondorioak aztertzea da, sistema hauetan gaur egungo eta etorkizunean sortuko diren erronkei aurre egin ahal izateko. Horretarako hurbilketa multidiziplinarra erabiltzen dugu, ikerketa-sistemen alderdi ekologiko eta ekofisiologikoak uztartuz.
 

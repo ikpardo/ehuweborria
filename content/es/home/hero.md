@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Fisioclima"
+title = "FisioKlima-AgroSosT"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "logoa.png"
@@ -34,11 +34,11 @@ title = "Fisioclima"
   text_color_light = true
 +++
 
-Fisioclima es un grupo de investigación Consolidado (IT1022-16) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU).
+Somos un grupo de investigación Consolidado (IT1682-22) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU). 
 
-Nuestro objetivo principal es conocer el impacto que el cambio climático tendrá en los sistemas agro-pascícolas, avanzando en la búsqueda de soluciones para dar respuesta a las demandas, presentes y futuras, resultantes del proceso de cambio y transformación que vivimos. Para abordar este reto utilizamos una aproximación multidisciplinar, integrando aspectos ecológicos y ecofisiológicos de los sistemas de estudio. 
+Nuestro objetivo principal es conocer el impacto que el cambio climático tendrá en los sistemas agrícolas, pascícolas y forestales, avanzando en la búsqueda de soluciones para dar respuesta a las demandas, presentes y futuras, resultantes del proceso de cambio y transformación que vivimos. Para abordar este reto utilizamos una aproximación multidisciplinar, integrando aspectos ecológicos y ecofisiológicos de los sistemas de estudio. 
 
-Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de master y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
+Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de máster y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
 
 [Más info.]({{< ref "/content/es/research/research.md" >}} "Mostrar Líneas de investigación")
 
