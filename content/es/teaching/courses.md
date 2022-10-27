@@ -1,14 +1,14 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the courses based on an Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
-active: false
+active: true
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 1
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Courses'
@@ -24,13 +24,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
+# - certificate_url: https://www.coursera.org  # uncomment to link to a website
+- date_end: ""
   date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  description: "Degree subject"
+  organization: Alberto Muñoz-Rueda
+  # organization_url: https://www.coursera.org
+  title: Plant physiology
+  subtitle: Hola
+  url: ""
+- date_end: "2020-01-01"
+  date_start: "2020-01-01"
+  description: "Análisis de la respuesta a sequías extremas en rodales mixtos y monoespecíficos de Pinus sylvestris y Quercus pyrenaica en la Sierra de Guadarrama"
+  organization: Francisco Javier Muñoz Gálvez
+  # organization_url: https://www.coursera.org
+  title: Master thesis
+  subtitle: Hola
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""

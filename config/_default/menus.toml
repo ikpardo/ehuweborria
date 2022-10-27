@@ -27,8 +27,8 @@
   weight = 4
  
 [[main]]
-  name = "Courses"
-  url = "our_courses/#courses"
+  name = "Teaching"
+  url = "teaching/#courses"
   weight = 5
   
 [[main]]
