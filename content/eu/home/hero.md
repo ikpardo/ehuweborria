@@ -41,6 +41,4 @@ Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemeta
 Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
 formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
 
-[Info. gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikerketa-lerroak")
-
-{{% staticref "files/Poster.pdf" %}}Aurkepen-posterra{{% /staticref %}}
+[Informazio gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikerketa-lerroak")

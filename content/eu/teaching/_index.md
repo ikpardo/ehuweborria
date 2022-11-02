@@ -1,5 +1,5 @@
 ---
-title: Zuzendutako doktorego tesi, MAL eta GrAL  (azken 10 urteak)
+title: Zuzendutako tesiak eta lanak
 pager: ""
 show_breadcrumb: true
 

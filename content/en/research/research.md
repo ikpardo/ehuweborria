@@ -27,7 +27,7 @@ showFooter = false
 
 + Reduction of the nitrogen fertilizer input through symbiosis in highly efficient legumes under drought conditions and optimisation of nitrate input in other crops of interest.
 
-+ Development of alternative crops with greater adaptation ability. 
++ Search for alternative crops with greater adaptation ability to drought stress, compared to the traditional ones.
 
 + Search for biochemical and molecular markers of drought tolerance, and their implementation in food species.
 
@@ -55,12 +55,13 @@ showFooter = false
 
 <p style = "font-family:'Brush Script MT', cursive; line-height: 200%">
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Biodiversity</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cereals</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Climate change</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ecosystem management</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Forest resilience</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:grey">Forest resilience</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Legume-Rhizobium symbiosis</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:teal">Plant physiology</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Soil-Plant-Herbivore interaction</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Traditional vs. alternative crops</span>
 
 </p>
 

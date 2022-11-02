@@ -1,5 +1,5 @@
 ---
-title: Tesis, TFM y TFG supervisados (ult. 10 años)
+title: Tesis y trabajos supervisados
 summary: 
 date: 
 

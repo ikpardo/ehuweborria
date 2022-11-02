@@ -40,6 +40,4 @@ Nuestro objetivo principal es conocer el impacto que el cambio climático tendr�
 
 Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de máster y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
 
-[Más info.]({{< ref "/content/es/research/research.md" >}} "Líneas de investigación")
-
-{{% staticref "files/Poster.pdf" %}}Póster de presentación{{% /staticref %}}
+[Más información]({{< ref "/content/es/research/research.md" >}} "Líneas de investigación")

@@ -24,7 +24,7 @@ weight = 1
 
 + Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz.
 
-+ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa dutenak laboreak erabiltzea.
++ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa duten labore alternatiboak erabiltzea, labore tradizionalekiko alderatuz
 
 + Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea.
 
@@ -54,12 +54,13 @@ weight = 1
 ---
 
 <p style = "font-family:'Brush Script MT', cursive; line-height: 200%">
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Baso erresilientzia</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:gray">Baso erresilientzia</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Biodibertsitatea</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Ekosistemen kudeaketa</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Klima-aldaketa</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:purple"> Lekale-Rhizobium interakzioa</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:teal">Landareen fisiologia</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:purple"> Lekale-Rhizobium sinbiosia</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Lurzoru-Landare-Belarjale interakzioa</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Zerealak</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Labore tradizionalak vs. alternatiboak</span>
 
 </p>

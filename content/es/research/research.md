@@ -51,10 +51,11 @@ weight = 1
 <p style = "font-family:'Brush Script MT', cursive; line-height: 200%">
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:blue">Biodiversidad</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:red">Cambio climático</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cereales</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:brown">Cultivos tradicionales vs. alternativos</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:teal">Fisiología vegetal</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:orange">Gestión de ecosistemas</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:green">Interacción suelo-planta-herbívoro</span>
-<span style="color:white; border-radius: 4px; padding: 3px; background-color:pink">Resiliencia forestal</span>
+<span style="color:white; border-radius: 4px; padding: 3px; background-color:gray">Resiliencia forestal</span>
 <span style="color:white; border-radius: 4px; padding: 3px; background-color:purple">Simbiosis legumbre-rhizobium</span>
 
 </p>
