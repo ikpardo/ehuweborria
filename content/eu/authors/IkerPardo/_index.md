@@ -21,7 +21,7 @@ highlight_name: true
 
 interests:
  - Datu-analisiak
- - Biodibertsitatearen kontserbazioa y conservación
+ - Biodibertsitatearen kontserbazioa
  - Komunitate-ekologia
  - Espezie mehatxatuak
  - Eredu ekologikoak
