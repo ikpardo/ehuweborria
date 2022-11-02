@@ -9324,7 +9324,7 @@ html[dir="rtl"] body {
   color: rgba(255, 255, 255, 0.54); }
 
 .hero-title {
-  font-size: 8px;
+  font-size: 28px;
   margin-top: 0;
   line-height: 1;
   font-weight: bold; }
