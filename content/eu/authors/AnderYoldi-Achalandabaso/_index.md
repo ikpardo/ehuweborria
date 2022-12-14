@@ -2,6 +2,7 @@
 title: Ander Yoldi-Achalandabaso
 authors:
 - AnderYoldi-Achalandabaso
+weight: 1
 
 # education:
 # email: ""
@@ -18,12 +19,12 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
 
-role: Doktore-aurreko
+role: Doktorego ondoko ikertzailea
 
 social:
 
 user_groups: 
-  - Post-doc
+  - Doktorego ondoko ikertzaileak
 
 ---
 Ingurumen Zientzietan graduatua. Doktoregaia azkenengo urtean. Nire tesiak, klima aldaketak (CO2 altuak, tenperatura altuak eta lehorteak) garagar barietate baten bizi ziklo osoan zeharreko prozesu fisiologiko, biokimiko, molekular eta agronomikoetan dituen efektuak aztertzeak du helburu. Bereziki, hurrengo prozesuak aztertzen ditut:

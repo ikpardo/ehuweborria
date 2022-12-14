@@ -30,10 +30,17 @@
   url = "teaching"
   weight = 5
   
+#[[main]]
+#  name = "Galería"
+#  url = "gallery/#gallery"
+#  weight = 6
+
 [[main]]
-  name = "Galería"
-  url = "gallery/#gallery"
+  name = "Red de colaboración"
+  url = "network"
   weight = 6
+
+
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"

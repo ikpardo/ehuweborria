@@ -2,7 +2,7 @@
 title: Guillermo de Jesús Lopez
 authors:
 - Guillermo
-
+weight: 2
 # education:
 #   courses:
 
@@ -22,7 +22,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
   
-role: Pre-doc
+role: Doktoratu aurreko ikertzailea
 
 social:
 #- icon: orcid
@@ -33,7 +33,7 @@ social:
 #  link: https://www.researchgate.net/profile/Aitor_Agirresarobe
 
 user_groups: 
-  - Pre-doc
+  - Doktoratu aurreko ikertzaileak
 ---
 
 Klima-aldaketa globalak ekosistemen aniztasunari, egiturari eta haien funtzionamenduari nola eragiten dion dut aztergai. Ingurumen-kudeaketarako sentsoreen eta datu-baseen prozesamenduan oinarritutako landa-laneko esperientzia profesionala daukat, horretarako software espezializatua erabiliz. Halaber, baliabide naturalen erabileraren kudeatzailea naiz. Zehazki, giza jardueren eta klima-aldaketaren ondorioak minimizatzen dituzten kudeaketa-estrategien garapenean interesatuta nago.

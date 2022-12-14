@@ -2,6 +2,7 @@
 title: Nere Amaia Laskurain
 authors:
 - NereAmaiaLaskurain
+weight: 6
 
 highlight_name: true
 interests:
@@ -29,7 +30,7 @@ social:
   link: 'https://scholar.google.com/citations?user=xLmgB8YAAAAJ&hl=es'
 
 user_groups: 
-  - Principal Investigator
+  - Senior researchers
 
 ---
 

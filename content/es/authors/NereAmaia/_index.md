@@ -2,6 +2,7 @@
 title: Nere Amaia Laskurain
 authors:
 - NereAmaiaLaskurain
+weight: 7
 
 # education:
 #   courses:
@@ -41,7 +42,7 @@ social:
   link: https://scholar.google.com/citations?user=xLmgB8YAAAAJ&hl=es
 
 user_groups: 
-  - Investigador Principal 
+  - Personal investigador senior 
 
 ---
 

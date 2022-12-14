@@ -26,14 +26,23 @@
   weight = 4
   
 [[main]]
-  name = "Teaching"
+  name = "Training"
   url = "teaching"
   weight = 5
   
+#[[main]]
+#  name = "Gallery"
+#  url = "gallery/#gallery"
+#  weight = 6
+
 [[main]]
-  name = "Gallery"
-  url = "gallery/#gallery"
+  name = "Collaboration network"
+  url = "network"
   weight = 6
+
+
+
+
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"

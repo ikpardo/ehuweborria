@@ -2,6 +2,7 @@
 title: Guillermo de Jesús Lopez
 authors:
 - Guillermo
+weight: 2
 
 # education:
 #   courses:
@@ -22,7 +23,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Pre-doctoral fellow
+role: Doctorando
 
 social:
 #- icon: orcid
@@ -33,7 +34,7 @@ social:
 #  link: https://www.researchgate.net/profile/Aitor_Agirresarobe
 
 user_groups: 
-  - Pre-doc
+  - Pre-docs
 ---
 
 Interesado en cómo la diversidad, la estructura de los ecosistemas y su funcionamiento se ven afectados por el cambio climático global. Experiencia profesional en trabajo de campo enfocado a la gestión ambiental de sensores y procesamiento de bases de datos a través de softwares especializados. Gestor de uso de recursos naturales. Específicamente interesado en proponer estrategias de manejo que minimicen los efectos de las actividades humanas y el cambio climático.

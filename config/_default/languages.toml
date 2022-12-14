@@ -34,14 +34,19 @@
   weight = 3
   
 [[eu.menu.main]]
-  name = "Irakaskuntza"
+  name = "Ikasleen prestakuntza"
   url = "teaching"
   weight = 5
   
- [[eu.menu.main]]
-  name = "Argazki-bilduma"
-  url = "gallery/#gallery"
-  weight = 6 
+#[[eu.menu.main]]
+# name = "Argazki-bilduma"
+# url = "gallery/#gallery"
+# weight = 6 
+
+[[eu.menu.main]]
+  name = "Lankidetza-sarea"
+  url = "network"
+  weight = 6
   
   
 [es]
@@ -70,13 +75,18 @@
   weight = 3
   
 [[es.menu.main]]
-  name = "Docencia"
+  name = "Formación"
   url = "teaching"
   weight = 5
  
+#[[es.menu.main]]
+#  name = "Galería"
+#  url = "gallery/#gallery"
+#  weight = 6
+
 [[es.menu.main]]
-  name = "Galería"
-  url = "gallery/#gallery"
+  name = "Red de colaboración"
+  url = "network"
   weight = 6
  
 #[zh]

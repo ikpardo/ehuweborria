@@ -2,7 +2,7 @@
 title: Nere Amaia Laskurain
 authors:
 - NereAmaiaLaskurain
-
+weight: 7
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -40,7 +40,7 @@ social:
   link: https://scholar.google.com/citations?user=xLmgB8YAAAAJ&hl=es
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile seniorra
 
 ---
 

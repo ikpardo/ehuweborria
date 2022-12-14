@@ -2,6 +2,7 @@
 title: Usue Pérez López
 authors:
 - UsuePérez-López
+weight: 8
 
 # education:
 
@@ -37,7 +38,7 @@ social:
   link: 'https://www.researchgate.net/profile/Usue_Perez-Lopez'
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile seniorra
 
 ---
 

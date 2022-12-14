@@ -2,6 +2,7 @@
 title: Amaia Mena-Petite
 authors:
 - AmaiaMena-Petite
+weight: 2
 
 highlight_name: true
 interests:
@@ -26,7 +27,7 @@ social:
   link: 'https://www.researchgate.net/profile/Amaia_Mena-Petite'
 
 user_groups: 
-  - Principal Investigator
+  - Senior researchers
 
 ---
 

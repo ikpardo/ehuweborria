@@ -1,5 +1,5 @@
 ---
-title: Publicaciones recientes
+title: Publicaciones seleccionadas
 cms_exclude: true
 
 view: 1

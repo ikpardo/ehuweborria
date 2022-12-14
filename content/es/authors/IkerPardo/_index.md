@@ -2,6 +2,7 @@
 title: Iker Pardo
 authors:
 - IkerPardo
+weight: 3
 
 # education:
 #   courses:
@@ -33,7 +34,7 @@ organizations:
 - name: Universidad del País Vasco (UPV/EHU)
   url: 'https://www.ehu.eus/es/'
   
-role: Post-doc
+role: Investigador post-doctoral
 
 social:
 - icon: orcid
@@ -47,7 +48,7 @@ social:
   link: 'https://github.com/ikpardo'
 
 user_groups: 
-  - Post-doc
+  - Post-docs
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Azkeneko publikazioak
+title: Aukeratutako publikazioak
 cms_exclude: true
 
 view: 1

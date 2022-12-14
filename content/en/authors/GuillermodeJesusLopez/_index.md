@@ -2,6 +2,7 @@
 title: Guillermo de Jesús Lopez
 authors:
 - Guillermo
+weight: 2
 
 # education:
 #   courses:
@@ -33,7 +34,7 @@ social:
  # link: https://www.researchgate.net/profile/Aitor_Agirresarobe
 
 user_groups: 
-  - Pre-doc
+  - Pre-docs
 ---
 
 I am interested in how diversity, the structure of ecosystems and their functioning are affected by global and climate change. Professional experience in fieldwork focused on the environmental management sensors and database processing through specialized software. Natural resources use manager. Specifically interested in proposing management strategies that minimize the effects of human activities and climate change.

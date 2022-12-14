@@ -2,6 +2,7 @@
 title: Arantza Aldezabal
 authors:
 - ArantzaAldezabal
+weight: 3
 
 # education:
 #   courses:
@@ -46,7 +47,7 @@ social:
   link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
 
 user_groups: 
-  - Investigador Principal
+  - Personal investigador senior
 
 ---
 

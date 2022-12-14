@@ -16,7 +16,7 @@ header:
 
  <!-- ordenar por año --> 
 
-<span style="color:blue">Tésis doctorales</span>
+<span style="color:blue">Tesis doctorales</span>
 
 - **Titulo**, Autor, 2050, Univ, Lugar. Dirigido por by: *director*
 - 

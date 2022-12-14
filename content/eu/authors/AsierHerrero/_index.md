@@ -2,6 +2,7 @@
 title: Asier Herrero
 authors:
 - AsierHerrero
+weight: 4
 
 # education:
 #   courses:
@@ -27,7 +28,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
 
-role: Post-doc
+role: Irakasle kontratatua
 
 social:
 - icon: orcid
@@ -41,7 +42,7 @@ social:
   link: 'https://scholar.google.com/citations?user=AdyO90gAAAAJ&hl=es'
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile seniorra
 
 ---
 

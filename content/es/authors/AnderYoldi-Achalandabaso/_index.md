@@ -2,7 +2,7 @@
 title: Ander Yoldi-Achalandabaso
 authors:
 - AnderYoldi-Achalandabaso
-
+weight: 1
 # education:
 # email: ""
 highlight_name: true
@@ -18,12 +18,12 @@ organizations:
 - name: Universidad del País Vasco (UPV/EHU)
   url: https://www.ehu.eus/es/
 
-role: Doctorando
+role: Investigador post-doctoral
 
 social:
 
 user_groups: 
-  - Post-doc
+  - Post-docs
 
 ---
 Graduado en Ciencias Ambientales. PhD student (último año). Mi tesis trata sobre el estudio de los efectos del cambio climático (ECO2, ET & Sequía) en los procesos fisiológicos, bioquímicos, moleculares y agronómicos a lo largo del ciclo completo de una variedad de cebada maltera. Más específicamente, me centro en los siguientes procesos:

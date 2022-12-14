@@ -2,7 +2,7 @@
 title: Alberto Muñoz-Rueda
 authors:
 - AlbertoMuñoz-Rueda
-
+weight: 1
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -41,8 +41,8 @@ social:
   link: https://scholar.google.es/citations?user=I5MNtoAAAAAJ&hl=es
 
 user_groups: 
-  - Principal Investigator
+  - Senior researchers
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+

@@ -2,7 +2,7 @@
 title: Arantza Aldezabal
 authors:
 - ArantzaAldezabal
-
+weight: 3
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -46,7 +46,7 @@ social:
   link: 'https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en'
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile seniorra
 
 ---
 

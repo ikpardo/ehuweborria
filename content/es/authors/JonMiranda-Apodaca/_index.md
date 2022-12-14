@@ -2,6 +2,7 @@
 title: Jon Miranda-Apodaca
 authors:
 - JonMiranda-Apodaca
+weight: 4
 
 highlight_name: true
 
@@ -14,7 +15,7 @@ organizations:
 - name: Universidad del País Vasco (UPV/EHU)
   url: https://www.ehu.eus/es/
 
-role: Post-doctoral fellow
+role: Investigador post-doctoral
 
 social:
 - icon: orcid
@@ -28,7 +29,7 @@ social:
   link: https://github.com/poiklo
 
 user_groups: 
-  - Post-doc
+  - Post-docs
 ---
 
 Mi investigación se centra en el impacto del cambio climático en la fisiología y bioquímica de las plantas. He estudiado su impacto en comunidades de pastos y en cultivos como la cebada, el trigo y la quinoa, llevando a cabo tanto experimentos en campo como en cámara para que se complementen, por un lado, en descubrir los efectos sobre las plantas al cambio climático y, por otro lado, en la búsqueda de los mecanismos de su respuesta.

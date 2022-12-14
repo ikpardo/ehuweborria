@@ -2,7 +2,7 @@
 title: Esti Sarrionandia
 authors:
 - EstiSarrionandia
-
+weight: 5
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -41,7 +41,7 @@ social:
   link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile seniorra
 
 ---
 

@@ -2,6 +2,7 @@
 title: Jon Miranda-Apodaca
 authors:
 - JonMiranda-Apodaca
+weight: 4
 
 # education:
 #   courses:
@@ -27,7 +28,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
 
-role: Post-doctoral fellow
+role: Doktorego ondoko ikertzailea
 
 social:
 - icon: orcid
@@ -50,7 +51,7 @@ social:
 #  link: https://www.linkedin.com/
 
 user_groups: 
-  - Post-doc
+  - Doktorego ondoko ikertzaileak
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Begoña Peco
+title: Colaboradores externos
 authors:
 - BegoñaPeco
 
@@ -23,24 +23,24 @@ highlight_name: true
 # - Computational Linguistics
 # - Information Retrieval
 
-organizations:
-- name: Universidad Autónoma de Madrid
-  url: https://www.ehu.eus/en/en-home
+# organizations:
+# - name: Universidad Autónoma de Madrid
+#   url: https://www.ehu.eus/en/en-home
 
-role: Professor
+# role: Professor
 
-social:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-2149-1438
-- icon: researchgate
-  icon_pack: ai
-  link: 'https://www.researchgate.net/profile/Begona_Peco'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.es/citations?user=I5MNtoAAAAAJ&hl=es
+# social:
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0003-2149-1438
+# - icon: researchgate
+#   icon_pack: ai
+#   link: 'https://www.researchgate.net/profile/Begona_Peco'
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.es/citations?user=I5MNtoAAAAAJ&hl=es
 
-user_groups: 
+user_groups:
   - Collaborators
 
 ---

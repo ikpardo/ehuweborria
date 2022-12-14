@@ -28,11 +28,16 @@
   name = "Irakaskuntza"
   url = "teaching"
   weight = 5
-  
+
 [[main]]
-  name = "Gallery"
-  url = "gallery/#gallery"
+  name = "Kolaborazio-sarea"
+  url = "network"
   weight = 6
+  
+#[[main]]
+#  name = "Gallery"
+#  url = "gallery/#gallery"
+#  weight = 6
   
 #[[main]]
 #  name = "Talks"

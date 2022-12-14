@@ -2,6 +2,7 @@
 title: Usue Pérez López
 authors:
 - UsuePérez-López
+weight: 7
 
 # education:
 #   courses:
@@ -38,7 +39,7 @@ social:
   link: 'https://www.researchgate.net/profile/Usue_Perez-Lopez'
 
 user_groups: 
-  - Principal Investigator
+  - Senior researchers
 
 ---
 

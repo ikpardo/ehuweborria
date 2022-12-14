@@ -2,6 +2,7 @@
 title: Esti Sarrionandia
 authors:
 - EstiSarrionandia
+weight: 4
 
 # education:
 #   courses:
@@ -41,7 +42,7 @@ social:
   link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
 
 user_groups: 
-  - Principal Investigator
+  - Senior researchers
 
 ---
 

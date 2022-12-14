@@ -2,6 +2,7 @@
 title: Maite Lacuesta Calvo
 authors:
 - MaiteLacuesta
+weight: 6
 
 # education:
 #   courses:
@@ -49,7 +50,7 @@ social:
   link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
 
 user_groups: 
-  - Ikertzaile Nagusia
+  - Ikertzaile seniorra
 
 ---
 

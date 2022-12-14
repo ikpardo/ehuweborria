@@ -2,6 +2,7 @@
 title: Amaia Mena-Petite
 authors:
 - AmaiaMena-Petite
+weight: 2
 
 # education:
 #   courses:
@@ -40,7 +41,7 @@ social:
   link: 'https://www.researchgate.net/profile/Amaia_Mena-Petite'
 
 user_groups: 
-  - Investigador Principal
+  - Personal investigador senior
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ongoing and recent projects
+title: Recent and ongoing projects
 cms_exclude: true
 
 header: 

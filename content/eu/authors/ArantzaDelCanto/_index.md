@@ -2,6 +2,7 @@
 title: Arantza del Canto Romero
 authors:
 - ArantzaDelCanto
+weight: 2
 
 # education:
 #   courses:
@@ -25,7 +26,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Pre-doctoral fellow
+role: Doktorego ondoko ikertzailea
 
 social:
 - icon: orcid
@@ -36,7 +37,7 @@ social:
   link: https://www.researchgate.net/profile/Arantza_Del_Canto
 
 user_groups: 
-  - Post-doc
+  - Doktorego ondoko ikertzaileak
 ---
 
 Gaur egun, nire ikerketak lekaleak eta nitrogeno finkatzaile bakterioen (rizobia) arteko arreman sinbiotikoan oinarritzen dira, estres baldintzetan, lehortean zehazki. Aurretik, mehatxatutako landare espezieen kontserbazioarekin eta germinazio protokoloen zehaztapenarekin lotutako hainbat proiektuetan lan egin dut Olárizu Lorategi Botanikoko Germoplasma Bankuan (Vitoria-Gasteiz). Agroekologia, nekasal zientziak eta Klima aldaketarekin erlazionatutako etorkizuneko baldintzetara laboreen egokitzapen jasangarria interesatzen zaizkitt. Oro har, ingurumenaren kontserbazioan interesatuta nago.

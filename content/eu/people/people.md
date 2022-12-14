@@ -13,12 +13,12 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Ikertzaile Nagusia",
+  user_groups = ["Ikertzaile seniorra",
                  "Ikertzailea",
-                 "Post-doc",
-                 "Pre-doc",
+                 "Doktorego ondoko ikertzaileak",
+                 "Doktoratu aurreko ikertzaileak",
                  "Gradu-ikasleak Students",
-                 "Ikertzaile kolaboratzailea",
+                 "Kolaboratzaileak",
                  "Administrariak",
                  "Visitors",
                  "Ikasleak"]

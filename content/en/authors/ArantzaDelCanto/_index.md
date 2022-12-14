@@ -2,7 +2,7 @@
 title: Arantza del Canto Romero
 authors:
 - ArantzaDelCanto
-
+weight: 2
 # education:
 #   courses:
 
@@ -25,7 +25,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Pre-doctoral fellow
+role: Post-doctoral fellow
 
 social:
 - icon: orcid
@@ -36,7 +36,7 @@ social:
   link: https://www.researchgate.net/profile/Arantza_Del_Canto
 
 user_groups: 
-  - Post-doc
+  - Post-docs
 ---
 
 My current research focuses on the symbiosis between legumes and nitrogen-fixing bacteria (rhizobia) under stress conditions, specifically under drought. I previously worked on projects related to the conservation of wild plant species and determination of germination protocols, at the Germplasm Bank of the Olaizu’s Botanical Garden (Vitoria-Gasteiz). I am interested in agroecology, crop science and its adaptation to future conditions in relation to climate change, from a sustainable perspective and most generally, I´m interested in the natural environment conservation.
