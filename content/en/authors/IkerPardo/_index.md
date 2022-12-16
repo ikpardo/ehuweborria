@@ -39,5 +39,5 @@ user_groups:
 
 My research hinges on the study of spatio-temporal distribution of multiple facets of diversity, namely taxonomic, functional and phylogenetic diversity. I combine field data and quantitative approaches to elucidate the long-term response of plant populations and communities to land-use changes and climate warming.
 
-Througout my PhD I developed a keen interest in data analysis and programming which brought me to take a master's degree in Bioinfo & Biostats. Quantitative skills aquired over this and previous work experiences have given me the opportunity to collaborate on several research projects on quite different systems/organisms. Besides research, I have developed some *apps* devoted to make biodiversity analysis as accessible as possible to other researchers and stakeholders.
+Througout my PhD I developed a keen interest in data analysis and programming which brought me to take a master's degree in Bioinfo & Biostats. Quantitative skills aquired over this and previous work experiences have given me the opportunity to collaborate on several research projects on quite different systems/organisms. Besides research, I have developed some *apps* devoted to make biodiversity analysis as accessible as possible to other researchers and stakeholders. 
 
