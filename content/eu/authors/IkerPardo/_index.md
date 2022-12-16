@@ -56,4 +56,4 @@ Nire ikerketaren helburua landare-dibertsitatearen espazioan eta denboran zeharr
 
 Doktoradutza garaietan datu-analisiak mendiko laginketak bezain gogoko nituela ohartu nintzen. Hori dela-eta, behin tesia amaituta, Bioinformatika eta bioestatistika master bat burutzera animatu nintzen. Garatutako gaitasunei teknikoei esker ikerketa-proiektu anitzetan parte hartzeko aukera izan dut. Ikerketan ez ezik, web-aplikazioan ere aritzen naiz, besteak beste, biodibertsitate datu-basetan metatutako informazi oparoaren analisia arintzeko xedez. 
 
-
+ 
