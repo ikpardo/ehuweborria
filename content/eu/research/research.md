@@ -22,28 +22,28 @@ weight = 1
 
 **1. Lerroa: Ingurumen-estresek nekazaritza-intereseko espezieetan duten eragina identifikatzea eta estrategiak, hobekuntza-prozesuak eta nekazaritza-intereseko espezieen ekoizpen iraunkorreko irtenbideak bilatzea, elikagaien segurtasuna bermatzeko (elikagaien eskuragarritasunaren eta kontsumitzailearentzako segurtasunaren ikuspegitik), etorkizunerako proiektatutako klima-baldintzei aurre egiteko.**
 
-+ Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz.
++ Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz (IN: Maite Lacuesta).
 
-+ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa duten labore alternatiboak erabiltzea, labore tradizionalekiko alderatuz
++ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa duten labore alternatiboak erabiltzea, labore tradizionalekiko alderatuz (IN: Usue Pérez).
 
-+ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea.
++ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea (IN: Usue Pérez).
 
-+ Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko.
++ Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko (IN: Usue Pérez).
 
-+ Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea.
++ Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea (IN: Usue Pérez).
 
-+ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz.
++ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz (IN: Amaia Mena-Petite).
 
 
 **2. Lerroa: Agro-biodibertsitatea kontserbatzeko eta landa-ingurunearen iraunkortasuna bermatezeko estrategiak bilatzea eta diseinatzea, ekoizpen ekologikorako trantsizioaren bidez, eta nekazaritza zein abeltzaintza ustiategien eta landa-paisaiaren baliabide naturalen (belarkien eta baso-baliabideen) erresilientzia aztertuz.**
 
-+ Biodibertsitatearen, lurzoruaren kalitatearen eta hauek laboreen ekoizpen iraunkorrarekin eta lehortearekiko tolerantziarekin duten elkarrekintza aztertzea.
++ Biodibertsitatearen, lurzoruaren kalitatearen eta hauek laboreen ekoizpen iraunkorrarekin eta lehortearekiko tolerantziarekin duten elkarrekintza aztertzea (IN: Esti Sarrionandia & Maite Lacuesta).
 
-+ Laborantza-sistemek (ekologikoa/konbentzionala) eta haien biodibertsitateak laboreen ekoizpenean, kalitatean eta lehortearekiko tolerantzian duten eragina ebaluatzea.
++ Laborantza-sistemek (ekologikoa/konbentzionala) eta haien biodibertsitateak laboreen ekoizpenean, kalitatean eta lehortearekiko tolerantzian duten eragina ebaluatzea (IN: Maite Lacuesta & Usue Pérez).
 
-+ Estentsiboki maneiatutako esnetarako ardien (Latxa ardia) ustiategien iraunkortasuna eta erresilientzia aztertzea, hurbilketa multidisziplinarra erabiliz, adierazle ekologikoak (biodibertsitatea, lurzoruaren trinkotzea), ingurumenekoak (berotegi-efektuko gasen emisioa, karbono-bahiketa), ekonomikoak, sozialak eta nutrizionalak uztartuz.
++ Estentsiboki maneiatutako esnetarako ardien (Latxa ardia) ustiategien iraunkortasuna eta erresilientzia aztertzea, hurbilketa multidisziplinarra erabiliz, adierazle ekologikoak (biodibertsitatea, lurzoruaren trinkotzea), ingurumenekoak (berotegi-efektuko gasen emisioa, karbono-bahiketa), ekonomikoak, sozialak eta nutrizionalak uztartuz (IN: Arantza Aldezabal).
 
-+ Klima-asalduren aurrean basoek duten erresilientzia modu integratuan aztertzea, klima-aldaketara egokitzeko eta zerbitzu ekosistemikoak mantentzeko kudeaketa garatzeko helburuarekin. Horretarako, banaketa zabaleko eta garrantzi ekonomiko handiko pagoa (Fagus sylvatica) eta banaketa mugatuko eta balio kultural eta ekologiko handiko espezie mehatxatuen den hagina (Taxus baccata) modelo hartuta.
++ Klima-asalduren aurrean basoek duten erresilientzia modu integratuan aztertzea, klima-aldaketara egokitzeko eta zerbitzu ekosistemikoak mantentzeko kudeaketa garatzeko helburuarekin. Horretarako, banaketa zabaleko eta garrantzi ekonomiko handiko pagoa (Fagus sylvatica) eta banaketa mugatuko eta balio kultural eta ekologiko handiko espezie mehatxatuen den hagina (Taxus baccata) modelo hartuta (IN: Asier Herrero & Nere Amaia Laskurain).
 
 </body>
 

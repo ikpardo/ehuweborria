@@ -20,28 +20,28 @@ weight = 1
 
 **Línea 1:  Identificación del impacto de los estreses ambientales en especies de interés agrícola y búsqueda de estrategias, procesos de mejora y soluciones de producción sostenibles de especies de interés agrícola, que garanticen la seguridad alimentaria (entendiendo esta como disponibilidad de alimentos y seguridad para el consumidor), con el fin de hacer frente a las condiciones climáticas proyectadas para el futuro.**
 
-+ Reducción del aporte de fertilizantes nitrogenados mediante la búsqueda de simbiosis en leguminosas altamente eficientes bajo condiciones de sequía y la optimización del aporte de nitratos en otros cultivos de interés.
++ Reducción del aporte de fertilizantes nitrogenados mediante la búsqueda de simbiosis en leguminosas altamente eficientes bajo condiciones de sequía y la optimización del aporte de nitratos en otros cultivos de interés (IP: Maite Lacuesta).
 
-+ Utilización de cultivos alternativos a los actuales con una mejor capacidad de adaptación a los efectos negativos de la sequía en la productividad.
++ Utilización de cultivos alternativos a los actuales con una mejor capacidad de adaptación a los efectos negativos de la sequía en la productividad (IP: Usue Pérez).
 
-+ Búsqueda de marcadores bioquímicos y moleculares de la tolerancia a la sequía, y su implementación a especies de interés alimentario.
++ Búsqueda de marcadores bioquímicos y moleculares de la tolerancia a la sequía, y su implementación a especies de interés alimentario (IP: Usue Pérez).
 
-+ Conocimiento de los mecanismos de tolerancia a la salinidad de las plantas halófitas para usar suelos salinos o de mala calidad como suelo cultivable.
++ Conocimiento de los mecanismos de tolerancia a la salinidad de las plantas halófitas para usar suelos salinos o de mala calidad como suelo cultivable (IP: Usue Pérez).
 
-+ Evaluación de los factores ambientales que desencadenan la generación de micotoxinas en el hongo Alternaria alternata en distintas especies vegetales.
++ Evaluación de los factores ambientales que desencadenan la generación de micotoxinas en el hongo Alternaria alternata en distintas especies vegetales (IP: Usue Pérez).
 
-+ Mejora del estado fisiológico y sanitario de plantas mediante el uso de bioestimulantes (productos alternativos a fitosanitarios de síntesis).
++ Mejora del estado fisiológico y sanitario de plantas mediante el uso de bioestimulantes (productos alternativos a fitosanitarios de síntesis) (IP: Amaia Mena-Petite).
 
 
 **Línea 2: Búsqueda y diseño de estrategias de conservación de la agro-biodiversidad y sostenibilidad del medio rural, mediante la transición hacia una producción ecológica, y el análisis de la resiliencia de explotaciones agro-ganaderas y los recursos naturales (herbáceos y forestales) del paisaje rural**
 
-+  Análisis de la biodiversidad y la calidad del suelo y su interacción con la producción sostenible de cultivos y su tolerancia a la sequía.
++  Análisis de la biodiversidad y la calidad del suelo y su interacción con la producción sostenible de cultivos y su tolerancia a la sequía (IP: Esti Sarrionandia & Maite Lacuesta).
 
-+ Evaluación de la influencia de los sistemas de cultivo (ecológico/convencional) y su biodiversidad en la producción, calidad y tolerancia de los cultivos a la sequía.
++ Evaluación de la influencia de los sistemas de cultivo (ecológico/convencional) y su biodiversidad en la producción, calidad y tolerancia de los cultivos a la sequía (IP: Maite Lacuesta & Usue Pérez).
 
-+ Análisis de la sostenibilidad y resiliencia de explotaciones ganaderas de ovino de leche (oveja Latxa) manejadas en régimen extensivo, mediante una aproximación multidisciplinar, incluyendo indicadores ecológicos (biodiversidad, compactación del suelo), ambientales (emisión de gases efecto invernadero, secuestro de carbono), económicos, sociales y nutricionales.
++ Análisis de la sostenibilidad y resiliencia de explotaciones ganaderas de ovino de leche (oveja Latxa) manejadas en régimen extensivo, mediante una aproximación multidisciplinar, incluyendo indicadores ecológicos (biodiversidad, compactación del suelo), ambientales (emisión de gases efecto invernadero, secuestro de carbono), económicos, sociales y nutricionales (IP: Arantza Aldezabal).
 
-+ Análisis integrado de la resiliencia forestal a perturbaciones climáticas: gestión para la adaptación al cambio climático y mantenimiento de servicios ecosistémicos. Más concretamente, se evalúa la capacidad de resiliencia forestal de especies dominantes de amplia distribución e importancia económica (Fagus sylvatica) y especies localmente amenazadas de distribución restringida y alto valor cultural y ecológico (Taxus baccata).
++ Análisis integrado de la resiliencia forestal a perturbaciones climáticas: gestión para la adaptación al cambio climático y mantenimiento de servicios ecosistémicos. Más concretamente, se evalúa la capacidad de resiliencia forestal de especies dominantes de amplia distribución e importancia económica (Fagus sylvatica) y especies localmente amenazadas de distribución restringida y alto valor cultural y ecológico (Taxus baccata) (IP: Asier Herrero & Nere Amaia Laskurain).
 </body>
 
 <br>
