@@ -36,6 +36,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Xabier_Simon_Martinez_De_Goni
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/martinezgonixs
 
 user_groups: 
   - Pre-docs
