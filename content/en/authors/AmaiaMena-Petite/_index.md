@@ -25,6 +25,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: 'https://www.researchgate.net/profile/Amaia_Mena-Petite'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AMenaPetite
 
 user_groups: 
   - Senior researchers
