@@ -45,4 +45,8 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+Landarek nigan eragiten duten erakarpenak bultzatuta, Botanikako laborategian laguntzen hasi nintzan Biologiako lizentziatura egin bitartean Euskal Herriko Unibertsitatean. Onddoen mundu harrigarria ezagutu nuen bertan eta harrezkero Erreinu horretako hainbat talderekin lan egin dut. Ikerketa-ibilbidean zehar mikologiaren hainbat alderdi landu ditut, hala nola onddoen biodibertsitatea eta komunitateen azterketa, onddoen Zerrenda Gorriak, sinbiosi mikorrizikoak edo onddo ektomikorrizikoen bidez habitatak leheneratzea.
+
+Oraintsu, onddo mikorriziko arbuskularretan jarri dut arreta, bereziki nekazaritza arloan; alde batetik, onddo horien biodibertsitatean zerk faktorek eragiten duten ulertu nahian, eta bestalde, dibertsitate horrek laboreen garapenean duen eragina ezagutu  nahian, batez ere muturreko baldintza klimatologikoetan. 
+ 
+Arlo akademikoan, Farmazia Fakultateko irakasle agregatua naiz, eta, gaur egun, Ikasleen eta Gradu Amaierako Lanen dekanordearen kargua betetzen dut.

@@ -7,12 +7,13 @@ weight: 4
 highlight_name: false
 
 interests:
-- Forest resilience
+- Forest resilience and vulnerability to disturbances
 - Global change effects on forest dynamics
-- Forest management for adaptation to climate change
 - Forest decline and mortality
+- Forest management for adaptation to climate change
 - Plant-plant and plant-animal interactions
 - Species abundance and coexistence patterns
+- Ecological modelling
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
@@ -36,4 +37,4 @@ user_groups:
 
 ---
 
-I am an ecologist mainly focused in the analysis of vulnerability and resilience of forest ecosystems to disturbances and stressors associated to global change. Management actions and strategies for forest ecosystems adaptation to climate change and the study of ecological mechanisms underlying species abundance and coexistence patterns are my secondary research lines.
+My main research line is the analysis of the vulnerability and resilience of forest ecosystems to disturbances and stressors associated to global change. Management actions and strategies for forest ecosystems adaptation to climate change and the study of ecological mechanisms underlying species abundance and coexistence patterns are my secondary research lines. My research encompasses multiple and variable approaches including observational data, forest historical archives, national forest inventories and ecological modeling. Currently, I am the PI in a research project analyzing the resilience of the Legaire beech forest (Álava/Araba) to the 2018 tornado.

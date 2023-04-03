@@ -19,10 +19,14 @@ weight: 4
 # email: ""
 
 highlight_name: false
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Basoen erresilientzia eta zaurgarritasuna asalduren aurrean
+- Aldaketa globalaren eragina baso dinamiketan
+- Basoen gainbehera eta hilkortasuna
+- Klima aldaketari moldatzeko baso kudeaketa
+- Landare-landare eta landare-animali elkarrekintzak
+- Espezieen ugaritasun eta koexistentzia patroiak
+- Modelizazio ekologikoa
 
 organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
@@ -45,4 +49,5 @@ user_groups:
   - Ikertzaile seniorra
 
 ---
+Nire ikerketa lerro nagusia aldaketa globalari lotutako asaldura eta estresen aurreko baso ekosistemen zaurgarritasunaren eta erresilientziaren analisia da. Baso ekosistemen klima aldaketarako moldaerarako neurri eta estrategien ebaluaketa eta diseinua alde batetik, eta espezie ugaritasun eta koexistentzia patroiak azaltzen dituzten mekanismo ekologikoen azterketa bestetik, dira nire ikerketa lerro sekundarioak. Nire ikerketek hurbilketa desberdinak barne hartzen dituzte, hala nola, behaketa datuak, baso-ordenazioen artxibo historikoak, baso inbentario nazionalak eta eredu ekologikoak. Gaur egun, Legaireko pagadiaren (Araba) 2018ko tornadoaren osteko erresilientzia aztertzen duen proiektu baten ikertzaile nagusia naiz. 
 

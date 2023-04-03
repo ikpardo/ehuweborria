@@ -46,4 +46,8 @@ user_groups:
 
 ---
 
-My research career has been focused on the fungal world! I studied macrofungal communities and ectomycorrhizae, but recently I started analysing bean roots searching for arbuscules and vesicules. Understanding the role of arbuscular mycorrhizal fungal diversity in crop development is today my first objective, as well as clarifying the factors that influence this diversity.
+The attraction I feel towards plants led me to collaborate in the laboratory of Botany while attending the Bachelor of Biology at the University of the Basque Country/ EHU. So I discovered the incredible world of fungi and since then I have worked with different groups in that kingdom. Throughout my research career, I have addressed various aspects of mycology, such as biodiversity and fungal communities, Red Lists of fungi, mycorrhizal symbiosis, or habitat restoration through the use of ectomycorrhizal fungi.
+
+I have recently focused on the study of the mycorrhizal fungi and their impact on agriculture in order to understand both the factors affecting their biodiversity and the effect of that diversity on the development of agricultural species, especially in extreme weather situations.
+
+At the academic level, I am an aggregated professor at the Faculty of Pharmacy and currently I am the vice-dean of Students and End of Degree Work.
