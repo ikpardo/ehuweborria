@@ -26,15 +26,15 @@ header:
 
 <span style="color:blue">MSc. Theses</span>
 
-**Mendi-inguruneko abeltzaintzaren jasangarritasunaren ebaluazio integratua: Enirio-Aralar Mankomunitateko kasua**, Aitor Andonegi Turrillas, 2016, Zientzia eta Teknologia Fakultatea (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta*
+**Mendi-inguruneko abeltzaintzaren jasangarritasunaren ebaluazio integratua: Enirio-Aralar Mankomunitateko kasua**, Aitor Andonegi Turrillas, 2016, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta*
 
-**Modelling aboveground net primary production (ANPP) of an Atlantic mountain grassland based on time series approach-Lurgaineko ekoizpen primario garbiaren (ANPP) denbora-serie bidezko modelizazioa mendiko larre atlantiko batean**, Aitor Salaberria Oiarzabal, 2017, Zientzia eta Teknologia Fakultatea (UPV/EHU). Supervised by: *Arantza Aldezabal, Gonzalo García-Baquero Moneo*
+**Modelling aboveground net primary production (ANPP) of an Atlantic mountain grassland based on time series approach-Lurgaineko ekoizpen primario garbiaren (ANPP) denbora-serie bidezko modelizazioa mendiko larre atlantiko batean**, Aitor Salaberria Oiarzabal, 2017, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal, Gonzalo García-Baquero Moneo*
 
-**Caracterización espacial y productiva de recursos pastables del Parque Natural de Aralar mediante técnicas de teledetección**, Roger Roca Vallejo, 2018, Zientzia eta Teknologia Fakultatea (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta*
+**Caracterización espacial y productiva de recursos pastables del Parque Natural de Aralar mediante técnicas de teledetección**, Roger Roca Vallejo, 2018, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta*
 
-**Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Zientzia eta Teknologia Fakultatea (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta, Guillermo Pardo*
+**Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta, Guillermo Pardo*
 
-**Fotointerpretación y análisis diacrónico de usos del suelo en el valle de Baztan**, Beatriz Castro, 2022, Zientzia eta Teknologia Fakultatea (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta*
+**Fotointerpretación y análisis diacrónico de usos del suelo en el valle de Baztan**, Beatriz Castro, 2022, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal Roteta*
 
 **Analysis of the effect of progressive thinning in a *Pinus radiata* plantation in Upo mountain (Bizkaia): radial growth of *P. radiata* and regeneration capacity of the native forest**, Montserrat Muriana Castellana, 2022, Faculty of Science and Technology (UPV/EHU). Supervised by: *Asier Herrero e Ibone Amezaga*
 
@@ -69,16 +69,6 @@ header:
 
 **Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz and Usue Pérez*
 
-
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU). Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU). Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU). Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU). Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU). Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU). Supervised by: **
-
-
-
 <span style="color:blue">Final Degree Projects</span>
 
 **Regeneration capacity of Legaire beech forest (Entzia Mountains, Álava/Araba) after the 2018 tornado**, Garazi Garijo Sancet, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Asier Herrero and Nere Amaia Laskurain*
@@ -105,9 +95,9 @@ header:
 
 **Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Alberto Muñoz and Usue Pérez*
 
-**Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Jon Miranda and Usue Pérez*
+**Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Supervised by: *Jon Miranda and Usue Pérez*
 
-**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda and Usue Pérez*
+**Artobeltzaren nitrogeno metabolismoaren erazuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda and Usue Pérez*
 
 
 **Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda and Usue Pérez*
@@ -120,10 +110,3 @@ header:
 **Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda and Usue Pérez*
 
 **Klima aldaketak erantzun antioxidatzailean eta *Alternaria alternata* onddoaren infektagarritasunean duen eraginaren aldaraketa Paris batavia horia eta haritz hosto urazen artean**, Lucia Herrero Quintanilla, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda and Usue Pérez*
-
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU), Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU), Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU), Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU), Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU), Supervised by: **
-**title**, NAME, YEAR, Faculty of Science and Technology (UPV/EHU), Supervised by: **

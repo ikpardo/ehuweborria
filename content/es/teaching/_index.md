@@ -25,15 +25,15 @@ header:
 
 <span style="color:blue">Trabajos Fin de Máster (TFM)</span>
 
-**Mendi-inguruneko abeltzaintzaren jasangarritasunaren ebaluazio integratua: Enirio-Aralar Mankomunitateko kasua**, Aitor Andonegi Turrillas, 2016, Zientzia eta Teknologia Fakultatea (UPV/EHU). Dirección: *Arantza Aldezabal Roteta*
+**Mendi-inguruneko abeltzaintzaren jasangarritasunaren ebaluazio integratua: Enirio-Aralar Mankomunitateko kasua**, Aitor Andonegi Turrillas, 2016, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal Roteta*
 
-**Modelling aboveground net primary production (ANPP) of an Atlantic mountain grassland based on time series approach-Lurgaineko ekoizpen primario garbiaren (ANPP) denbora-serie bidezko modelizazioa mendiko larre atlantiko batean**, Aitor Salaberria Oiarzabal, 2017, Zientzia eta Teknologia Fakultatea (UPV/EHU). Dirección: *Arantza Aldezabal, Gonzalo García-Baquero Moneo*
+**Modelling aboveground net primary production (ANPP) of an Atlantic mountain grassland based on time series approach-Lurgaineko ekoizpen primario garbiaren (ANPP) denbora-serie bidezko modelizazioa mendiko larre atlantiko batean**, Aitor Salaberria Oiarzabal, 2017, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal, Gonzalo García-Baquero Moneo*
 
-**Caracterización espacial y productiva de recursos pastables del Parque Natural de Aralar mediante técnicas de teledetección**, Roger Roca Vallejo, 2018, Zientzia eta Teknologia Fakultatea (UPV/EHU). Dirección: *Arantza Aldezabal Roteta*
+**Caracterización espacial y productiva de recursos pastables del Parque Natural de Aralar mediante técnicas de teledetección**, Roger Roca Vallejo, 2018, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal Roteta*
 
-**Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Zientzia eta Teknologia Fakultatea (UPV/EHU). Dirección: *Arantza Aldezabal Roteta, Guillermo Pardo*
+**Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal Roteta, Guillermo Pardo*
 
-**Fotointerpretación y análisis diacrónico de usos del suelo en el valle de Baztan**, Beatriz Castro,Zientzia eta Teknologia Fakultatea (UPV/EHU). Dirección: *Arantza Aldezabal Roteta*
+**Fotointerpretación y análisis diacrónico de usos del suelo en el valle de Baztan**, Beatriz Castro,Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal Roteta*
 
 **Análisis del efecto de los aclareos progresivos en una plantación de *Pinus radiata* en el monte Upo (Bizkaia): crecimiento radial de *P. radiata* y capacidad de regeneración del bosque nativo**, Montserrat Muriana Castellana, 2022, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero e Ibone Amezaga*
 
@@ -41,13 +41,13 @@ header:
 
 **Cambios temporales en la competencia entre individuos de *Pinus sylvestris* y *Quercus pirenaica* en bosques mixtos y monoespecíficos en el centro Peninsular**, Marcos Estevéz Domínguez, 2022. Universidad Autónoma de Madrid, Dirección: *Asier Herrero y Enrique Andivia*
 
-**Capacidad de regeneración del hayedo de Legaire (Sierra de Entzia, Álava) tras el tornado de 2018**, Marcos Estevéz Domínguez, 2022, Unversidad Autónomo de Madrid, Supervised by: *Asier Herrero y Enrique Andivia*
+**Capacidad de regeneración del hayedo de Legaire (Sierra de Entzia, Álava) tras el tornado de 2018**, Marcos Estevéz Domínguez, 2022, Unversidad Autónomo de Madrid, Dirección: *Asier Herrero y Enrique Andivia*
 
 **Estudio de la diversidad endomicorrícica asociada al sistema dunar de Gorliz**, Gontzal Merchán de la Cruz, 2017, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Estibaliz Sarrionandia Areitio e Isabel Slcedo Larralde*
 
 **Explorando la influencia del tipo de manejo en la biodiversidad y efectividad de los hongos micorrícico-abusculares en sistemas agrícolas**, Irati Ijurco González, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Estibaliz Sarrionandia Areitio*
 
-**Evaluación de las alteraciones fisiológicas provocadas por la infección de Xilella fastidiosa en viñedo**, Anna Marzal Monfort, 2021, Facultad de Ciencia y Tecnología (UPV/EHU), Supervised by: *Maite Lacuesta Calvo y Amaia Ortiz Barredo*
+**Evaluación de las alteraciones fisiológicas provocadas por la infección de Xilella fastidiosa en viñedo**, Anna Marzal Monfort, 2021, Facultad de Ciencia y Tecnología (UPV/EHU), Dirección: *Maite Lacuesta Calvo y Amaia Ortiz Barredo*
 
 **Evaluación del papel del gen SlRBOH1 en la tolerancia a la salinidad en tomate (Solanun lycopersicum L.) en condiciones de alto CO2 atmosférico**, Leire Sánchez Llanos, 2021, Facultad de Ciencia y Tecnología (UPV/EHU), Dirección: *Maite Lacuesta Calvo y Isabel Egea*
 
@@ -69,19 +69,6 @@ header:
 
 **Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Alberto Muñoz y Usue Pérez*
 
-
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
 
 <span style="color:blue">Trabajos Fin de Grado (TFG)</span>
 
@@ -112,22 +99,14 @@ header:
 
 **Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Jon Miranda y Usue Pérez*
 
-**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda y Usue Pérez*
+**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Dirección: *Jon Miranda y Usue Pérez*
 
-**Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda y Usue Pérez*
+**Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Dirección: *Jon Miranda y Usue Pérez*
 
-**Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Alberto Muñoz y Usue Pérez*
+**Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Dirección: *Alberto Muñoz y Usue Pérez*
 
-**Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica*  **, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Teresa Gimeno (BC3) y Usue Pérez*
+**Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica*  **, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Dirección: *Teresa Gimeno (BC3) y Usue Pérez*
 
-**Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda y Usue Pérez*
+**Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Dirección: *Jon Miranda y Usue Pérez*
 
-**Klima aldaketak erantzun antioxidatzailean eta *Alternaria alternata* onddoaren infektagarritasunean duen eraginaren aldaraketa Paris batavia horia eta haritz hosto urazen artean**, Lucia Herrero Quintanilla, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda y Usue Pérez*
-
-
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
-**title**, NAME, YEAR, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: **
+**Klima aldaketak erantzun antioxidatzailean eta *Alternaria alternata* onddoaren infektagarritasunean duen eraginaren aldaraketa Paris batavia horia eta haritz hosto urazen artean**, Lucia Herrero Quintanilla, 2022, Faculty of Science and Technology (UPV/EHU), Dirección: *Jon Miranda y Usue Pérez*

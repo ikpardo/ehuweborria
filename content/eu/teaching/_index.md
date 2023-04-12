@@ -22,7 +22,7 @@ header:
 
 **Selection of the most drought tolerant common bean-rhizobia symbiotic association, an agronomic and physiological approach**, Arantza del Canto Romero, 2022, Pharmacy Faculty (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Álvaro Sanz-Saez de Jáuregui*
 
-**Molecular, physiological and agronomical response of barley to elevated temperature, elevated CO2 and drought, factors associated to climate change**, Ander Yoldi Achalandabaso, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU). Dirección: *Alberto Muñoz Rueda eta Usue Pérez*
+**Molecular, physiological and agronomical response of barley to elevated temperature, elevated CO2 and drought, factors associated to climate change**, Ander Yoldi Achalandabaso, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Alberto Muñoz Rueda eta Usue Pérez*
 
 <span style="color:blue">Master Amaierako Lanak (MAL)</span>
 
@@ -100,21 +100,21 @@ header:
 
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Farmazia Fakultatea (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Arantza del Canto Romero*
 
-**Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU), Zuzendaria(k): *Alberto Muñoz y Usue Pérez*
+**Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez*
 
-**Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Jon Miranda eta Usue Pérez*
+**Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Jon Miranda eta Usue Pérez*
 
-**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda eta Usue Pérez*
+**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda eta Usue Pérez*
 
-**Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda eta Usue Pérez*
+**Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda eta Usue Pérez*
 
-**Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Alberto Muñoz eta Usue Pérez*
+**Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez*
 
-**Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica*  **, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Teresa Gimeno (BC3) eta Usue Pérez*
+**Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica*  **, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Teresa Gimeno (BC3) eta Usue Pérez*
 
-**Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda eta Usue Pérez*
+**Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda eta Usue Pérez*
 
-**Klima aldaketak erantzun antioxidatzailean eta *Alternaria alternata* onddoaren infektagarritasunean duen eraginaren aldaraketa Paris batavia horia eta haritz hosto urazen artean**, Lucia Herrero Quintanilla, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda eta Usue Pérez*
+**Klima aldaketak erantzun antioxidatzailean eta *Alternaria alternata* onddoaren infektagarritasunean duen eraginaren aldaraketa Paris batavia horia eta haritz hosto urazen artean**, Lucia Herrero Quintanilla, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda eta Usue Pérez*
 
 **title**, NAME, YEAR, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): **
 **title**, NAME, YEAR, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): **
