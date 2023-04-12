@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary:
+summary: " "
 tags:
 - Biodiversidad
 - Alubia

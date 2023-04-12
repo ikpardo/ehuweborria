@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
+summary: " "
 tags:
 - Quality
 - Barley

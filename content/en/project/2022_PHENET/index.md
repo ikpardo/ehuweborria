@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary:
+summary: " "
 tags:
 
 title: "Tools and methods for extended plant PHENotyping and EnviroTyping services of European Research Infrastructures, PHENET"

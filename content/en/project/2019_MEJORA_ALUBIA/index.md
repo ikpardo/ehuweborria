@@ -7,7 +7,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary:
+summary: " "
 tags:
 - Alubia
 - Sequía

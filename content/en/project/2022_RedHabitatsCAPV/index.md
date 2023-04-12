@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary: "A little more detail about who I am and why I study what I study"
+summary: " "
 tags:
 - Estrategia de la biodiversidad
 - Directiva hábitat 

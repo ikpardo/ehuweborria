@@ -10,8 +10,8 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
-tags:
+summary: " "
+tags: 
 - Quality
 - Conventional cultivation vs organic
 - Quinoa

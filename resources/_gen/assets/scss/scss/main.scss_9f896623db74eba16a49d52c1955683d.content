@@ -9348,6 +9348,9 @@ nav#navbar-main li.nav-item {
   max-width: none;
   display: inline; }
 
+h2 {
+  font-size: 110%; }
+
 /* increase the size of Research line 
 .article-container {
    max-width: 55%;
