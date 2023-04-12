@@ -5,7 +5,7 @@ image:
   caption: 'Image credit: S. Zabalza'
   
   
-placement: 2
+placement: 1
 math: true
 title: New project on High Nature Value farming systems 
 ---

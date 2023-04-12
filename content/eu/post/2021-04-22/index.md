@@ -5,7 +5,7 @@ image:
   caption: 'Egilea: S. Zabalza'
   
   
-placement: 2
+placement: 1
 math: true
 title: Balio Natural Handiko agrosistemen inguruko proiektu berria 
 ---
