@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "FisioKlima-AgroSosT"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "logoa.png"
@@ -41,4 +41,4 @@ Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemeta
 Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
 formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
 
-[Informazio gehiago]({{< ref "/content/eu/research/research.md" >}} "Ikerketa-lerroak")
+[Ezagutu gaitzazu]({{< ref "/content/eu/people/index.md" >}} "Ezagutu gaitzazu")

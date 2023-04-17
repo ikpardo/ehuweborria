@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "FisioKlima-AgroSosT"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "logoa.png"
@@ -40,4 +40,4 @@ Nuestro objetivo principal es conocer el impacto que el cambio climático tendr�
 
 Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de máster y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
 
-[Más información]({{< ref "/content/es/research/research.md" >}} "Líneas de investigación")
+[Conoce al equipo]({{< ref "/content/es/people/index.md" >}} "Conoce al equipo")
