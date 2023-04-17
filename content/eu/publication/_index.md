@@ -1,5 +1,5 @@
 ---
-title: Aukeratutako publikazioak
+title: Hautatuko publikazioak
 cms_exclude: true
 
 view: 1

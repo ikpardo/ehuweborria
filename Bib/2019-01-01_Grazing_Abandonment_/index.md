@@ -1,0 +1,28 @@
++++
+title = "Grazing Abandonment Delays the Effect of Temperature on Aboveground Net Primary Production in Atlantic Grasslands"
+date = "2019-01-01"
+authors = ["Arantza Aldezabal", "Inaki Odriozola", "Gonzalo Garc\'\ia-Baquero"]
+publication_types = ["2"]
+publication = "Rangeland Ecology \&amp$\mathsemicolon$ Management, (72), 5, _pp. 822--831_, https://doi.org/10.1016/j.rama.2019.03.004"
+publication_short = "Rangeland Ecology \&amp$\mathsemicolon$ Management, (72), 5, _pp. 822--831_, https://doi.org/10.1016/j.rama.2019.03.004"
+abstract = ""
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = "https://doi.org/10.1016/j.rama.2019.03.004"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
