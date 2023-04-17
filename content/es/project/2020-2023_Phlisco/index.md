@@ -1,5 +1,5 @@
 ---
-# date: ""
+date: "2020-01-01"
 external_link: ""
 image:
   caption:
@@ -10,28 +10,33 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
+summary: "2020-2023. Participante(s) del grupo: Usue López Perez, Jon Miranda-Apodaca"
 tags:
-- Fisio
-- Floema
-- Fotosíntesis
+- Phloem
+- Water Use Efficiency
+- Photosynthesis
 - Fagus sylvatica
-- Conductancia del mesófilo
-- Isótopos estables
-- Eficiencia en el uso del agua
-title: Aplicación de la composición isotópica de carbono del floema para resolver discrepancias entre estimas de eficiencia del uso del agua en escenarios de cambio climático (PHLISCO) (2020-2023)
+- Climate Change
+- Stable isotopes
+- Mesophyll conductance
+- Fisio
+title: Reconciling water-use efficiency estimates across scales under future climate change scenarios using PHLoem carbon ISotopic
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- UsuePérez-López
-- JonMiranda-Apodaca
+- Usue Pérez López
+- Jon Miranda-Apodaca
 - Teresa Gimeno
 - John Marshall
 - Adriá Barbetá
 - Javier Cano
 - Javier Porras
+
 ---
 
-El intercambio de carbono y agua entre la vegetación terrestre y la atmósfera es clave para la regulación del clima a nivel global. La eficiencia del uso del agua (WUE por sus siglas en inglés) es el rasgo que describe el vínculo que existe entre los ciclos terrestres del agua y el carbono. WUE constituye un parámetro fundamental dentro de los modelos dinámicos de la vegetación para predecir el impacto del clima en el funcionamiento de la vegetación y vice-versa. El parámetro WUE se puede estimar empleando distintas aproximaciones experimentales o metodologías, a cada una de las cuales se aplica una distinta escala espacial y temporal. Las comparaciones empíricas de las estimas de WUE muestran importantes fuentes de desacuerdo entre distintas estimas, pero no son capaces de revelar las causas que las subyacen. Dos de las aproximaciones más utilizadas para medir WUE consisten en medir la relación entre la tasa de fotosíntesis y conductancia estomática, mediante medidas de intercambio gaseoso a distintas escalas y la medida de la composición isotópica del carbono (d13C) de los tejidos vegetales. Esta última aproximación se basa el principio de que la composición isotópica de la materia vegetal es el resultado de la discriminación isotópica que ocurre durante la difusión a través de los estomas y durante la fijación de carbono por la enzima Rubisco. La inmensa mayoría de este tipo de estudios se centra en el análisis del d13C de las hojas y la madera, a pesar de que éstos reflejan el estatus fisiológico de la planta integrado a lo largo de la ontogenia de estos órganos. Además, en árboles altos, existe una gran variabilidad en el d13C entre hojas de distintas capas del dosel y por tanto las medidas individuales no pueden capturar la variabilidad experimentada a nivel de árbol entero. El análisis de d13C del floema constituye una alternativa muy prometedora, puesto que la señal del floema debería integrar la totalidad del dosel. Sin embargo, incluso las estimas de WUE a partir de d13C del floema son menores que las calculadas a partir de medidas de intercambio gaseoso. Esto es debido fundamentalmente a que en los cálculos de WUE a partir de d13C se obvia la resistencia del interior de la hoja, en el mesófilo. La conductancia del mesófilo (gm) es un carácter que varía entre grupos funcionales y en árboles también dentro de individuos. Aún más importante, gm es sensible a los motores de cambio climático, como el aumento del déficit de la presión de vapor y de la concentración de CO2 en la atmósfera. Estudios anteriores han mostrado que obviar la resistencia de gm en los cálculos de WUE a partir de d13C introduce un error de cálculo que aumenta con el estrés hídrico. Estos mismos estudios muestran que incluso después de incorporar el efecto de gm, existen discrepancias entre estimas de WUE y que los procesos de fraccionamiento post-fotosintético serían los causantes más probables de estas discrepancias. El objetivo de este proyecto es desarrollar una nueva aproximación experimental para reconciliar estimas de WUE de distintas metodologías y escalas temporales y espaciales poniendo especial énfasis en el uso del d13C del floema. En este proyecto utilizaremos el haya (Fagus sylvatica) como especie modelo. En el proyecto combinaremos una aproximación experimental con medidas en campo y en experimentos en condiciones controladas, con un ejercicio de modelización. En las distintas tareas caracterizaremos gm y WUE a partir de distintas metodologías.
+The exchange of water for carbon between the vegetation and the atmosphere constitutes the most important feedback mechanism underlying the regulation of water and carbon (C) cycles by the terrestrial biosphere. Water use efficiency (WUE) is the trait that serves to describe this intimate link between the C and water cycles and is a crucial parameter incorporated in many land-surface-models to predict vegetation-climatic feedbacks under future climate change scenario. WUE can be estimated using multiple approaches and methodologies concerning different temporal spatial and temporal scales. Empirical comparison of WUE estimates reveal that important disagreements exists among methodologies; however, these empirical comparisons cannot reveal the underlying mechanisms driving these discrepancies. Two of the most widely used methodologies to estimate WUE are measurements of the ratio of photosynthesis to stomatal conductance to water, using gas-exchange techniques, and analyses of the carbon isotopic composition (d13C) of plant material. This latter approach is based on the assumption that the d13C of plant material is mostly the result of isotopic discrimination occurring during diffusion through the stomatal pores and fractionation at the point of carboxylation. The vast majority of these studies analyses d13C in either the leaves or the wood, but these reflect the signal of the plant physiological status all along the organ ontogeny. In addition, in tall trees, d13C varies greatly among leaves and thus individual measurements cannot capture whole-tree physiological status. Analyses of the phloem d13C constitute a promising avenue, as the phloem signal, when collected at the base of the trunk should reflect the whole tree physiological performance. Still, WUE estimates from d13C, even when they come from the phloem, are usually lower than WUE from measurements of gas-exchange. This is partly due the fact that estimates of WUE from d13C most often neglect the leaf internal resistance to CO2 diffusion, beyond the stomatal pores. Mesophyll conductance (gm) is the inverse of this resistance and it is a trait that varies greatly among plant functional types and in large individuals (adult trees) also among canopy layers. Furthermore, gm also varies greatly in response to climate change drivers including increasing vapour pressure deficit, water availability and atmospheric CO2concentration. Previous studies, including ours, combining measurements of gm with WUE from different estimates suggest that neglecting gm limitations in the calculations of WUE from d13C could induce large biases and that these biases would be even larger under water limitations.
+
+Still, these studies showed that even after incorporating gm limitations, other post-photosynthetic fractionation processes exist that underlie disagreements between WUE estimates. The aim of this proposal is to reconcile estimates of WUE describing vegetation functioning at different scales by incorporating internal leaf diffusional limitations, using Fagus sylvatica as a model species. This objective will materialise in the form of a novel protocol for estimating whole-tree WUE at large spatial scales from analyses of the phloem content. In this project, we will combine measurements under controlled conditions, intensive field measurements of physiological performance, sampling of physiological performance (including WUE from different methodolgies and gm) across a broad geographical range.
+

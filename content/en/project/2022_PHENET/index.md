@@ -1,12 +1,12 @@
 ---
-date: "2023-01-15"
+date: "2023-01-01"
 external_link: ""
 image:
   caption: "Testing the efficacy of seaweed extracts on greenhouse-grown Vitis vinifera plants"
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2023-2027. Team participant(s): Ander Yoldi Achalandabaso"
 tags:
 
 title: "Tools and methods for extended plant PHENotyping and EnviroTyping services of European Research Infrastructures, PHENET"

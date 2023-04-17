@@ -1,12 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "202?. Team participant(s): Maite Lacuesta (IP), Alberto Muñoz-Rueda, Amaia Mena Petite, Esti Sarrionandia, Nere Amaia Laskurain, Arantza Aldezabal"
 tags:
 - Microbial biodiversity
 - Common bean
@@ -26,9 +26,9 @@ authors:
 - Maite Lacuesta IP
 - Alberto Muñoz-Rueda
 - Amaia Mena Petite 
-- Estíbaliz Sarrionandia Areitio
-- Nere Amaia Lascurain
-- Arantza Aldezabal Roteta
+- Esti Sarrionandia
+- Nere Amaia Laskurain
+- Arantza Aldezabal
 ---
 
 

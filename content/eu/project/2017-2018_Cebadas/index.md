@@ -1,5 +1,5 @@
 ---
-date: "2021-03-25"
+date: "2020-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
+summary: "????. Taldekide partaidea(k): Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
 tags:
 - Quality
 - Barley
@@ -27,10 +27,10 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- UsuePérez-López
-- AnderYoldi-Achalandabaso
-- JonMiranda-Apodaca
-- AlbertoMuñoz-Rueda
+- Usue Pérez-López
+- Ander Yoldi Achalandabaso
+- Jon Miranda-Apodaca
+- Alberto Muñoz-Rueda
 
 ---
 

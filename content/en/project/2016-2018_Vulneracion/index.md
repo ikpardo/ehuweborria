@@ -1,5 +1,5 @@
 ---
-# date: ""
+# date: "2016-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: " "
+summary: "2016-2018. Team participant(s): Asier Herrero"
 tags:
 - Forest
 title: Vulnerabilidad y adaptación de los bosques ibéricos a la sequía- una aproximación multi-escala basada en la dendroecología, inventarios forestales y modelización (CGL2015-69186-C2-2-R).

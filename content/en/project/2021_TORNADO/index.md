@@ -1,12 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2021-. Team participant(s): Asier Herrero, Nere Amaia Laskurain, Esti Sarrionaindia"
 tags:
 - Resilience
 - Climate change
@@ -23,7 +23,7 @@ url_video: ""
 authors: 
 - Asier Herrero
 - Nere Amaia Laskurain
-- Estibaliz Sarrionandia
+- Esti Sarrionandia
 ---
 
 The objective of the present project is to analyze the forest resilience capacity to extreme winds comparing two alternative managements: wood extraction (salvage logging) vs. wood retention. Beech (*Fagus sylvatica* L.) forest in Legaire (Basque Autonomous Region), which suffer the impact of a tornado in June 2018 provoking the loss of tree cover in 40 ha, was used as a study case.

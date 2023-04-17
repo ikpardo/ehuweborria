@@ -1,12 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2021-01-21"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2021. Taldekide partaidea(k): Asier Herrero"
 tags:
 - Erresilientzia
 - Klima aldaketa
@@ -23,7 +23,7 @@ url_video: ""
 authors: 
 - Asier Herrero
 - Nere Amaia Laskurain
-- Estibaliz Sarrionandia
+- Esti Sarrionandia
 ---
 
 Proiektuaren helburua baso ekosistemen erresilientzia gaitasuna aztertzea da muturreko haizeteen aurrean, bi kudeaketa alternatiboak konparatuz: egurraren erauzketa (salbamendu mozketa) eta egurraren erretentzioa. Ikerketa kasu bezala Lagaireko pagadia (*Fagus sylvatica* L.; Euskal Autonomi Erkidegoa) erabiliko da, 2018ko ekainean tornado baten inpaktua jaso zuena, zuhaitzen estaldura galduz 40 ha-tan. 

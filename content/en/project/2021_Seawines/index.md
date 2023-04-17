@@ -1,12 +1,12 @@
 ---
-date: "2021-09-25"
+date: "2020-01-01"
 external_link: ""
 image:
   caption: "Testing the efficacy of seaweed extracts on greenhouse-grown Vitis vinifera plants"
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2020. Team participant(s): Amaia Mena-Petite, Maite Lacuesta Calvo, Usue Pérez-Lopez"
 tags:
 - Downy
 - Plant-biostimulants

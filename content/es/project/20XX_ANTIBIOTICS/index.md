@@ -1,18 +1,17 @@
 ---
-date: "2021-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
-  caption: "Ensayo en invernadero para evaluar la presencia de antibióticos ensuelos de pastos de explotaciones queseras"
+  caption: "Greenhouse trial to assess the presence of antibiotics in pasture soils from cheese farms"
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2021-2022. Participante(s) del grupo: Maite Lacuesta Calvo (IP), Usue Pérez López, Esti Sarrionandia, Amaia Mena-Petite, Alberto Muñoz-Rueda, Jon Miranda-Apodaca"
 tags:
 - Plant Biology
 - Animal Production 
 - Plant Production and Food Science and Technology
 - Food quality and safety
-
 title: "Assesment and preliminary diagnosis of dissemination of antibiotic resistente genes through the food production chain in the Basque Country"
 
 url_code: ""
@@ -22,7 +21,7 @@ url_video: ""
 authors: 
 - Mailo Virto (IP)
 - Maite Lacuesta (IP)
-- Luis Havier Rodriguez Barrón
+- Luis Javier Rodriguez Barrón
 - Gustavo Amores
 - Igor Fernández
 - Noelia Aldai

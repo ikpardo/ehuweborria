@@ -1,12 +1,12 @@
 ---
-date: "2022-06-15"
+date: "2023-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2023-2027. Taldekide partaidea(k): Arantza Aldezabal"
 tags:
 - Equine farmers 
 - Advisors

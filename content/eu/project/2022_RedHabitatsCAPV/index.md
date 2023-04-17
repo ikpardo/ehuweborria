@@ -1,12 +1,12 @@
 ---
-date: "2022-06-15"
+date: "2022-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2022-2025. Taldekide partaidea(k): Arantza Aldezabal"
 tags:
 - Estrategia de la biodiversidad
 - Directiva hábitat 
@@ -17,6 +17,7 @@ tags:
 
 title: "Asesoría técnica para la Red de Seguimiento y Evaluación Periódica del Estado de Conservación de los Hábitats de matorrales, pastos y pastizales en la CAPV en el periodo 2022-2025 (DESMA/002SV/2022)"
 
+subtitle: ''
 url_code: ""
 url_pdf: ""
 url_slides: ""

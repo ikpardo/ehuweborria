@@ -1,12 +1,12 @@
 ---
-date: "2022-06-15"
+date: "2013-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2013-2016. Team participant(s): Arantza Aldezabal, Nerea Amaia Laskurain"
 tags:
 - Selección de dieta
 - Rumiantes
@@ -21,8 +21,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- Arantza Aldezabal Roteta (IP)
-- Nere Amaia Laskurain Ayastuy
+- Arantza Aldezabal (IP)
+- Nere Amaia Laskurain
 - Ana Etxeberria Gurrutxaga
 
 ---

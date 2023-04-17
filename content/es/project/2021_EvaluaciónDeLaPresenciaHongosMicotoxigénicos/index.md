@@ -1,5 +1,5 @@
 ---
-# date: ""
+date: "2021-01-01"
 external_link: ""
 image:
   caption:
@@ -10,13 +10,12 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: 
+summary: "20XX-. Participante(s) del grupo: Usue Pérez López, Jon Miranda-Apodaca, MaiteLacuesta, Alberto Muñoz-Rueda, Amaia Mena-Petite"
 tags:
-- Fisio
 - Alternaria
-- Micotoxinas
-- Sanidad alimenticia
-
+- Mycotoxins
+- Food safety
+- Fisio
 title: Evaluación de la presencia de hongos micotoxigénicos del género Alternaria en alimentos animales y humanos producidos en la CAPV.
 url_code: ""
 url_pdf: ""
@@ -28,14 +27,16 @@ authors:
 - MaiteLacuesta
 - AlbertoMuñoz-Rueda
 - AmaiaMena-Petite
+
 ---
 
-Alternaria es un género fúngico muy común, donde se incluyen numerosas especies saprofitas, endofíticas y patógenas ampliamente distribuidas en el suelo y la materia orgánica en descomposición. Incluye especies patógenas que pueden invadir los cultivos vegetales antes y después de la recolección y es responsable de considerables pérdidas económicas, debido a que reduce el rendimiento de las cosechas y produce alteraciones en los vegetales durante su almacenamiento. Las especies del género Alternaria sintetizan más de 70 metabolitos secundarios tóxicos para las plantas (fitotoxinas), algunos de los cuales afectan también a personas y animales, por lo que se consideran micotoxinas. Las principales micotoxinas producidas por las principales especies toxigénicas del género Alternaria no dependen de la especie hospedadora, y son  el altenueno (ALT), alternariol (AOH), alternariol monometil ether (AME), acido tenuazonico (TeA) y tentoxina (TEN). Resulta importante señalar que la síntesis de micotoxinas depende tanto de la presencia de la especie de Alternaria productora como de las condiciones ambientales.
-La exposición a las toxinas de Alternaría spp. se ha relacionado con la aparición de efectos adversos para la salud en personas y animales y, en muchos casos, se ha demostrado que tienen capacidad genotóxica, mutagénica, carcinogénica y citotóxica. Las micotoxinas de Alternaria spp. se han aislado de frutas (manzana, pera, melón, albaricoque, uvas, uvas pasas, fresa, aceituna, cítricos e higos desecados), hortalizas (tomate, pimiento y zanahoria) y tubérculos (patata), así como de numerosos alimentos procesados elaborados con materias primas contaminadas (zumos, conservas, salsas, etc.). Por tanto, el objetivo de este proyecto es evaluar la presencia de hongos micotoxigénicos del género Alternaria y producción de sus micotoxinas en alimentos de origen vegetal producidos en la CAPV.
-(1)	Proporcionaremos datos para elaborar un análisis de riesgo de micotoxinas de Alternaria en distintos alimentos consumidos en la CAPV.
+Alternaria is a very common fungal genus, including numerous saprophytic, endophytic, and pathogenic species widely distributed in soil and decaying organic matter. It includes pathogenic species that can invade vegetable crops before and after harvesting and is responsible for considerable economic losses, due to the fact that it reduces the yield of the crops and produces alterations in the vegetables during their storage. Species of the genus Alternaria synthesize more than 70 secondary metabolites toxic to plants (phytotoxins), some of which also affect people and animals, which is why they are considered mycotoxins. The main mycotoxins produced by the main toxigenic species of the genus Alternaria do not depend on the host species, and are altenuene(ALT), alternariol (AOH), alternariol monomethyl ether (AME), tenuazonic acid (TeA) and tentoxin (TEN). It is important to note that mycotoxin synthesis depends both on the presence of the producing Alternaria species and on environmental conditions.
+Exposure to the toxins of Alternaria spp. it has been linked to the occurrence of adverse health effects in humans and animals and, in many cases, has been shown to have genotoxic, mutagenic, carcinogenic and cytotoxic effects. The mycotoxins of Alternaria spp. have been isolated from fruits (apple, pear, melon, apricot, grapes, raisins, strawberry, olive, citrus and dried figs), vegetables (tomato, pepper and carrot) and tubers (potato), as well as from numerous processed foods with contaminated raw materials (juices, preserves, sauces, etc.). Therefore, the objective of this project is to evaluate the presence of mycotoxigenic fungi of the genus Alternaria and the production of their mycotoxins in foods of plant cultivated in the Basque Country.
+We will provide data to prepare a risk analysis of Alternaria mycotoxins in different foods consumed in the Basque Country.
 
-(2)	Definiremos qué alimentos de consumo humano son los que tienen mayor riesgo de contener Alternaria y sus micotoxinas. 
+We will define which foods for human consumption are those with the highest risk of containing Alternaria and its mycotoxins.
 
-(3)	Estableceremos las condiciones ambientales (riesgo estacional) donde la aparición de Alternaria y sus micotoxinas sea mínima y máxima.
+We will establish the environmental conditions (seasonal risk) where the appearance of Alternaria and its mycotoxins is minimum and maximum.
 
-(4)	Definiremos las pautas de almacenamiento y manipulación del alimento para disminuir la presencia de Alternaria y sus micotoxinas
+We will define the guidelines for storage and handling of food to reduce the presence of Alternaria and its mycotoxins
+

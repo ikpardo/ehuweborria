@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: "XXXX-Team participant(s): Usue Pérez López, Jon Miranda-Apodaca, Ander Yoldi Achalandabaso, Aitor Agirresarobe, Alberto Muñoz-Rueda, Maite Lacuesta, Amaia Mena-Petite, Arantza Aldezabal"
+summary: "XXXX-Participante(s) del grupo: Usue Pérez López, Jon Miranda-Apodaca, Ander Yoldi Achalandabaso, Aitor Agirresarobe, Alberto Muñoz-Rueda, Maite Lacuesta, Amaia Mena-Petite, Arantza Aldezabal"
 tags: 
 - Quality
 - Conventional cultivation vs organic

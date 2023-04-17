@@ -1,12 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: "Ensayo de lechugas en presencia de antibióticos. Muestreo de suelos par identificación de presencia de antibióticos"
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "202X. Taldekide partaidea(k): Amaia Mena Petite, Arantza Del Canto, Esti Sarrionandia, Irati Ijurco, Usue Pérez-López, Arantza Aldezabal, Maite Lacuesta Calvo"
 tags:
 - Diseminación de antibióticos
 - Cadena alimentaria
@@ -31,7 +31,7 @@ authors:
 - Irati Ijurco
 - Usue Pérez-López
 - Arantza Aldezabal 
-- Maite Lacuesta 
+- Maite Lacuesta Calvo
 
 ---
 

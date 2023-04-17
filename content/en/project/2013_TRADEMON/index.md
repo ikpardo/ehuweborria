@@ -1,12 +1,12 @@
 ---
-date: "2013-06-15"
+date: "2014-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2014-2017. Team participant(s): Arantza Aldezabal, Esti Sarrionaindia"
 tags:
 - Pastoreo de montaña
 - Ovejas lecheras
@@ -24,7 +24,7 @@ url_slides: ""
 url_video: ""
 authors: 
 - Luis Javier Rodríguez Barron (IP1)
-- Arantza Aldezabal Roteta (IP2)
+- Arantza Aldezabal (IP2)
 - Marta María Albisu Aguado 
 - Francisco José Pérez Elortondo 
 - Ana Isabel Nájera Ortigosa 
@@ -36,7 +36,7 @@ authors:
 - Ainhoa Magrach González 
 - María Ángeles Bustamante Gallego 
 - Gustavo Amores Olazagirre 
-- Estibaliz Sarrionaindia Areitio
+- Esti Sarrionaindia
 - Gonzalo Gamboa Jiménez
 
 ---

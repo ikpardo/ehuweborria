@@ -1,22 +1,22 @@
 ---
-date: "2023-01-15"
+date: "2023-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2023-2027. Participante(s) del grupo: Ander Yoldi Achalandabaso"
 tags:
 
-title: "Herramientas y métodos para la extensión de los servicios de las Infraestructuras de Investigación Europeas en fenotipado de plantas y medioambiente, PHENET"
+title: "Landareen eta ingurumen fenotipizazio tresnak eta metodoak zabaltzeko Europako Ikerketa Azpiegituren zerbitzuak, PHENET"
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- 20 socios y 3 instituciones asociadas (incl. Ander Yoldi Achalandabaso)
+- 20 socios/as y 3 entidades asociadas
 
 ---
 

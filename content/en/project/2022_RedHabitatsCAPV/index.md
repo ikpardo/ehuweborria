@@ -1,12 +1,12 @@
 ---
-date: "2022-06-15"
+date: "2022-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2022-2025. Team participant(s): Arantza Aldezabal"
 tags:
 - Estrategia de la biodiversidad
 - Directiva hábitat 

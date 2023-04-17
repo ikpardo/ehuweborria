@@ -1,22 +1,22 @@
 ---
-date: "2021-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "202?. Taldekide partaidea(k): Maite Lacuesta (IP), Alberto Muñoz-Rueda, Amaia Mena Petite, Esti Sarrionandia, Nere Amaia Laskurain, Arantza Aldezabal"
 tags:
-- Biodiversidad microbiana
-- Alubia
-- Sequía
-- Fijación de N
-- Inóculos
-- Cultivo ecológico
-- Calidad de suelos
+- Microbial biodiversity
+- Common bean
+- Drought
+- N fixation
+- Inoculums
+- Organic farming
+- Soil quality
 
-title: "Mejora de la productividad de la alubia en condiciones de sequía favorciendo la biodiversidad y calidad de los suelos"
+title: "Improving common bean productivity under drought conditions by favouring biodiversity and soil quality"
 
 url_code: ""
 url_pdf: ""
@@ -26,14 +26,13 @@ authors:
 - Maite Lacuesta IP
 - Alberto Muñoz-Rueda
 - Amaia Mena Petite 
-- Estíbaliz Sarrionandia Areitio
-- Nere Amaia Lascurain
-- Arantza Aldezabal Roteta
+- Esti Sarrionandia
+- Nere Amaia Laskurain
+- Arantza Aldezabal
 ---
 
 
-Este proyecto se engloba dentro un trabajo más amplio cuyo objetivo es encontrar
-estrategias para aumentar la tolerancia a la sequía de la alubia en Álava, tanto en cultivo ecológico como convencional. Durante estos estudios hemos comprobado que la productividad de la alubia es muy dependiente de su estado nutricional, de la eficiencia de las bacterias fijadoras de N para stablecer simbiosis y, además, varía con la cepas inoculadas siendo todos estos factores determinantes en la mayor o menor tolerancia a la sequía de las diferentes variedades de alubia empleadas. 
+Este proyecto se engloba dentro un trabajo más amplio cuyo objetivo es encontrar estrategias para aumentar la tolerancia a la sequía de la alubia en Álava, tanto en cultivo ecológico como convencional. Durante estos estudios hemos comprobado que la productividad de la alubia es muy dependiente de su estado nutricional, de la eficiencia de las bacterias fijadoras de N para stablecer simbiosis y, además, varía con la cepas inoculadas siendo todos estos factores determinantes en la mayor o menor tolerancia a la sequía de las diferentes variedades de alubia empleadas. 
 
 Esta propuesta pretende ampliar los conocimientos adquiridos anteriormente que permita comprender mejor los diferentes factores que afectan la eficacia de las simbiosis de la alubia y mejorar su productividad, sobre todo en condiciones de sequía y, en particular, en cultivo ecológico. Así, se evaluará la influencia de la biodiversidad microbiana del suelo en la tolerancia a la sequía y en la productividad de la planta. Además se analizarán los suelos para detectar la posible presencia de antibióticos y su influencia en el crecimiento de las plantas y sobre la biodiversidad.
 

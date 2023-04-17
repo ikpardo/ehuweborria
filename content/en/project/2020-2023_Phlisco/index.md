@@ -1,5 +1,5 @@
 ---
-date: "2021-03-25"
+date: "2020-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: " "
+summary: "2020-2023. Team participant(s): Usue López Perez, Jon Miranda-Apodaca"
 tags:
 - Phloem
 - Water Use Efficiency
@@ -26,8 +26,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- UsuePérez-López
-- JonMiranda-Apodaca
+- Usue Pérez López
+- Jon Miranda-Apodaca
 - Teresa Gimeno
 - John Marshall
 - Adriá Barbetá

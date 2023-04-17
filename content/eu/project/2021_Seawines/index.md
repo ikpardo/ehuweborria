@@ -1,12 +1,12 @@
 ---
-date: "2021-09-25"
+date: "2020-01-01"
 external_link: ""
 image:
-  caption: "Negutegian hazitako  Vitis vinifera landareetan alga-estratuen eraginkortasuna probatzen"
+  caption: "Testing the efficacy of seaweed extracts on greenhouse-grown Vitis vinifera plants"
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2020. Taldekide partaidea(k): Amaia Mena-Petite, Maite Lacuesta Calvo, Usue Pérez-Lopez"
 tags:
 - Downy
 - Plant-biostimulants
@@ -16,7 +16,7 @@ tags:
 - Ulva
 - Vitis vinifera 
 - Vitivinicultura
-title: "Mahastietan lizuna eta oidioaren eragina murrizteko eraginkorrak diren alga-estraktu eta dosiak hautatzea: mahatsondoaren fisiologian eta mahatsaren eta ardoaren mikrobiotan"
+title: "Selecting most effective seaweeds extracts and doses to reduce downy and powdery mildew affection in grapevine: Effects on grapevine physiology, and grape and wine microbiota"
 
 url_code: ""
 url_pdf: ""

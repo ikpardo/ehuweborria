@@ -1,12 +1,13 @@
 ---
-date: "2019-06-15"
+date: "2019-01-01"
 external_link: ""
 image:
   caption: "Nódulo extraidos de plantas crecidas en campo"
+
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2019. Taldekide partaidea(k): Maite Lacuesta Calvo (IP), Alberto Muñoz-Rueda"
 tags:
 - Alubia
 - Sequía

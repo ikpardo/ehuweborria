@@ -1,12 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2022-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2022. Team participant(s): Arantza Aldezabal"
 tags:
 - Climate
 - Resilience

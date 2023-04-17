@@ -1,12 +1,12 @@
 ---
-date: "2023-01-15"
+date: "2023-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2023-2027. Taldekide partaidea(k): Ander Yoldi Achalandabaso"
 tags:
 
 title: "Landareen eta ingurumen fenotipizazio tresnak eta metodoak zabaltzeko Europako Ikerketa Azpiegituren zerbitzuak, PHENET"

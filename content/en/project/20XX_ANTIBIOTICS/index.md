@@ -1,12 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: "Greenhouse trial to assess the presence of antibiotics in pasture soils from cheese farms"
   focal_point: Smart
 
 slides: ""
-summary: " "
+summary: "2021-2022. Team participant(s): Maite Lacuesta Calvo (IP), Usue Pérez López, Esti Sarrionandia, Amaia Mena-Petite, Alberto Muñoz-Rueda, Jon Miranda-Apodaca"
 tags:
 - Plant Biology
 - Animal Production 
@@ -21,7 +21,7 @@ url_video: ""
 authors: 
 - Mailo Virto (IP)
 - Maite Lacuesta (IP)
-- Luis Havier Rodriguez Barrón
+- Luis Javier Rodriguez Barrón
 - Gustavo Amores
 - Igor Fernández
 - Noelia Aldai

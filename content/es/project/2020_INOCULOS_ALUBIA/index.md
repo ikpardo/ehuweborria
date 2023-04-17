@@ -1,13 +1,12 @@
 ---
-date: "2021-06-15"
+date: "2020-01-01"
 external_link: ""
 image:
-  caption: "Ensayo en cámar de crecimiento. Valoración de la actividad fotosintética
-Ensayo en campo"
+  caption: "Ensayo en cámara de crecimiento. Valoración de la actividad fotosintética"
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2020. Participante(s) del grupo: Maite Lacuesta Calvo (IP)"
 tags:
 - Alubia
 - Cultivo ecológico
@@ -16,7 +15,7 @@ tags:
 - Sequía
 - Micorrizas
 
-title: "Evaluación de inóculos con potencial agrícola para la mejora de la tolerancia a la sequía en alubia. 2020"
+title: "Evaluación de inóculos con potencial agrícola para la mejora de la tolerancia a la sequía en alubia"
 
 url_code: ""
 url_pdf: ""

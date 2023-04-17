@@ -1,5 +1,5 @@
 ---
-# date: ""
+date: "2020-01-01"
 external_link: ""
 image:
   caption:
@@ -10,16 +10,16 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
+summary: "????. Participante(s) del grupo: Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
 tags:
-- Calidad
-- Cebada
-- Elevado CO2
-- Seguridad alimentaria
-- Cambio climático
-- Sequía
-- Temperatura
-- Tolerancia
+- Quality
+- Barley
+- High CO2
+- Food security
+- Climate Change
+- Drought
+- Temperature
+- Tolerance
 - Fisio
 title: Determinantes bioquímicos y fisiológicos de la producción y la calidad de la cebada de uso maltero –un reto ante las condiciones climáticas futuras– 
 url_code: ""
@@ -27,13 +27,14 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- UsuePérez-López
-- AnderYoldi-Achalandabaso
-- JonMiranda-Apodaca
-- AlbertoMuñoz-Rueda
+- Usue Pérez-López
+- Ander Yoldi Achalandabaso
+- Jon Miranda-Apodaca
+- Alberto Muñoz-Rueda
+
 ---
 
-La producción agrícola se ve fuertemente influenciada por el clima, y cualquier cambio en el mismo puede reducir la productividad de los cultivos y poner en riesgo la seguridad alimentaria de la creciente población mundial. La cebada es una de las especies de cereal más importantes a nivel mundial en términos de producción, utilizándose tanto en la alimentación animal como humana así como en la industria maltera. Las predicciones sobre el clima plantean un continuo incremento del CO2 de la atmósfera, asociado con temperaturas más elevadas y con un aumento de la duración e intensidad de las sequías. Ello implica que la productividad de los cultivos se verá afectada por complejas interacciones ambientales entre estos factores (mayor [CO2], mayor temperatura y sequía).
-En este sentido, entender qué procesos bioquímicos y fisiológicos están implicados en las interacciones de la sequía, la elevada temperatura y el elevado CO2 y conocer a través de qué mecanismos afectan al crecimiento, producción final y calidad del grano es importante si queremos seleccionar cultivares de cebada que se adapten bien a las condiciones climáticas futuras, manteniendo, a ser posible, la producción y calidad.
-Esta área de investigación es importante debido a sus potenciales aplicaciones en campos como las industrias agropecuaria y alimentaria. Se están realizando estudios donde se identifican caracteres bioquímicos y fisiológicos que aumenten la tolerancia de los cultivos en las condiciones climáticas previstas para el futuro; sin embargo, la influencia de estos caracteres sobre la producción final no está tan estudiada y mucho menos la influencia de éstos sobre la calidad del grano. Por otro lado, estudios donde se combinan los tres factores (elevado CO2, elevada temperatura y sequía) no son muy abundantes y, por tanto, no podemos predecir cómo se desarrollarán las plantas bajo las condiciones futuras. Esto es, no sabemos si los mecanismos que permitan a la planta beneficiarse del efecto fertilizador del elevado CO2 serán válidos bajo las condiciones combinadas de aquél con las elevadas temperatura y sequía previstas.
-Por ello, el objetivo principal de este Proyecto de Investigación es determinar qué procesos bioquímicos y fisiológicos están implicados en la interacción de condiciones combinadas de elevado CO2, alta temperatura y sequía, y conocer a través de qué mecanismos afectan al crecimiento, producción y calidad del grano de dos cultivares de cebada. La clave de esta propuesta es que el estudio será multiescalar (parámetros agronómicos fisiológicos y moleculares) y multifactorial (elevada Tª, elevado CO2 y sequía) lo que permitirá un análisis profundo de las interacciones que ocurrirán en condiciones climáticas futuras.
+Agricultural production is strongly influenced by climate, and any change in climate can reduce crop productivity and put the food security of the world's growing population at risk. Barley is one of the most important cereal species worldwide in terms of production, being used both in animal and human food as well as in the malting industry. Climate predictions suggest a continuous increase in CO2 in the atmosphere, associated with higher temperatures and an increase in the duration and intensity of droughts. This implies that crop productivity will be affected by complex environmental interactions between these factors (higher [CO2], higher temperature and drought).
+In this sense, understanding which biochemical and physiological processes are involved in the interactions of drought, high temperature and high CO2 and knowing through what mechanisms affect growth, final production and grain quality is important if we want to select cultivars of barley that are well adapted to future climatic conditions, maintaining, if possible, production and quality.
+This area of research is important due to its potential applications in fields such as the agricultural and food industries. Studies are being carried out where biochemical and physiological characters related with increased tolerance capacity of the crops in the climatic conditions foreseen for the future are selected; However, the influence of these characters on the final production is not so studied, much less their influence on the quality of the grain. On the other hand, studies where the three factors are combined (high CO2, high temperature and drought) are not very abundant and, therefore, we cannot predict how plants will develop under future conditions. That is, we do not know if the mechanisms that allow the plant to benefit from the fertilizing effect of the high CO2 will be valid under the conditions combined with the high temperatures and drought expected.
+Therefore, the main objective of this research project is to determine which biochemical and physiological processes are involved in the interaction of combined conditions of high CO2, high temperature and drought, and to know through what mechanisms affect the growth, production and quality of the grain of two cultivars of barley. The key to this proposal is that the study will be multiscalar (physiological and molecular agronomic parameters) and multifactorial (high Tª, high CO2 and drought) which will allow a deep analysis of the interactions that will occur in future climatic conditions.

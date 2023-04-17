@@ -1,5 +1,5 @@
 ---
-date: "2021-03-25"
+date: "2021-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: " "
+summary: "20XX-. Team participant(s): Usue Pérez López, Jon Miranda-Apodaca, MaiteLacuesta, Alberto Muñoz-Rueda, Amaia Mena-Petite"
 tags:
 - Alternaria
 - Mycotoxins

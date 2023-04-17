@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: "2016-2018. Taldekide partaidea(k): Asier Herrero"
+summary: "2016-2018. Participante(s) del grupo: Asier Herrero"
 tags:
 - Forest
 title: Vulnerabilidad y adaptación de los bosques ibéricos a la sequía- una aproximación multi-escala basada en la dendroecología, inventarios forestales y modelización (CGL2015-69186-C2-2-R).

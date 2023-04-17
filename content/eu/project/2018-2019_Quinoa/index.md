@@ -1,5 +1,5 @@
 ---
-date: "2021-03-25"
+date: "2021-01-01"
 external_link: ""
 image:
   caption:
@@ -10,8 +10,8 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary:
-tags:
+summary: "XXXX-Taldekide partaidea(k): Usue Pérez López, Jon Miranda-Apodaca, Ander Yoldi Achalandabaso, Aitor Agirresarobe, Alberto Muñoz-Rueda, Maite Lacuesta, Amaia Mena-Petite, Arantza Aldezabal"
+tags: 
 - Quality
 - Conventional cultivation vs organic
 - Quinoa
@@ -25,14 +25,14 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- UsuePérez-López
-- JonMiranda-Apodaca
-- AnderYoldi-Achalandabaso
-- AitorAgirresarobe
-- AlbertoMuñoz-Rueda
-- MaiteLacuesta
-- AmaiaMena-Petite
-- ArantzaAldezabal
+- Usue Pérez López
+- Jon Miranda-Apodaca
+- Ander Yoldi Achalandabaso
+- Aitor Agirresarobe
+- Alberto Muñoz-Rueda
+- Maite Lacuesta
+- Amaia Mena-Petite
+- Arantza Aldezabal
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-date: "2022-06-15"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary:
+summary: "2021-2024. Taldekide partaidea(k): Arantza Aldezabal"
 tags:
 - Ganadería de ovino lechero
 - Sistemas intensivos y extensivos
