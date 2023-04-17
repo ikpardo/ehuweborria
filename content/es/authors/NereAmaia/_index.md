@@ -46,4 +46,4 @@ user_groups:
 
 ---
 
-Hemen laburpen txikia (250 karaktere)
+

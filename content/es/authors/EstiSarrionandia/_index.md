@@ -46,6 +46,7 @@ user_groups:
 
 ---
 
+
 La atracción que siento hacia las plantas me llevó a colaborar en el laboratorio de Botánica mientras cursaba la licenciatura de Biología en la Universidad del País Vasco/ EHU. Así descubrí el increible mundo de los hongos y desde entonces he trabajado con diferentes grupos de ese Reino. A lo largo de mi carrera investigadora he abordado diversos aspectos de la micología, como la biodiversidad y comunidades fúngicas, Listas Rojas de hongos, simbiosis micorrícicas, o la restauración de hábitats mediante el uso de hongos ectomicorrícicos.
 
 Recientemente me he centrado en el estudio de los hongos  micorrícico arbusculares y su repercusión en la agricultura con el objetivo de entender tanto los factores que afectan a su biodiversidad, así como el efecto de esa diversidad en el desarrollo de las especies agrícolas, sobre todo en situaciones climatológicas extremas.

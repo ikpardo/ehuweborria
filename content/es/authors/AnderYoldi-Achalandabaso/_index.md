@@ -26,6 +26,7 @@ user_groups:
   - Post-docs
 
 ---
+
 Graduado en Ciencias Ambientales. PhD student (último año). Mi tesis trata sobre el estudio de los efectos del cambio climático (ECO2, ET & Sequía) en los procesos fisiológicos, bioquímicos, moleculares y agronómicos a lo largo del ciclo completo de una variedad de cebada maltera. Más específicamente, me centro en los siguientes procesos:
 -	Relaciones hídricas de las plantas, estudiando tanto procesos fisiológicos como el rol de las aquaporinas en la modulación de los mismos.
 -	Metabolismo del carbono, haciendo hincapié en los procesos fisiológicos y bioquímicos de la fotosíntesis.

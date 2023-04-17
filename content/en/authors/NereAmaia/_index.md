@@ -34,4 +34,5 @@ user_groups:
 
 ---
 
+
 I am ecologist focused in forest dynamics and dendrochronology, with special emphasis in abiotic (climate) and biotic effects limiting tree growth in the forests of Iberian Peninsula. I have also a long experience in several research topics such as restoration of Atlantic forests habitats, mammalian herbivore diet (e.g. wild boar) and threatened flora.
