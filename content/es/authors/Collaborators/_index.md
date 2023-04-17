@@ -47,8 +47,8 @@ user_groups:
 
 ---
 
-- **Dr. Begoña Peco**, Univ. Autónoma de Madrid, Dpto Ecología y Conservación de los Ecosistemas Terrestres, Catedrática
-- **Dr. Iñaki Odriozola**, 
+- **Begoña Peco**, Univ. Autónoma de Madrid, Dpto Ecología y Conservación de los Ecosistemas Terrestres, Catedrática
+- **Iñaki Odriozola**, 
 - **Iratxe Zarraonaindia**, Univ. del País Vasco-EHU, Investigadora Ikerbasque
 - **Jónathan Heras**, Univ. de La Rioja, Dpto Matemáticas y Computación, Profesor Contratado Doctor
 - **Marina de Miguel**, INRAE, Institut des Sciences de la Vigne et du Vin, Investigador senior
