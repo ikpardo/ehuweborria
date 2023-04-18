@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary: "2021-. Team participant(s): Asier Herrero, Nere Amaia Laskurain, Esti Sarrionaindia"
+summary: "2021-2024. Team participant(s): Asier Herrero, Nere Amaia Laskurain, Esti Sarrionaindia"
 tags:
 - Resilience
 - Climate change

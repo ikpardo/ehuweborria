@@ -1,12 +1,12 @@
 ---
-date: "2021-01-21"
+date: "2021-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: "2021. Taldekide partaidea(k): Asier Herrero"
+summary: "2021-2024. Taldekide partaidea(k): Asier Herrero"
 tags:
 - Erresilientzia
 - Klima aldaketa
