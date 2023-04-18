@@ -47,10 +47,11 @@ user_groups:
 
 ---
 
-- **Begoña Peco**, Univ. Autónoma de Madrid, Dpto Ecología y Conservación de los Ecosistemas Terrestres, Catedrática
-- **Iñaki Odriozola**, 
-- **Iratxe Zarraonaindia**, Univ. del País Vasco-EHU, Investigadora Ikerbasque
-- **Jónathan Heras**, Univ. de La Rioja, Dpto Matemáticas y Computación, Profesor Contratado Doctor
-- **Marina de Miguel**, INRAE, Institut des Sciences de la Vigne et du Vin, Investigador senior
-- **Teresa E. Gimeno**, CREAF, Centro de Investigación Ecológica y Apliaciones Forestales, Investigadora senior
-- **Rubén Vicente**, ITQB NOVA, Univ. Nova de Lisboa; Head of Plant Ecophysiology and Metabolism lab
+- **Begoña Peco**, Univ. Autónoma de Madrid, Dpto Ecología y Conservación de los Ecosistemas Terrestres, Katedraduna
+- **Gonzalo García-Baquero Moneo**, Univ. de Salamanca, Irakasle Laguntzaile Doktorea
+- **Iñaki Odriozola**, Univ. of Copenhagen, Institute of Microbiology of the Czech Academy of Sciences, Ikertzaile postdoktorala
+- **Iratxe Zarraonaindia**, Univ. del País Vasco-EHU, Ikerbasque ikertzailea
+- **Jónathan Heras**, Univ. de La Rioja, Dpto Matemáticas y Computación, Irakasle Kontratatu Doktorea
+- **Marina de Miguel**, INRAE, Institut des Sciences de la Vigne et du Vin, Ikertzaile seniorra
+- **Teresa E. Gimeno**, CREAF, Centro de Investigación Ecológica y Apliaciones Forestales, Ikertzaile seniorra
+- **Rubén Vicente**, ITQB NOVA, Univ. Nova de Lisboa; Plant Ecophysiology and Metabolism laborategiko burua

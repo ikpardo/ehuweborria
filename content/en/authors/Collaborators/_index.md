@@ -48,7 +48,8 @@ user_groups:
 ---
 
 - **Begoña Peco**, Univ. Autónoma de Madrid, Dept Ecology and Conservation of Terrestrial Ecosystems, Professor
-- **Iñaki Odriozola**, 
+- **Gonzalo García-Baquero Moneo**, Univ. de Salamanca, Lecturer
+- **Iñaki Odriozola**, Univ. of Copenhagen, Institute of Microbiology of the Czech Academy of Sciences, Postdoctoral researcher 
 - **Iratxe Zarraonaindia**, Univ. del País Vasco-EHU, Ikerbasque researcher
 - **Jónathan Heras**, Univ. de La Rioja, Dept Mathematics and Computation, Lecturer
 - **Marina de Miguel**, INRAE, Institut des Sciences de la Vigne et du Vin, Senior researcher
