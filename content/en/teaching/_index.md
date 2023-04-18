@@ -110,4 +110,6 @@ header:
 
 **Evaluation of the forest management practices regarding the recover of Legaire beech forest (Álava/Araba) after the 2018 tornado**, Clara Jiménez Martínez, 2019, Faculty of Pharmacy (UPV/EHU), Supervised by: *Asier Herrero and Nere Amaia Laskurain*
 
+**The design of a didactic route through the beech trees of the Artaso forest in Oñati**, Martxel Aiastui Zabaleta, Faculty of Pharmacy (UPV/EHU), Supervised by: *Amaia Mena Petite*
+
 **Cannabinoides, una estrategia potencial para el tratamiento del Alzheimer**, Lorena Gil Mateo, 2018, Pharmacy Faculty (UPV/EHU), Supervised by: *Maite Lacuesta Calvo*

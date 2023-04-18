@@ -111,6 +111,8 @@ header:
 
 **Hongos micorrícicos, ¿microorganismos que podrían revolucionar la agricultura convencional?**, Irati Ijurco Gonzalez, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Esti Sarrionandia*
 
+**Diseño de una ruta didáctica por los hayedos del bosque de Artaso en Oñati**, Martxel Aiastui Zabaleta, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
 **Evaluación del manejo forestal en la recuperación del hayedo de Legaire (Álava) tras el paso del tornado de 2018**, 2019,  Clara Jiménez Martínez, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero y Nere Amaia Laskurain*
 
 **¿Influye el tipo de agricultura en las relaciones que forman las alubias con los hongos y bacterias del suelo?**, Ane Legardón  Rodriguez, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Esti Sarrionandia*

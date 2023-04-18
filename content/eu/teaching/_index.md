@@ -79,38 +79,40 @@ header:
 
 ---
 
-**Legaireko pagadiaren (Entziako mendilerroa, Araba) birsorkuntza gaitasunaren analisia 2018ko tornadoaren ondoren**, Garazi Garijo Sancet, 2022, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Asier Herrero eta Nere Amaia laskurain*
-
-**Ponderosa pinuaren basoen egitura demografikoaren analisia Arizonako iparraldean (EEBB)**, José Manuel López Casas, 2020, Zientzia Fakultatea, Alcalako Unibertsitatea. Zuzendaria(k): *Asier Herrero*
-
-**Baso kudeaketaren ebaluaketa Legaireko pagadiaren (Araba) berreskurapenean 2018ko tornadoaren ostean**, Clara Jiménez Martínez, 2019, Farmaziako Fakultatea (UPV/EHU). Zuzendaria(k): *Asier Herrero eta Nere Amaia Laskurain*
-
-**Ba al du nekazaritza motak eraginik babarrunek lurzoruko onddo eta bakterioekin eratzen dituzten erlazioetan?**, Ane Legardón  Rodriguez, 2019, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
-
-**Onddo mikorrizikoak, ohiko nekazaritza irauli dezakaten mikroorganismoak?**, Irati Ijurco Gonzalez, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
-
-**Rhizobium andui desberdinekin inokulatua izan den Alabako Babarrun Pintoa barietateak lehortearen aurrean duen tolerantzia eta indarberritze ahalmenaren azterketa**, Imanol Pinedo Aranaco, 2021, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
-
-**Babarruna-barietateen karakterizazioa, laborantza baldintzen arabera**, Eider Mintegi Zeberio, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo eta Iñaki Etaio Alonso*
-
-**Cannabinoides, una estrategia potencial para el tratamiento del Alzheimer**, Lorena Gil Mateo, 2018, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
-
-**Evaluación del efecto del elevado CO2 en la respuesta del tomata a la salinidad**, Hamoudi Echeikh, 2021, Farmacia Fakultatea (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo*
-
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Farmazia Fakultatea (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Arantza del Canto Romero*
-
-**Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
-
-**Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
-
-**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
-
-**Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
 
 **Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
 
-**Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica*  **, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Teresa Gimeno (BC3) eta Usue Pérez López*
+**Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica***, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Teresa Gimeno (BC3) eta Usue Pérez López*
 
 **Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
 
 **Klima aldaketak erantzun antioxidatzailean eta *Alternaria alternata* onddoaren infektagarritasunean duen eraginaren aldaraketa Paris batavia horia eta haritz hosto urazen artean**, Lucia Herrero Quintanilla, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
+
+**Legaireko pagadiaren (Entziako mendilerroa, Araba) birsorkuntza gaitasunaren analisia 2018ko tornadoaren ondoren**, Garazi Garijo Sancet, 2022, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Asier Herrero eta Nere Amaia laskurain*
+
+**Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
+
+**Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
+
+**Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
+
+**Evaluación del efecto del elevado CO2 en la respuesta del tomata a la salinidad**, Hamoudi Echeikh, 2021, Farmacia Fakultatea (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo*
+
+**Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Jon Miranda-Apodaca eta Usue Pérez López*
+
+**Babarruna-barietateen karakterizazioa, laborantza baldintzen arabera**, Eider Mintegi Zeberio, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo eta Iñaki Etaio Alonso*
+
+**Rhizobium andui desberdinekin inokulatua izan den Alabako Babarrun Pintoa barietateak lehortearen aurrean duen tolerantzia eta indarberritze ahalmenaren azterketa**, Imanol Pinedo Aranaco, 2021, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
+
+**Onddo mikorrizikoak, ohiko nekazaritza irauli dezakaten mikroorganismoak?**, Irati Ijurco Gonzalez, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
+
+**Ponderosa pinuaren basoen egitura demografikoaren analisia Arizonako iparraldean (EEBB)**, José Manuel López Casas, 2020, Zientzia Fakultatea, Alcalako Unibertsitatea. Zuzendaria(k): *Asier Herrero*
+
+**Ba al du nekazaritza motak eraginik babarrunek lurzoruko onddo eta bakterioekin eratzen dituzten erlazioetan?**, Ane Legardón  Rodriguez, 2019, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
+
+**Baso kudeaketaren ebaluaketa Legaireko pagadiaren (Araba) berreskurapenean 2018ko tornadoaren ostean**, Clara Jiménez Martínez, 2019, Farmaziako Fakultatea (UPV/EHU). Zuzendaria(k): *Asier Herrero eta Nere Amaia Laskurain*
+
+**Oñatiko Artaso basoko pago motzetan zehar ibilbide didaktiko baten diseinua**, Martxel Aiastui Zabaleta, 2019, Farmazia Fakultatea (UPV/EHU), Zuzendaria(k): *Amaia Mena Petite*
+
+**Cannabinoides, una estrategia potencial para el tratamiento del Alzheimer**, Lorena Gil Mateo, 2018, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo* 
