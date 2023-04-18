@@ -36,5 +36,5 @@ user_groups:
   - Senior researchers
 
 ---
-
+ 
 My main research line is the analysis of the vulnerability and resilience of forest ecosystems to disturbances and stressors associated to global change. Management actions and strategies for forest ecosystems adaptation to climate change and the study of ecological mechanisms underlying species abundance and coexistence patterns are my secondary research lines. My research encompasses multiple and variable approaches including observational data, forest historical archives, national forest inventories and ecological modeling. Currently, I am the PI in a research project analyzing the resilience of the Legaire beech forest (Álava/Araba) to the 2018 tornado.

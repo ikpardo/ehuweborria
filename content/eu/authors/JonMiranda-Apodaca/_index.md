@@ -54,5 +54,5 @@ user_groups:
   - Doktorego ondoko ikertzaileak
 
 ---
-
+ 
 Nire ikerketa aldaketa klimatikoak landareen fisiologia eta biokimikan duen eragina aztertzera bideratuta dago. Zehazki, aldaketa klimatikoak larre-komunitateetako espezieetan, eta baita ere kultibo-espezieetan (garagar, gari eta kinoa) duen eragina ikasi dut. Esperimentu osagarriak bai landa eremuan, bai hazkuntza-ganbaretan egin ditut, alde batetik aldaketa klimatikoaren eraginak landareetan zeintzuk diren jakiteko eta, bestetik, landareek aldaketa klimatikoaren aurrean martxan jartzen dituzten erantzun-mekanismoak bilatzeko.

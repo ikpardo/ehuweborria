@@ -50,5 +50,5 @@ user_groups:
   - Personal investigador senior
 
 ---
-
+ 
 Cuento con más de 25 años de experiencia investigadora en el estudio de la interfaz suelo-vegetación-herbívoro tanto a pequeña como a gran escala espacial, desde las características individuales hasta las respuestas a nivel de comunidad. En los últimos años he profundizado en la evaluación de la sostenibilidad del pastoreo de montaña, simulando escenarios de cambio global para prever sus consecuencias. Para ello, he impulsado investigaciones interdisciplinares en colaboración con otros grupos de investigación, con el objetivo de integrar la conservación de la biodiversidad y la sostenibilidad de los sistemas ganaderos desde un punto de vista multifuncional.

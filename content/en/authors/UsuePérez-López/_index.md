@@ -42,5 +42,5 @@ user_groups:
   - Senior researchers
 
 ---
-
+ 
 With the aim of maintaining food quality and security under climate change conditions, as a researcher I am very interested in the study of the interactive effects of factors associated to climate change (elevated CO2, drought, salinity and high temperature) in the physiology and production of crops species, such as barley, quinoa, sorghum and lettuce, among others. I also work with other species (from forest and grasslands) in collaboration with other research groups, both nationals and internationals, because I consider that research is done within a team and each of us makes a small contribution to this passionate world called science.

@@ -4,40 +4,33 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 2
 
-title: Demos
+title:
 subtitle:
 
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+ #   image: headers/bubbles-wide.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+**¡Bienvenida/o!** Somos un grupo de investigación Consolidado (IT1682-22) de la Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU). 
+Nuestro objetivo principal es conocer el impacto que el cambio climático tendrá en los sistemas agrícolas, pascícolas y forestales, avanzando en la búsqueda de soluciones para dar respuesta a las demandas, presentes y futuras, resultantes del proceso de cambio y transformación que vivimos. Para abordar este reto utilizamos una aproximación multidisciplinar, integrando aspectos ecológicos y ecofisiológicos de los sistemas de estudio. 
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+Además, ofrecemos también: (a) Asesoramiento en la gestión de ecosistemas de montaña, y en especial de los ZEC (zonas de interés comunitario de la Red Natura 2000); (b) Herramientas de ayuda a la toma de decisiones sobre la sostenibilidad y gestión de las explotaciones ganaderas de ovino lechero, mediante Evaluación Multicriterio; (c) Aporte de información/asesoramiento para desarrollar cultivos tolerantes/adaptados a los efectos del impacto de los cambios climáticos previstos para el future; (d) Formación de alumnos/as de máster y doctorandos/as en materia relacionada con los objetivos de las diferentes líneas.
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+[Conoce al equipo]({{< ref "/content/es/people/index.md" >}} "Conoce al equipo")

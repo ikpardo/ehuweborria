@@ -27,6 +27,7 @@ user_groups:
   - Doktorego ondoko ikertzaileak
 
 ---
+
 Ingurumen Zientzietan graduatua. Doktoregaia azkenengo urtean. Nire tesiak, klima aldaketak (CO2 altuak, tenperatura altuak eta lehorteak) garagar barietate baten bizi ziklo osoan zeharreko prozesu fisiologiko, biokimiko, molekular eta agronomikoetan dituen efektuak aztertzeak du helburu. Bereziki, hurrengo prozesuak aztertzen ditut:
 -	Landare un-erlazio prozesuak, bai fisiologikoak eta bai akuaporinen rola horien erregulazioan.
 -	Karbonoaren metabolismoa, fotosintesiaren prozesu fisiologiko eta biokimikoetan zentratuz.

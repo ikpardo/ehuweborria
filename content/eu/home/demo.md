@@ -4,40 +4,33 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 2
 
-title: Demos
+title: 
 subtitle:
 
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+  #  image: headers/bubbles-wide.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+**Ongi etorri!** Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1682-22) gara. Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemetan eragingo dituen ondorioak aztertzea da, sistema hauetan gaur egungo eta etorkizunean sortuko diren erronkei aurre egin ahal izateko. Horretarako hurbilketa multidiziplinarra erabiltzen dugu, ikerketa-sistemen alderdi ekologiko eta ekofisiologikoak uztartuz.
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
+formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+[Ezagutu gaitzazu]({{< ref "/content/eu/people/index.md" >}} "Ezagutu gaitzazu")
