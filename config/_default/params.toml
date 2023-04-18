@@ -105,7 +105,7 @@ address = {street = "Sarriena auzoa z/g", city = "Leioa", region = "Bizkaia", po
 coordinates = {latitude = "43.330574", longitude = "-2.968891"}
 
 # Directions for visitors to locate you.
-directions = "Zientzia eta Teknologia Fakultatea (UPV/EHU)"
+directions = "Zientzia eta Teknologia Fakultatea (UPV/EHU, Leioa), Farmazia Fakultatea (UPV/EHU, Vitoria-Gasteiz)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
