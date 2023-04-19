@@ -25,13 +25,16 @@ organizations:
 
 role: Doktoratu aurreko ikertzailea
 
-#social:
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0001-7005-6411
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Aitor_Agirresarobe
+social:
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5727-772X
+- icon: github
+  icon_pack: fab
+  link: https://github.com/iratiijurco
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/irati-ijurco/
 
 user_groups: 
   - Doktoratu aurreko ikertzaileak
