@@ -33,4 +33,4 @@ design:
 Our main research aims are: (a) to improve the understanding of the adaptation
 mechanisms of species to climate change by identifying plant physiological and molecular tolerance traits; (b) to evaluate the effect of climate change on plant production and nutraceutical quality; and (c) to search strategies to minimize the impact of climate change on crops and grazing systems in order to secure sustainable plant production and food security.
 
-[Meet the time]({{< ref "/content/en/people/index.md" >}} "Meet the team")   
+[Meet the team]({{< ref "/content/en/people/index.md" >}} "Meet the team")   
