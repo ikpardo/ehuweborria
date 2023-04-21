@@ -11,15 +11,16 @@ weight: 2
 
 highlight_name: true
 interests:
-- Abiotic stress
-- Arabidopsis
-- Brassinosteroids
-- Climate change
-- Drought
-- High CO2
-- High temperature
-- Plant biotechnology
-- Sorghum
+- Agroecología
+- Cambio climático
+- Estrés fisiológico
+- Estrés hídrico stress
+- Germinación de semillas
+- Ciencia de cultivos
+- Ciencia de plantas agrícolas
+- Conservación de flora 
+- Conservación de germoplasma 
+- Simbiosis planta-microorganismo
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)

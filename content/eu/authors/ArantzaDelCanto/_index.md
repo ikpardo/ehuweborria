@@ -11,16 +11,16 @@ weight: 2
 
 highlight_name: true
 interests:
-- Agricultural plant science
-- Agroecology 
-- Climate change
-- Crop science
-- Flora conservation 
-- Germplasm conservation 
-- Seed germination
-- Stress physiology
-- Plant-microorganism symbiosis.
-- Water stress 
+- Agroekologia 
+- Aldaketa klimatikoa
+- Estres fisiologikoa
+- Estres hidrikoa
+- Germoplasmaren kontserbazioa
+- Hazien hozidura
+- Laborantza zientzia
+- Labore-zientzia
+- Landareen kontserbazioa 
+- Simbiosis Landare-mikroorganismo interakzioa
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)
