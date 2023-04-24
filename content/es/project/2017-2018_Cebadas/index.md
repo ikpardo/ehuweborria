@@ -1,5 +1,5 @@
 ---
-date: "2020-01-01"
+date: "2017-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: "????. Participante(s) del grupo: Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
+summary: "2017-2018. Participante(s) del grupo: Usue Pérez López (IP), Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
 tags:
 - Quality
 - Barley
@@ -27,7 +27,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- Usue Pérez-López
+- Usue Pérez-López (IP)
 - Ander Yoldi Achalandabaso
 - Jon Miranda-Apodaca
 - Alberto Muñoz-Rueda

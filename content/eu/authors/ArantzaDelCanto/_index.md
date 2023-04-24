@@ -20,7 +20,7 @@ interests:
 - Laborantza zientzia
 - Labore-zientzia
 - Landareen kontserbazioa 
-- Simbiosis Landare-mikroorganismo interakzioa
+- Landare-mikroorganismo sinbiosia
 
 organizations:
 - name: University of the Basque Country (UPV/EHU)

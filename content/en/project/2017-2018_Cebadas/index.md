@@ -1,5 +1,5 @@
 ---
-date: "2020-01-01"
+date: "2017-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: "????. Team participant(s): Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
+summary: 2017-2018. Team participant(s): Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
 tags:
 - Quality
 - Barley

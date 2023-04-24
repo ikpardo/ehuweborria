@@ -1,5 +1,5 @@
 ---
-date: "2021-01-01"
+date: "2018-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: "XXXX-Participante(s) del grupo: Usue Pérez López, Jon Miranda-Apodaca, Ander Yoldi Achalandabaso, Aitor Agirresarobe, Alberto Muñoz-Rueda, Maite Lacuesta, Amaia Mena-Petite, Arantza Aldezabal"
+summary: "2018-2019. Participante(s) del grupo: Usue Pérez López (IP), Jon Miranda-Apodaca, Ander Yoldi Achalandabaso, Aitor Agirresarobe, Alberto Muñoz-Rueda, Maite Lacuesta, Amaia Mena-Petite, Arantza Aldezabal"
 tags: 
 - Quality
 - Conventional cultivation vs organic
@@ -25,7 +25,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- Usue Pérez López
+- Usue Pérez López (IP)
 - Jon Miranda-Apodaca
 - Ander Yoldi Achalandabaso
 - Aitor Agirresarobe

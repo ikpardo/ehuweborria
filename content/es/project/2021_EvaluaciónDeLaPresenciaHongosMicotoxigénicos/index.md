@@ -1,5 +1,5 @@
 ---
-date: "2021-01-01"
+date: "2019-01-01"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: "20XX-. Participante(s) del grupo: Usue Pérez López, Jon Miranda-Apodaca, MaiteLacuesta, Alberto Muñoz-Rueda, Amaia Mena-Petite"
+summary: "2019-2022. Participante(s) del grupo: Usue Pérez López, Jon Miranda-Apodaca, Maite Lacuesta, Alberto Muñoz-Rueda, Amaia Mena-Petite"
 tags:
 - Alternaria
 - Mycotoxins
@@ -22,11 +22,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 authors: 
-- UsuePérez-López
-- JonMiranda-Apodaca
-- MaiteLacuesta
-- AlbertoMuñoz-Rueda
-- AmaiaMena-Petite
+- Usue Pérez López (IP)
+- Jon Miranda-Apodaca
+- Maite Lacuesta
+- Alberto Muñoz-Rueda
+- Amaia Mena-Petite
 
 ---
 
