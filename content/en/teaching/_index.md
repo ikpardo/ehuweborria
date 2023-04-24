@@ -48,6 +48,10 @@ header:
 
 **Influencia del portainjerto en la respuesta fisiológica y vegetativa de la vid (cv tempranillo) bajo condiciones de estrés hídrico**, Sonia Santana Costoya, 2021, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo and Alicia Pou*
 
+**Analysis of the behavior of different isolates of Botrytis cinerea from Vitis vinifera against different control agentsl**, 2020, Carla Stephanie Peucelle, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
+**Diet and trophic diversity of steppe birds: importance of landscape heterogeneity and implications of agricultural intensification for its conservation**, 2020, Julen Martínez García, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite* 
+
 **Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz and Usue Pérez López*
 
 **Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal, Guillermo Pardo*
@@ -57,6 +61,8 @@ header:
 **¿Opción de cultivo en Álava? Búsqueda de variedades productivas y de alta calidad bajo distintas prácticas de cultivo y regímenes hídricos**, Iñigo Garay Diaz, 2020, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda-Apocada and Usue Pérez López*
 
 **Effects of elevated CO2, elevated temperature, drought and their interaction on nitrogen metabolism of barley leaves and roots**, Ismael Gutierrez Fernández, 2019, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz and Usue Pérez López*
+
+**Estimation of the production and yield of grape clusters in 3 varieties destined to obtain Txakoli in Álava**, Laurie Fouilleul, 2019, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite* 
 
 **Evaluación de la influencia de las características climáticas durante el desarrollo fenológico en la vid y en la composición de la uva de la variedad tempranillo en la DOC Rioja**, Carlos Álvar Félix Ocete Pérez López, 2019, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo*
 
@@ -78,6 +84,8 @@ header:
 
 **Effects of climate change on water use efficiency (WUE) and its components, measured at different temporal and spatial scales in *Fagus sylvatica***, Ane Umerez Chotro, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Teresa Gimeno (BC3) and Usue Pérez López*
 
+**Effect of occupational exposure to 1,1'dimethyl-4,4'bipyridyl dichloride on the development of Parkinson's**, Sara Sanz Castillo, 2022, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
 **Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Alberto Muñoz and Usue Pérez López*
 
 **Kimuen kalitatearen hobekuntza estres baldintza leunak erabilita**, Elene Zabala, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda-Apocada and Usue Pérez López*
@@ -92,6 +100,10 @@ header:
 
 **Artobeltzaren nitrogeno metabolismoaren erazuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda-Apocada and Usue Pérez López*
 
+**Atrial fibrillation: a comparison between classic and innovative pharmacological treatments**, Oier Iturbe Sierra, 2021, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
+**Comparison of treatments to combat achondroplasia: classic versus innovative ones**, Itziar Ingunza Gómez, 2021, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
 **Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Alberto Muñoz and Usue Pérez López*
 
 **Evaluación del efecto del elevado CO2 en la respuesta del tomata a la salinidad**, Hamoudi Echeikh, 2021, Pharmacy Faculty (UPV/EHU), Supervised by: *Maite Lacuesta Calvo*
@@ -104,11 +116,19 @@ header:
 
 **Caracterización de variedades de alubia crecidas en diferentes condiciones de cultivo**, Eider Mintegi Zeberio, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo and Iñaki Etaio Alonso*
 
+**Comparison between varenicline and other anti-smoking drugs**, Josu Irarragorri González, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
+**Description of the vegetation of marshes in eight different estuaries of the Basque Autonomous Community and assessment of their condition**, Peru Kortabarria Guinea, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
+**Natural anti-acne treatments based on various plants**, Maider Castilla Pazos, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
 **Mycorrhizal fungi, microorganisms that can revolutionize conventional agriculture?**, Irati Ijurco Gonzalez, 2020, Faculty of Pharmacy (UPV/EHU), Supervised by: *Esti Sarrionandia*
 
 **Does the type of agriculture influence the relationships that form beans with fungi and soil bacteria?**, Ane Legardón  Rodriguez, 2019, Faculty of Pharmacy (UPV/EHU), Supervised by: *Esti Sarrionandia*
 
 **Evaluation of the forest management practices regarding the recover of Legaire beech forest (Álava/Araba) after the 2018 tornado**, Clara Jiménez Martínez, 2019, Faculty of Pharmacy (UPV/EHU), Supervised by: *Asier Herrero and Nere Amaia Laskurain*
+
+**Extravasation of antineoplastic drugs. Update of the protocol of the University Hospital of Cruces**, Nerea Eugenia Iturriaga González, 2019, Faculty of Pharmacy (UPV/EHU), Supervised by: *Amaia Mena Petite*
 
 **The design of a didactic route through the beech trees of the Artaso forest in Oñati**, Martxel Aiastui Zabaleta, Faculty of Pharmacy (UPV/EHU), Supervised by: *Amaia Mena Petite*
 

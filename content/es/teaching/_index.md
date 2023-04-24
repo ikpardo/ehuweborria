@@ -47,9 +47,11 @@ header:
 
 **Explorando la influencia del tipo de manejo en la biodiversidad y efectividad de los hongos micorrícico-abusculares en sistemas agrícolas**, Irati Ijurco González, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Esti Sarrionandia*
 
-**Influencia del portainjerto en la respuesta fisiológica y vegetativa de la vid (cv tempranillo) bajo condiciones de estrés hídrico**, Sonia Santana Costoya, 2021, Facultad de Farmazia (UPV/EHU). Dirección: *Maite Lacuesta Calvo y Alicia Pou*
+**Influencia del portainjerto en la respuesta fisiológica y vegetativa de la vid (cv tempranillo) bajo condiciones de estrés hídrico**, Sonia Santana Costoya, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo y Alicia Pou*
 
 **La selección masal como estrategia para incrementar la diversidad genética de la variedad Tempranillo: análisis de la variabilidad intravarietal y criterios de selección de parcelas**, Helene Sánchez Zelaia, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
+
+**Análisis del comportamiento de diferentes aislados de Botrytis cinerea de Vitis vinifera frente a diferentes agentes de control**, 2020, Carla Stephanie Peucelle, Pharmacy Faculty (UPV/EHU). Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite* 
 
 **Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Alberto Muñoz y Usue Pérez López*
 
@@ -60,6 +62,8 @@ header:
 **¿Opción de cultivo en Álava? Búsqueda de variedades productivas y de alta calidad bajo distintas prácticas de cultivo y regímenes hídricos**, Iñigo Garay Diaz, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Jon Miranda y Usue Pérez López*
 
 **Effects of elevated CO2, elevated temperature, drought and their interaction on nitrogen metabolism of barley leaves and roots**, Ismael Gutierrez Fernández, 2019, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Alberto Muñoz y Usue Pérez López*
+
+**Estimación de la producción y rendimiento de racimos de uva en 3 variedades destinadas a la obtención de Txakoli en Álava**, Laurie Fouilleul, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 
 **Evaluación de la influencia de las características climáticas durante el desarrollo fenológico en la vid y en la composición de la uva de la variedad tempranillo en la DOC Rioja**, Carlos Álvar Félix Ocete Pérez López, 2019, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
 
@@ -80,6 +84,8 @@ header:
 
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Facultad de Farmacia (UPV/EHU), Dirección: *Maite Lacuesta Calvo y Arantza del Canto Romero*
 
+**Efecto de la exposición ocupacional del dicloruro de 1,1´dimetil-4,4´bipiridilo en el desarrollo del parkinson**, Sara Sanz Castillo, 2022, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
 **Capacidad de regeneración del hayedo de Legaire (Sierra de Entzia, Álava) tras el tornado de 2018**, Garazi Garijo Sancet, 2022, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero y Nere Amaia Laskurain*
 
 **Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Dirección: *Alberto Muñoz y Usue Pérez López*
@@ -94,6 +100,7 @@ header:
 
 **Artobeltzaren nitrogeno metabolismoaren erantzuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Dirección: *Jon Miranda-Apodaca y Usue Pérez López*
 
+**Comparación de tratamientos para combatir la acondroplasia: clásicos versus innovadores**, Itziar Ingunza Gómez, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 
 **Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Facultad de Ciencia y Tecnología (UPV/EHU), Dirección: *Alberto Muñoz y Usue Pérez López*
 
@@ -103,17 +110,27 @@ header:
 
 **Evaluación del efecto del elevado CO2 en la respuesta del tomata a la salinidad**, Hamoudi Echeikh, 2021, Facultad de Farmacia (UPV/EHU), Dirección: *Maite Lacuesta Calvo*
 
+**Fibrilación auricular: comparación entre tratamientos farmacológicos clásicos e innovadores**, Oier Iturbe Sierra, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
 **Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Jon Miranda-Apodaca y Usue Pérez López*
 
 **Análisis de la estructura demográfica de los bosques de pino ponderosa en el norte de Arizona (EEUU)**, José Manuel López Casas, 2020, Facultad de Ciencia, Universidad de Alcalá. Dirección: *Asier Herrero*
 
 **Caracterización de variedades de alubia crecidas en diferentes condiciones de cultivo**, Eider Mintegi Zeberio, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo y Iñaki Etaio Alonso*
 
+**Comparación entre vareniclina y otros fármacos antitabaco**, Josu Irarragorri González, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
+**Descripción de la vegetación de las marismas de ocho estuarios diferentes de la Comunidad Autónoma Vasca y valoración de su estado**, Peru Kortabarria Guinea, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
+**Tratamientos naturales anti-acné a base de diversas plantas**, Maider Castilla Pazos, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
 **Hongos micorrícicos, ¿microorganismos que podrían revolucionar la agricultura convencional?**, Irati Ijurco Gonzalez, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Esti Sarrionandia*
 
 **Diseño de una ruta didáctica por los hayedos del bosque de Artaso en Oñati**, Martxel Aiastui Zabaleta, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 
 **Evaluación del manejo forestal en la recuperación del hayedo de Legaire (Álava) tras el paso del tornado de 2018**, 2019,  Clara Jiménez Martínez, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero y Nere Amaia Laskurain*
+
+**Extravasación de fármacos antineoplásicos. Actualización del protocolo del Hospital Universitario de Cruces**, Nerea Eugenia Iturriaga González, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite* 
 
 **¿Influye el tipo de agricultura en las relaciones que forman las alubias con los hongos y bacterias del suelo?**, Ane Legardón  Rodriguez, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Esti Sarrionandia*
 
