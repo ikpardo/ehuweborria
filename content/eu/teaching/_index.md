@@ -49,7 +49,7 @@ header:
 
 **Estepako hegaztien dieta eta aniztasun trofikoa: paisaiaren heterogeneotasunaren garrantzia eta nekazaritza-intensifikazioaren inplikazioak bere kontserbazioan**, 2020, Julen Martínez García, Pharmacy Faculty (UPV/EHU). Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Amaia Mena Petite* 
 
-**Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
+**Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
 
 **Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Arantza Aldezabal, Guillermo Pardo*
 

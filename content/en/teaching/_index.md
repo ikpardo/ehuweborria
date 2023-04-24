@@ -52,7 +52,7 @@ header:
 
 **Diet and trophic diversity of steppe birds: importance of landscape heterogeneity and implications of agricultural intensification for its conservation**, 2020, Julen Martínez García, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite* 
 
-**Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz and Usue Pérez López*
+**Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz and Usue Pérez López*
 
 **Evaluación de impactos ambientales asociados a los sistemas agroecológicos y convencionales de ovino Latxo mediante Life Cycle Assessment (LCA)**, Amaia Alberdi Elola, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal, Guillermo Pardo*
 

@@ -53,7 +53,7 @@ header:
 
 **Análisis del comportamiento de diferentes aislados de Botrytis cinerea de Vitis vinifera frente a diferentes agentes de control**, 2020, Carla Stephanie Peucelle, Pharmacy Faculty (UPV/EHU). Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite* 
 
-**Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de *Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Alberto Muñoz y Usue Pérez López*
+**Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Alberto Muñoz y Usue Pérez López*
 
 **Evaluación de Inóculos con potencial agrícola para la mejora de la tolerancia a la sequía en alubia**, Anna Sillero Martínez, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
 
