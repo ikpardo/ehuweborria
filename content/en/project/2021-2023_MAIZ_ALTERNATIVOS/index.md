@@ -4,11 +4,6 @@ external_link: ""
 image:
   caption: "Maiz y cultivos alternativos"
   focal_point: Smart
-# links:
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
 slides: ""
 summary: "2021-2023. Team participant(s): Usue Pérez López (IP), Xabier Simón, Aitor Agirresarobe, Jon Miranda-Apodaca, Iratxe Zarraonaindia, Arantza Aldezabal, Alberto Muñoz Rueda"
 tags:
@@ -25,7 +20,7 @@ tags:
 - Trigo de espelta
 - Trigo sarraceno
 
-title: Implementación de cultivos alternativos en la llanada alavesa: una respuesta sostenible a la demanda de alimento bajo condiciones de cambio climático
+title: "Implementación de cultivos alternativos en la llanada alavesa: una respuesta sostenible a la demanda de alimento bajo condiciones de cambio climático"
 url_code: ""
 url_pdf: ""
 url_slides: ""
