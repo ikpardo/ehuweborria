@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 slides: ""
-summary: 2017-2018. Team participant(s): Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
+summary: "2017-2018. Team participant(s): Usue Pérez López, Ander Yoldi Achalandabaso, Jon Miranda-Apodaca, Alberto Muñoz-Rueda"
 tags:
 - Quality
 - Barley
@@ -21,7 +21,7 @@ tags:
 - Temperature
 - Tolerance
 - Fisio
-title: Determinantes bioquímicos y fisiológicos de la producción y la calidad de la cebada de uso maltero –un reto ante las condiciones climáticas futuras– 
+title: "Determinantes bioquímicos y fisiológicos de la producción y la calidad de la cebada de uso maltero –un reto ante las condiciones climáticas futuras–" 
 url_code: ""
 url_pdf: ""
 url_slides: ""
