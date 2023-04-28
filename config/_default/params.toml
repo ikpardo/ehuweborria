@@ -98,14 +98,14 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Sarriena auzoa z/g", city = "Leioa", region = "Bizkaia", postcode = "48940", country = "", country_code = "ES"}
+address = {street = "Sarriena auzoa z/g, Leioa, Bizkaia, 48940 - Paso de la Universidad 7, Vitoria-Gasteiz, Araba/Álava, 01006", city = "", region = "", postcode = "", country = "", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "43.330574", longitude = "-2.968891"}
 
 # Directions for visitors to locate you.
-directions = "Zientzia eta Teknologia Fakultatea (UPV/EHU, Leioa), Farmazia Fakultatea (UPV/EHU, Vitoria-Gasteiz)"
+directions = "Facultad de Ciencia y Tecnología - Zientzia eta Teknologia Fakultatea (UPV/EHU, Leioa), Facultad de Farmacia - Farmazia Fakultatea (UPV/EHU, Vitoria-Gasteiz)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
