@@ -2,7 +2,7 @@
 title: Alberto Muñoz-Rueda
 authors:
 - AlbertoMuñoz-Rueda
-weight: 1
+weight: 2
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
