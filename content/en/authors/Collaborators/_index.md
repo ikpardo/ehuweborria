@@ -46,13 +46,14 @@ user_groups:
   - Collaborators
 
 ---
-
+- **Álvaro Sanz-Saez**, Auburn University, USA, Assistant Professor
 - **Begoña Peco**, Univ. Autónoma de Madrid, Dept Ecology and Conservation of Terrestrial Ecosystems, Professor
 - **Gonzalo García-Baquero Moneo**, Univ. de Salamanca, Lecturer
 - **Iñaki Odriozola**, Univ. of Copenhagen, Institute of Microbiology of the Czech Academy of Sciences, Postdoctoral researcher 
 - **Iratxe Zarraonaindia**, Univ. del País Vasco-EHU, Ikerbasque researcher
 - **Jónathan Heras**, Univ. de La Rioja, Dept Mathematics and Computation, Lecturer
 - **Marina de Miguel**, INRAE, Institut des Sciences de la Vigne et du Vin, Senior researcher
+- **Nuria de Diego Sánchez**, Czech advanced Technology and Research Institute (CATRIN). Palacky University,Olomiuc, Czech Republic 
 - **Teresa E. Gimeno**, CREAF, Centro de Investigación Ecológica y Apliaciones Forestales, Senior researcher
 - **Rubén Vicente**, ITQB NOVA, Univ. Nova de Lisboa; Head of Plant Ecophysiology and Metabolism lab
 
