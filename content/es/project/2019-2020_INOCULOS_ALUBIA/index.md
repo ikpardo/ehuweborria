@@ -1,12 +1,12 @@
 ---
-date: "2020-01-01"
+date: "2019-01-01"
 external_link: ""
 image:
   caption: "Ensayo en cámara de crecimiento. Valoración de la actividad fotosintética"
   focal_point: Smart
 
 slides: ""
-summary: "2020. Team participant(s): Maite Lacuesta Calvo (IP)"
+summary: "2019-2020. Participante(s) del grupo: Maite Lacuesta Calvo (IP)"
 tags:
 - Alubia
 - Cultivo ecológico
@@ -23,6 +23,10 @@ url_slides: ""
 url_video: ""
 authors: 
 - Maite Lacuesta Calvo (IP)
+- Alberto Muñoz-Rueda
+- Usue Pérez López
+- Esti Sarrionandia
+- Arantza del Canto
 ---
 
 La simbiosis que establecen las bacterias del género Rhizobium con las leguminosas permite a la planta fijar biológicamente el nitrógeno atmosférico, reduciendo la necesidad de fertilización nitrogenada del cultivo, y minimizando su impacto medioambiental. Aunque la simbiosis rizobio-alubia es considerada de bajo potencial en comparación con otras leguminosas, la selección de rizobios eficientes puede mejorar dicho potencial. Simultáneamente, también pueden establecer micorrizas arbusculares con especies fúngicas, que facilitan la captación de fósforo y agua para la planta. Las bacterias y los hongos actúan de forma sinérgica y esa triple interacción simbiótica es beneficiosa para el medio ambiente, puesto que mejoran la nutrición de nitrógeno y fósforo de la planta, disminuyendo los requerimientos de fertilizantes inorgánicos. Sin embargo, estas simbiosis, y la producción final, pueden verse afectadas por la sequía, estrés estrechamente ligado al cambio climático, y por lo tanto, poner en riesgo la seguridad alimentaria. Por ello, la búsqueda de variedades de alubia en conjunción con inóculos de microrganismos autóctonos de alta eficiencia simbiótica que muestren cierta tolerancia a la sequía, es el principal objetivo de este trabajo. Para ello, se han estudiado diferentes variedades de alubia, entre ellas variedades de diferentes zonas de Álava de cultivo minoritario, y se han aislado diferentes inóculos de microrganismos autóctonos de nuestros suelo, tanto de cultivo convencional como ecológico. Se ha realizado un cribado de los diferentes inóculos para seleccionar lo, que han presentado mayor eficiencia, y se ha evaludo su eficiencia y tolerancia a la sequía, en diferentes variedades de alubia.

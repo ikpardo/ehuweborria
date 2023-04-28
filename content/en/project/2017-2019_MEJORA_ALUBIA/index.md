@@ -1,5 +1,5 @@
 ---
-date: "2019-01-01"
+date: "2017-01-01"
 external_link: ""
 image:
   caption: "Nódulo extraidos de plantas crecidas en campo"
@@ -7,7 +7,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary: "2019. Team participant(s): Maite Lacuesta Calvo (IP), Alberto Muñoz-Rueda"
+summary: "2017-2019. Team participant(s): Maite Lacuesta Calvo (IP), Alberto Muñoz-Rueda, Usue Pérez López, Esti Sarrionandia, Arantza del Canto"
 tags:
 - Alubia
 - Sequía
@@ -26,6 +26,11 @@ url_video: ""
 authors: 
 - Maite Lacuesta (IP)
 - Alberto Muñoz-Rueda
+- Usue Pérez López
+- Esti Sarrionandia
+- Iñaki Etaio Alonso
+- Patxi Pérez Elortondo
+- Arantza del Canto
 ---
 
 El objetivo principal es la búsqueda de estrategias para aumentar la productividad de la alubia en Álava en condiciones de sequía, mediante la selección de variedades de alubia locales tolerantes a la sequía, y el aislamiento, identificación y selección de microorganismos autóctonos de alta eficiencia simbiótica aislados de suelos de cultivo de la Llanada Alavesa.

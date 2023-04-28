@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary: "202?. Participante(s) del grupo: Maite Lacuesta (IP), Alberto Muñoz-Rueda, Amaia Mena Petite, Esti Sarrionandia, Nere Amaia Laskurain, Arantza Aldezabal"
+summary: "2021-2023. Taldekide partaidea(k): Maite Lacuesta (IP), Alberto Muñoz-Rueda, Amaia Mena Petite, Esti Sarrionandia, Nere Amaia Laskurain, Arantza Aldezabal"
 tags:
 - Microbial biodiversity
 - Common bean

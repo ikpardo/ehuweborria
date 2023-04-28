@@ -1,12 +1,12 @@
 ---
-date: "2018-01-01"
+date: "2019-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 
 slides: ""
-summary: "202?. Taldekide partaidea(k): Maite Lacuesta Calvo"
+summary: "2019-2023. Taldekide partaidea(k): Maite Lacuesta Calvo"
 tags:
 - Biodiversidad
 - Alubia

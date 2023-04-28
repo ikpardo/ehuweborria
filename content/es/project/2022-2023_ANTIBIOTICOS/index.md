@@ -1,12 +1,12 @@
 ---
-date: "2021-01-01"
+date: "2022-01-01"
 external_link: ""
 image:
   caption: "Ensayo de lechugas en presencia de antibióticos. Muestreo de suelos par identificación de presencia de antibióticos"
   focal_point: Smart
 
 slides: ""
-summary: "202X. Team participant(s): Amaia Mena Petite, Arantza Del Canto, Esti Sarrionandia, Irati Ijurco, Usue Pérez-López, Arantza Aldezabal, Maite Lacuesta Calvo"
+summary: "2022-2023. Participante(s) del grupo: Amaia Mena Petite, Arantza Del Canto, Esti Sarrionandia, Irati Ijurco, Usue Pérez-López, Arantza Aldezabal, Maite Lacuesta Calvo"
 tags:
 - Diseminación de antibióticos
 - Cadena alimentaria
