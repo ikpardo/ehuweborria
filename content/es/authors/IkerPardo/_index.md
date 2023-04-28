@@ -22,7 +22,7 @@ highlight_name: false
 
 interests:
  - Análisis de datos
- - Conservatión de la biodiversidad
+ - Conservación de la biodiversidad
  - Ecología de comunidades
  - Especies amenazadas
  - Modelización ecológica
