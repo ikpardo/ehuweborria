@@ -37,8 +37,6 @@ header:
 
 **Efecto del tornado de 2018 en el crecimiento radial de *Fagus sylvatica* L. en la Sierra de Entzia**, Katherine Sandoval Cerron, 2022, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero y Nere Amaia Laskurain*
 
-**Ensayo de protección de las heridas de poda contra hongos de la madera de la vid**, Pauline Sauboa, 2022, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
-
 **Fotointerpretación y análisis diacrónico de usos del suelo en el valle de Baztan**, Beatriz Castro, 2022, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal*
 
 **Evaluación de las alteraciones fisiológicas provocadas por la infección de Xilella fastidiosa en viñedo**, Anna Marzal Monfort, 2021, Facultad de Ciencia y Tecnología (UPV/EHU), Dirección: *Maite Lacuesta Calvo y Amaia Ortiz Barredo*
@@ -53,6 +51,8 @@ header:
 
 **Análisis del comportamiento de diferentes aislados de Botrytis cinerea de Vitis vinifera frente a diferentes agentes de control**, 2020, Carla Stephanie Peucelle, Pharmacy Faculty (UPV/EHU). Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite* 
 
+**Ensayo de protección de las heridas de poda contra hongos de la madera de la vid**, Pauline Sauboa, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
+
 **Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Alberto Muñoz y Usue Pérez López*
 
 **Evaluación de Inóculos con potencial agrícola para la mejora de la tolerancia a la sequía en alubia**, Anna Sillero Martínez, 2020, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
@@ -65,13 +65,13 @@ header:
 
 **Estimación de la producción y rendimiento de racimos de uva en 3 variedades destinadas a la obtención de Txakoli en Álava**, Laurie Fouilleul, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 
-**Evaluación de la influencia de las características climáticas durante el desarrollo fenológico en la vid y en la composición de la uva de la variedad tempranillo en la DOC Rioja**, Carlos Álvar Félix Ocete Pérez López, 2019, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
+**Evaluación de la influencia de las características climáticas durante el desarrollo fenológico en la vid y en la composición de la uva de la variedad tempranillo en la DOC Rioja**, Carlos Álvar Félix Ocete Pérez López, 2019, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
 
 **Caracterización espacial y productiva de recursos pastables del Parque Natural de Aralar mediante técnicas de teledetección**, Roger Roca Vallejo, 2018, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal*
 
 **Estudio de la diversidad endomicorrícica asociada al sistema dunar de Gorliz**, Gontzal Merchán de la Cruz, 2017, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Esti Sarrionandia e Isabel Slcedo Larralde*
 
-**Estudio sobre el deshojado precoz y sus efectos sobre variables agronómicas y componentes de la maduración de la uva en un viñedo de Tempranillo en La Horra (Ribera de Duero)**, Aitor Irazu Alonso, 2017, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
+**Estudio sobre el deshojado precoz y sus efectos sobre variables agronómicas y componentes de la maduración de la uva en un viñedo de Tempranillo en La Horra (Ribera de Duero)**, Aitor Irazu Alonso, 2017, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
 
 **Modelling aboveground net primary production (ANPP) of an Atlantic mountain grassland based on time series approach-Lurgaineko ekoizpen primario garbiaren (ANPP) denbora-serie bidezko modelizazioa mendiko larre atlantiko batean**, Aitor Salaberria Oiarzabal, 2017, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Arantza Aldezabal, Gonzalo García-Baquero Moneo*
 
@@ -104,23 +104,23 @@ header:
 
 **Efecto del cambio climático en la calidad de la semilla de la cebada (*Hordeum vulgare* L.)**, Sara Vinacua Conde, 2021, Facultad de Ciencia y Tecnología (UPV/EHU), Dirección: *Alberto Muñoz y Usue Pérez López*
 
-**Estudio de la tolerancia y capacidad de recuperación  frente a la sequía de la variedad de alubia Pinta alavesa inoculada con diversas cepas de Rhizobium**, Imanol Pinedo Aranaco, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
-
-**Evaluación del efecto del elevado CO2 en la respuesta del tomata a la salinidad**, Hamoudi Echeikh, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
-
 **Evaluación del efecto del elevado CO2 en la respuesta del tomata a la salinidad**, Hamoudi Echeikh, 2021, Facultad de Farmacia (UPV/EHU), Dirección: *Maite Lacuesta Calvo*
 
 **Fibrilación auricular: comparación entre tratamientos farmacológicos clásicos e innovadores**, Oier Iturbe Sierra, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 
 **Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Jon Miranda-Apodaca y Usue Pérez López*
 
+**Rhizobium andui desberdinekin inokulatua izan den Alabako Babarrun Pintoa barietateak**, Imanol Pinedo Aranaco, 2021, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo*
+
 **Análisis de la estructura demográfica de los bosques de pino ponderosa en el norte de Arizona (EEUU)**, José Manuel López Casas, 2020, Facultad de Ciencia, Universidad de Alcalá. Dirección: *Asier Herrero*
 
-**Caracterización de variedades de alubia crecidas en diferentes condiciones de cultivo**, Eider Mintegi Zeberio, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo y Iñaki Etaio Alonso*
+**Babarruna-barietateen karakterizazioa, laborantza baldintzen arabera**, Eider Mintegi Zeberio, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Maite Lacuesta Calvo y Iñaki Etaio Alonso*
 
 **Comparación entre vareniclina y otros fármacos antitabaco**, Josu Irarragorri González, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 
 **Descripción de la vegetación de las marismas de ocho estuarios diferentes de la Comunidad Autónoma Vasca y valoración de su estado**, Peru Kortabarria Guinea, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
+
+**Estudio del papel clave del gen SIrboh1 en la tolerancia a la salinidad en tomate**, Leire Sánchez Llanos, 2020, Facultad de Farmacia (UPV/EHU), Dirección: *Maite Lacuesta Calvo*
 
 **Tratamientos naturales anti-acné a base de diversas plantas**, Maider Castilla Pazos, 2020, Facultad de Farmacia (UPV/EHU). Dirección: *Amaia Mena Petite*
 

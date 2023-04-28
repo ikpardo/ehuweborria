@@ -30,8 +30,6 @@ header:
 
 **Analysis of the effect of progressive thinning in a *Pinus radiata* plantation in Upo mountain (Bizkaia): radial growth of *P. radiata* and regeneration capacity of the native forest**, Montserrat Muriana Castellana, 2022, Faculty of Science and Technology (UPV/EHU). Supervised by: *Asier Herrero e Ibone Amezaga*
 
-**Ensayo de protección de las heridas de poda contra hongos de la madera de la vid**, Pauline Sauboa, 2022, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo*
-
 **Effect of the 2018 tornado on radial growth of *Fagus sylvatica* L. at Entzia Mountains**, Katherine Sandoval Cerron, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Asier Herrero and Nere Amaia Laskurain*
 
 **Fotointerpretación y análisis diacrónico de usos del suelo en el valle de Baztan**, Beatriz Castro, 2022, Faculty of Science and Technology (UPV/EHU). Supervised by: *Arantza Aldezabal*
@@ -50,7 +48,9 @@ header:
 
 **Analysis of the behavior of different isolates of Botrytis cinerea from Vitis vinifera against different control agentsl**, 2020, Carla Stephanie Peucelle, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
 
-**Diet and trophic diversity of steppe birds: importance of landscape heterogeneity and implications of agricultural intensification for its conservation**, 2020, Julen Martínez García, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite* 
+**Diet and trophic diversity of steppe birds: importance of landscape heterogeneity and implications of agricultural intensification for its conservation**, 2020, Julen Martínez García, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
+
+**Ensayo de protección de las heridas de poda contra hongos de la madera de la vid**, Pauline Sauboa, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo*
 
 **Estudio de los mecanismos de tolerancia a la salinidad de tres variedades de Chenopodium quinoa**, Mikel Llona Ansoleaga, 2020, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz and Usue Pérez López*
 
@@ -96,8 +96,6 @@ header:
 
 **Amaranth and chia as potencial crops under future environmental conditions**, Amaia Leonet Calvo, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda-Apocada and Usue Pérez López*
 
-**Analysis of drought tolerance and recovery capacity of the Pinta Alavesa bean variety  inoculated with different Rhizobium strains**, Imanol Pinedo Aranaco, 2021, Pharmacy Faculty (UPV/EHU), Supervised by: *Maite Lacuesta Calvo*
-
 **Artobeltzaren nitrogeno metabolismoaren erazuna aldaketa klimatikoaren aurrean**, Idoia Bueso Anguita, 2021, Faculty of Science and Technology (UPV/EHU), Supervised by: *Jon Miranda-Apocada and Usue Pérez López*
 
 **Atrial fibrillation: a comparison between classic and innovative pharmacological treatments**, Oier Iturbe Sierra, 2021, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
@@ -110,11 +108,13 @@ header:
 
 **Kinoa espeziearen puxika zelulak eta gazitasunarekiko tolerantzia. Ba al dago erlaziorik? Kinoa barietateen artean ba al dago aldakortasunik?**, Eider Zearreta Urien, 2021, Facultad de Ciencia y Tecnología (UPV/EHU). Supervised by: *Jon Miranda-Apocada and Usue Pérez López*
 
+**Rhizobium andui desberdinekin inokulatua izan den Alabako Babarrun Pintoa barietateak**, Imanol Pinedo Aranaco, 2021, Pharmacy Faculty (UPV/EHU), Supervised by: *Maite Lacuesta Calvo*
+
 **Analysis of the demographic structure of ponderosa pine forests in northern Arizona (USA)**, José Manuel López Casas, 2020, Faculty of Science, University of Alcalá, Supervised by: *Asier Herrero*
 
-**Estudio del papel clave del gen SIrboh1 en la tolerancia a la salinidad en tomate**, Leire Sánchez Llanos, 2020, Faculty of Science and Technology (UPV/EHU), Supervised by: **
+**Babarruna-barietateen karakterizazioa, laborantza baldintzen arabera**, Eider Mintegi Zeberio, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo and Iñaki Etaio Alonso*
 
-**Caracterización de variedades de alubia crecidas en diferentes condiciones de cultivo**, Eider Mintegi Zeberio, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Maite Lacuesta Calvo and Iñaki Etaio Alonso*
+**Estudio del papel clave del gen SIrboh1 en la tolerancia a la salinidad en tomate**, Leire Sánchez Llanos, 2020, Pharmacy Faculty (UPV/EHU), Supervised by: *Maite Lacuesta Calvo*
 
 **Comparison between varenicline and other anti-smoking drugs**, Josu Irarragorri González, 2020, Pharmacy Faculty (UPV/EHU). Supervised by: *Amaia Mena Petite*
 

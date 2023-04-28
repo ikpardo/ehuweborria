@@ -33,8 +33,6 @@ header:
 
 **Aldaketa tenporalak *Pinus sylvestris* eta *Quercus pyrenaica* espezieen banakoen arteko lehian baso misto eta monoespezifikoetan Iberiar Penintsulako erdigunean**, Marcos Estevéz Domínguez, 2022, Madrileko Unibertsitate Autonomoa Zuzendaria(k): *Asier Herrero eta Enrique Andivia*
 
-**Ensayo de protección de las heridas de poda contra hongos de la madera de la vid**, Pauline Sauboa, 2022, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
-
 **2018ko tornadoaren eragina *Fagus sylvatica* L.-ren hazkuntza erradialean Entziako mendilerroan**, Katherine Sandoval Cerron, 2022, Zientzia eta Teknologia Fakultatea (UPV/EHU), Zuzendaria(k): *Asier Herrero eta Nere Amaia Laskurain*
 
 **Erabilera-motak  nekazaritza-sistemetako bioaniztasunean eta onddo mikorrizko-arbuskularren eraginkortasunean duen eragina aztertzen**, Irati Ijurco González, 2021, Ingurumen Agrobiologiako Unibertsitate Masterra (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
@@ -46,6 +44,8 @@ header:
 **Influencia del portainjerto en la respuesta fisiológica y vegetativa de la vid (cv tempranillo) bajo condiciones de estrés hídrico**, Sonia Santana Costoya, 2021, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo eta Alicia Pou*
 
 **La selección masal como estrategia para incrementar la diversidad genética de la variedad Tempranillo: análisis de la variabilidad intravarietal y criterios de selección de parcelas**, Helene Sánchez Zelaia, 2021, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
+
+**Ensayo de protección de las heridas de poda contra hongos de la madera de la vid**, Pauline Sauboa, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
 
 **Estepako hegaztien dieta eta aniztasun trofikoa: paisaiaren heterogeneotasunaren garrantzia eta nekazaritza-intensifikazioaren inplikazioak bere kontserbazioan**, 2020, Julen Martínez García, Pharmacy Faculty (UPV/EHU). Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Amaia Mena Petite* 
 
@@ -119,7 +119,7 @@ header:
 
 **Euskal Autonomia Erkidegoko zortzi estuario ezberdinetako paduren landarediaren deskribapena eta hauen egoeraren balorazioa**, Peru Kortabarria Guinea, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Amaia Mena Petite*
 
-**Rhizobium andui desberdinekin inokulatua izan den Alabako Babarrun Pintoa barietateak lehortearen aurrean duen tolerantzia eta indarberritze ahalmenaren azterketa**, Imanol Pinedo Aranaco, 2021, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
+**Rhizobium andui desberdinekin inokulatua izan den Alabako Babarrun Pintoa barietateak**, Imanol Pinedo Aranaco, 2021, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Maite Lacuesta Calvo*
 
 **Onddo mikorrizikoak, ohiko nekazaritza irauli dezakaten mikroorganismoak?**, Irati Ijurco Gonzalez, 2020, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
 
@@ -128,6 +128,7 @@ header:
 **Ba al du nekazaritza motak eraginik babarrunek lurzoruko onddo eta bakterioekin eratzen dituzten erlazioetan?**, Ane Legardón  Rodriguez, 2019, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Esti Sarrionandia*
 
 **Baso kudeaketaren ebaluaketa Legaireko pagadiaren (Araba) berreskurapenean 2018ko tornadoaren ostean**, Clara Jiménez Martínez, 2019, Farmaziako Fakultatea (UPV/EHU). Zuzendaria(k): *Asier Herrero eta Nere Amaia Laskurain*
+
 
 **Farmako antineoplasikoen estrabasazioa. Gurutzetako Unibertsitate Ospitaleko protokoloaren eguneraketa**, Nerea Eugenia Iturriaga González, 2019, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): *Amaia Mena Petite*
 
