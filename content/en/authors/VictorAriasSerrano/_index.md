@@ -24,8 +24,8 @@ organizations:
 role: Pre-doctoral fellow
 
 social:
-#- icon: orcid
-#  icon_pack: ai
+- icon: orcid
+  icon_pack: ai
   link: https://orcid.org/0009-0000-6288-3281
 #- icon: researchgate
 #  icon_pack: ai
