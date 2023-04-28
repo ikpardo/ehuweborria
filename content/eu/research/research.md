@@ -24,26 +24,26 @@ weight = 1
 
 + Nitrogenodun ongarrien horniketa murriztea, lehorte egoeran oso eraginkorrak diren lekadunetan sinbiosia bilatuz eta intereseko beste laboreetan nitratoen erabilera optimizatuz (IN: Maite Lacuesta).
 
-+ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa duten labore alternatiboak erabiltzea, labore tradizionalekiko alderatuz (IN: Usue Pérez).
++ Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa duten labore alternatiboak erabiltzea, labore tradizionalekiko alderatuz (IN: Usue Pérez López).
 
-+ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea (IN: Usue Pérez eta Maite Lacuesta).
++ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea (IN: Usue Pérez López eta Maite Lacuesta).
 
-+ Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko (IN: Usue Pérez).
++ Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko (IN: Usue Pérez López).
 
-+ Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea (IN: Usue Pérez).
++ Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea (IN: Usue Pérez López).
 
-+ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz (IN: Amaia Mena-Petite, Maite Lacuesta eta Usue Pérez).
++ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz (IN: Amaia Mena-Petite, Maite Lacuesta eta Usue Pérez López).
 
 
 **2. Lerroa: Agro-biodibertsitatea kontserbatzeko eta landa-ingurunearen iraunkortasuna bermatezeko estrategiak bilatzea eta diseinatzea, ekoizpen ekologikorako trantsizioaren bidez, eta nekazaritza zein abeltzaintza ustiategien eta landa-paisaiaren baliabide naturalen (belarkien eta baso-baliabideen) erresilientzia aztertuz.**
 
-+ Biodibertsitatearen, lurzoruaren kalitatearen eta hauek laboreen ekoizpen iraunkorrarekin eta lehortearekiko tolerantziarekin duten elkarrekintza aztertzea (IN: Esti Sarrionandia & Maite Lacuesta).
++ Biodibertsitatearen, lurzoruaren kalitatearen eta hauek laboreen ekoizpen iraunkorrarekin eta lehortearekiko tolerantziarekin duten elkarrekintza aztertzea (IN: Esti Sarrionandia eta Maite Lacuesta).
 
-+ Laborantza-sistemek (ekologikoa/konbentzionala) eta haien biodibertsitateak laboreen ekoizpenean, kalitatean eta lehortearekiko tolerantzian duten eragina ebaluatzea (IN: Maite Lacuesta & Usue Pérez).
++ Laborantza-sistemek (ekologikoa/konbentzionala) eta haien biodibertsitateak laboreen ekoizpenean, kalitatean eta lehortearekiko tolerantzian duten eragina ebaluatzea (IN: Maite Lacuesta eta Usue Pérez).
 
 + Estentsiboki maneiatutako esnetarako ardien (Latxa ardia) ustiategien iraunkortasuna eta erresilientzia aztertzea, hurbilketa multidisziplinarra erabiliz, adierazle ekologikoak (biodibertsitatea, lurzoruaren trinkotzea), ingurumenekoak (berotegi-efektuko gasen emisioa, karbono-bahiketa), ekonomikoak, sozialak eta nutrizionalak uztartuz (IN: Arantza Aldezabal).
 
-+ Klima-asalduren aurrean basoek duten erresilientzia modu integratuan aztertzea, klima-aldaketara egokitzeko eta zerbitzu ekosistemikoak mantentzeko kudeaketa garatzeko helburuarekin. Horretarako, banaketa zabaleko eta garrantzi ekonomiko handiko pagoa (Fagus sylvatica) eta banaketa mugatuko eta balio kultural eta ekologiko handiko espezie mehatxatuen den hagina (Taxus baccata) modelo hartuta (IN: Asier Herrero & Nere Amaia Laskurain).
++ Klima-asalduren aurrean basoek duten erresilientzia modu integratuan aztertzea, klima-aldaketara egokitzeko eta zerbitzu ekosistemikoak mantentzeko kudeaketa garatzeko helburuarekin. Horretarako, banaketa zabaleko eta garrantzi ekonomiko handiko pagoa (Fagus sylvatica) eta banaketa mugatuko eta balio kultural eta ekologiko handiko espezie mehatxatuen den hagina (Taxus baccata) modelo hartuta (IN: Asier Herrero eta Nere Amaia Laskurain).
 
 </body>
 

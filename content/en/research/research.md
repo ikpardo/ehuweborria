@@ -25,15 +25,15 @@ showFooter = false
 
 **Line 1: Assessement of the impact of environmental stresses on plant species of agricultural value and search for strategies, enhancement processes and sustainable production solutions for agricultural species that guarantee food security in the face of projected climatic conditions.**
 
-+ Reduction of the nitrogen fertilizer input through symbiosis in highly efficient legumes under drought conditions and optimisation of nitrate input in other crops of interest (PI: Miate Lacuesta)
++ Reduction of the nitrogen fertilizer input through symbiosis in highly efficient legumes under drought conditions and optimisation of nitrate input in other crops of interest (PI: Maite Lacuesta)
 
-+ Search for alternative crops with greater adaptation ability to drought stress, compared to the traditional ones (PI: Usue Pérez).
++ Search for alternative crops with greater adaptation ability to drought stress, compared to the traditional ones (PI: Usue Pérez López).
 
-+ Search for biochemical and molecular markers of drought tolerance, and their implementation in food species (PI: Usue Pérez & Maite Lacuesta).
++ Search for biochemical and molecular markers of drought tolerance, and their implementation in food species (PI: Usue Pérez López & Maite Lacuesta).
 
-+ Understanding the mechanisms of salinity tolerance of halophyte plants to use saline or poor quality soils as arable soil (PI: Usue Pérez).
++ Understanding the mechanisms of salinity tolerance of halophyte plants to use saline or poor quality soils as arable soil (PI: Usue Pérez López).
 
-+ Evaluation of the environmental factors that trigger the generation of mycotoxins of the fungus Alternaria alternata in different plant species (PI: Usue Pérez).
++ Evaluation of the environmental factors that trigger the generation of mycotoxins of the fungus Alternaria alternata in different plant species (PI: Usue Pérez López).
 
 + Improvement of physiological and sanitary states of plants through the use of biostimulants (alternative products to synthetic phytosanitar9 (PI: Amaia Mena-Petite, Maite Lacuesta & Usue Pérez).
 
@@ -41,7 +41,7 @@ showFooter = false
 
 + Analysis of biodiversity, soil quality and their interaction with sustainable crop production and drought tolerance (PI: Esti Sarrionandia & Maite Lacuesta).
 
-+ Evaluation of the influence of agricultural systems (organic/conventional) and their biodiversity on crop production, quality and drought tolerance (PI: Maite Lacuesta & Usue Pérez).
++ Evaluation of the influence of agricultural systems (organic/conventional) and their biodiversity on crop production, quality and drought tolerance (PI: Maite Lacuesta & Usue Pérez López).
 
 + Analysis of the sustainability and resilience of extensively managed dairy sheep farms (Latxa sheep) by using a multidisciplinary approach, including ecological (biodiversity, soil compaction), environmental (greenhouse gas emissions, carbon sequestration), economic, social and nutritional indicators (PI: Arantza Aldezabal).
 
