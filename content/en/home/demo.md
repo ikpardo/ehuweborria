@@ -29,7 +29,7 @@ design:
 ---
 
 **Welcome!** Our consolidated research group (IT1682-22) investigates the impact of global change on 
-agricultural systems, semi-natural grasslands and forests. Our research is devoted to provide solutions to current and future challenges derived from ongoing climate change and land use change.  To this aim, we conducted a multidisciplinar research, integrating ecological and ecophysiological aspects of studied systems. 
+agricultural systems, semi-natural grasslands and forests. Our research is devoted to provide solutions to current and future challenges derived from ongoing climate change and land use change.  To this aim, we conducted multidisciplinary research, integrating ecological and ecophysiological aspects of studied systems. 
 
 In addition, we provide (a) advice for the management of mountain ecosystems, and in particular, those included in the Natura 2000 network; (b) decision support tools based on multicriteria assessment to promote sustainability of farming systems; (c) information and guidance for the 
 development of crops adapted to drought scenarios under ongoing climate change;
