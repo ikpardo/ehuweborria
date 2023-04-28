@@ -2,7 +2,7 @@
 title: Xabier Simón Martínez-Goñi
 authors:
 - XabierSMartínez-Goñi
-weight: 5
+weight: 6
 # education:
 #   courses:
 

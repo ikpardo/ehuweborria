@@ -1,8 +1,8 @@
 ---
-title: Maite Lacuesta Calvo
+title: Maite Lacuesta Calvo (IP)
 authors:
 - MaiteLacuesta
-weight: 6
+weight: 1
 
 # education:
 #   courses:
@@ -47,7 +47,7 @@ social:
   link: 'https://www.researchgate.net/profile/Maite_Lacuesta'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=O99739EAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=w9qBVUQAAAAJ&hl=en
 
 user_groups: 
   - Personal investigador senior
