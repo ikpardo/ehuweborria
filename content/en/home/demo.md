@@ -28,9 +28,11 @@ design:
     padding: ["10px", "0", "10px", "0"]
 ---
 
-**Welcome!** Our consolidated research group (IT1682-22) analyzes the effect of elevated CO<sub>2</sub> and the main stresses associated (temperature change, drought, nitrogen fertilization and their interaction) on the growth and productivity of diverse crops. In addition, our group evaluates plant-plant and plant-herbivore interactions and plant functional ecology in semi-natural mountain grassland. Our research is devoted to improve the understanding of climate change impacts on agro-pastoral systems and to find solutions that respond to both present and future society demands for food security and environmental sustainability.
+**Welcome!** Our consolidated research group (IT1682-22) investigates the impact of global change on 
+agricultural systems, semi-natural grasslands and forests. Our research is devoted to provide solutions to current and future challenges derived from ongoing climate change and land use change.  To this aim, we conducted a multidisciplinar research, integrating ecological and ecophysiological aspects of studied systems. 
 
-Our main research aims are: (a) to improve the understanding of the adaptation
-mechanisms of species to climate change by identifying plant physiological and molecular tolerance traits; (b) to evaluate the effect of climate change on plant production and nutraceutical quality; and (c) to search strategies to minimize the impact of climate change on crops and grazing systems in order to secure sustainable plant production and food security.
+In addition, we provide (a) advice for the management of mountain ecosystems, and in particular, those included in the Natura 2000 network; (b) decision support tools based on multicriteria assessment to promote sustainability of farming systems; (c) information and guidance for the 
+development of crops adapted to drought scenarios under ongoing climate change;
+(d) strategies and assessment of biostimulants to reduce the input of agrochemicals and support the development of agroecology; (e) training of master and doctoral students.
 
 [Meet the team]({{< ref "/content/en/people/index.md" >}} "Meet the team")   

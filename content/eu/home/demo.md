@@ -30,7 +30,6 @@ design:
 
 **Ongi etorri!** Euskal Herriko Unibertsitateko (EHU/UPV) ikerketa-talde kontsolidatua (IT1682-22) gara. Taldearen helburu nagusia klima-aldaketak nekazaritza- eta abeltzantza-sistemetan eragingo dituen ondorioak aztertzea da, sistema hauetan gaur egungo eta etorkizunean sortuko diren erronkei aurre egin ahal izateko. Horretarako hurbilketa multidiziplinarra erabiltzen dugu, ikerketa-sistemen alderdi ekologiko eta ekofisiologikoak uztartuz.
 
-Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) Masterreko ikasleen eta doktoregaien
-formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
+Halaber, ondoko zerbitzuak eskaintzen ditugu: (a) Mendiko ekosistemen eta bereziki Natura 2000 sarearen baitan daudenen kudeaketerako aholkularitza; (b) Esnetarako ardi-ustiategien iraunkortasunari eta kudeaketari buruzko erabakiak hartzeko laguntzeko tresnak, irizpide anitzeko ebaluazioan oinarritutakoak; (c) Klima-aldaketaren ondorioei egokituta egon daitezkeen laborantzak garatzeko informazio eta aholkularitza; (d) agrokimikoen erabilera murrizteko eta agoekologiaren garapena sustatzeko estrategia eta bioestimulatzaileen bilaketa; (e) Masterreko ikasleen eta doktoregaien formakuntza taldearen ikerketa-lerro nagusiekin erlazionaturiko gaietan.
 
 [Ezagutu gaitzazu]({{< ref "/content/eu/people/index.md" >}} "Ezagutu gaitzazu")
