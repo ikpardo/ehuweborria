@@ -26,13 +26,13 @@ weight = 1
 
 + Lehorteak produktibitatean dituen ondorio negatiboetara egokitzeko gaitasun handiagoa duten labore alternatiboak erabiltzea, labore tradizionalekiko alderatuz (IN: Usue Pérez).
 
-+ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea (IN: Usue Pérez).
++ Lehortearekiko tolerantziaren markatzaile biokimikoak eta molekularrak bilatzea eta elikadura-intereseko espezieetan ezartzea (IN: Usue Pérez eta Maite Lacuesta).
 
 + Landare halofitoen gazitasunarekiko tolerantzia-mekanismoak ezagutzea, lurzoru gaziak edo kalitate txarrekoak laborantzarako lurzoru gisa erabiltzeko (IN: Usue Pérez).
 
 + Alternaria alternata onddoak hainbat landare-espezietan mikotoxinak sortzea eragiten dituzten ingurumen-faktoreak ebaluatzea (IN: Usue Pérez).
 
-+ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz (IN: Amaia Mena-Petite).
++ Landareen egoera fisiologikoa eta sanitarioa hobetzea bioestimulatzaileak (hots, sintesiko produktu fitosanitarioak ez direnak) erabiliz (IN: Amaia Mena-Petite, Maite Lacuesta eta Usue Pérez).
 
 
 **2. Lerroa: Agro-biodibertsitatea kontserbatzeko eta landa-ingurunearen iraunkortasuna bermatezeko estrategiak bilatzea eta diseinatzea, ekoizpen ekologikorako trantsizioaren bidez, eta nekazaritza zein abeltzaintza ustiategien eta landa-paisaiaren baliabide naturalen (belarkien eta baso-baliabideen) erresilientzia aztertuz.**

@@ -29,13 +29,13 @@ showFooter = false
 
 + Search for alternative crops with greater adaptation ability to drought stress, compared to the traditional ones (PI: Usue Pérez).
 
-+ Search for biochemical and molecular markers of drought tolerance, and their implementation in food species (PI: Usue Pérez).
++ Search for biochemical and molecular markers of drought tolerance, and their implementation in food species (PI: Usue Pérez & Maite Lacuesta).
 
 + Understanding the mechanisms of salinity tolerance of halophyte plants to use saline or poor quality soils as arable soil (PI: Usue Pérez).
 
 + Evaluation of the environmental factors that trigger the generation of mycotoxins of the fungus Alternaria alternata in different plant species (PI: Usue Pérez).
 
-+ Improvement of physiological and sanitary states of plants through the use of biostimulants (alternative products to synthetic phytosanitar9 (PI: Amaia Mena-Petite).
++ Improvement of physiological and sanitary states of plants through the use of biostimulants (alternative products to synthetic phytosanitar9 (PI: Amaia Mena-Petite, Maite Lacuesta & Usue Pérez).
 
 **Line 2: Research and design of strategies for agro-diversity conservation and sustainability of the rural environment, through the transition to organic production, and the resilience analysis of agro-livestock farm and associated natural resources (herbaceous and forest).**
 

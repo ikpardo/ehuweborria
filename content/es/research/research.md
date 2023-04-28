@@ -24,13 +24,13 @@ weight = 1
 
 + Utilización de cultivos alternativos a los actuales con una mejor capacidad de adaptación a los efectos negativos de la sequía en la productividad (IP: Usue Pérez).
 
-+ Búsqueda de marcadores bioquímicos y moleculares de la tolerancia a la sequía, y su implementación a especies de interés alimentario (IP: Usue Pérez).
++ Búsqueda de marcadores bioquímicos y moleculares de la tolerancia a la sequía, y su implementación a especies de interés alimentario (IP: Usue Pérez y Maite Lacuesta).
 
 + Conocimiento de los mecanismos de tolerancia a la salinidad de las plantas halófitas para usar suelos salinos o de mala calidad como suelo cultivable (IP: Usue Pérez).
 
 + Evaluación de los factores ambientales que desencadenan la generación de micotoxinas en el hongo Alternaria alternata en distintas especies vegetales (IP: Usue Pérez).
 
-+ Mejora del estado fisiológico y sanitario de plantas mediante el uso de bioestimulantes (productos alternativos a fitosanitarios de síntesis) (IP: Amaia Mena-Petite).
++ Mejora del estado fisiológico y sanitario de plantas mediante el uso de bioestimulantes (productos alternativos a fitosanitarios de síntesis) (IP: Amaia Mena-Petite, Maite Lacuesta y Usue Pérez).
 
 
 **Línea 2: Búsqueda y diseño de estrategias de conservación de la agro-biodiversidad y sostenibilidad del medio rural, mediante la transición hacia una producción ecológica, y el análisis de la resiliencia de explotaciones agro-ganaderas y los recursos naturales (herbáceos y forestales) del paisaje rural**
