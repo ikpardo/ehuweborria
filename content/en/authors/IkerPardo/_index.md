@@ -2,7 +2,7 @@
 title: Iker Pardo
 authors:
 - IkerPardo
-weight: 3
+weight: 7
 
 highlight_name: true
 interests:
@@ -19,7 +19,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Post-doctoral fellow
+role: Assistant Professor
 
 social:
 - icon: orcid
@@ -33,7 +33,7 @@ social:
   link: https://github.com/ikpardo
 
 user_groups: 
-  - Post-docs
+  - Senior researchers
 ---
 
 My research hinges on the study of spatio-temporal distribution of multiple facets of diversity, namely taxonomic, functional and phylogenetic diversity. I combine field data and quantitative approaches to elucidate the long-term response of plant populations and communities to land-use changes and climate warming.

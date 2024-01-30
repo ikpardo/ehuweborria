@@ -2,7 +2,7 @@
 title: Nere Amaia Laskurain
 authors:
 - NereAmaiaLaskurain
-weight: 6
+weight: 8
 
 highlight_name: true
 interests:

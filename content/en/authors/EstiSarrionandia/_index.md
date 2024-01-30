@@ -2,7 +2,7 @@
 title: Esti Sarrionandia
 authors:
 - EstiSarrionandia
-weight: 4
+weight: 6
 
 # education:
 #   courses:

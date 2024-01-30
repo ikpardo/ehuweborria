@@ -2,7 +2,7 @@
 title: Asier Herrero
 authors:
 - AsierHerrero
-weight: 4
+weight: 5
 
 highlight_name: false
 
@@ -19,7 +19,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Interim Labor Professor
+role: Assistant Professor
 
 social:
 - icon: orcid

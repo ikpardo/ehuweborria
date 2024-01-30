@@ -2,7 +2,7 @@
 title: Nere Amaia Laskurain
 authors:
 - NereAmaiaLaskurain
-weight: 7
+weight: 8
 
 # education:
 #   courses:

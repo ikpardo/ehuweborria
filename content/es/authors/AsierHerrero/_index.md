@@ -2,7 +2,7 @@
 title: Asier Herrero
 authors:
 - AsierHerrero
-weight: 4
+weight: 5
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -31,7 +31,7 @@ organizations:
 - name: Universidad del País Vasco (UPV/EHU)
   url: https://www.ehu.eus/es/
 
-role: Profesor interino
+role: Profesor Ayudante Doctor
 
 social:
 - icon: orcid

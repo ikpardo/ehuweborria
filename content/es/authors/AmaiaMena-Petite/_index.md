@@ -2,7 +2,7 @@
 title: Amaia Mena-Petite
 authors:
 - AmaiaMena-Petite
-weight: 2
+weight: 3
 
 # education:
 #   courses:

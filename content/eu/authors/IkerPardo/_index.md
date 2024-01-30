@@ -2,7 +2,7 @@
 title: Iker Pardo
 authors:
 - IkerPardo
-weight: 3
+weight: 7
 
 # education:
 #   courses:
@@ -34,7 +34,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: 'https://www.ehu.eus/eu/home'
 
-role: Doktorego ondoko ikertzailea
+role: Irakasle Laguntzaile Doktorea
 
 social:
 - icon: orcid
@@ -48,7 +48,7 @@ social:
   link: 'https://github.com/ikpardo'
 
 user_groups:
-  - Doktorego ondoko ikertzaileak
+  - Ikertzaile seniorra
 
 ---
 
