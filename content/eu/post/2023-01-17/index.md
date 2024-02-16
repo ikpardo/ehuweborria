@@ -5,7 +5,7 @@ image:
   caption: 'Arantza Aldezabal, Luis Javier Rodríguez Barrón eta Eneko Garmendia. Egilea: Nuria González. UPV/EHU'
   
   
-placement: 2
+placement: 1
 math: true
 title: Mendiko artzaintzaren onura sozioekologikoak
 ---
