@@ -5,7 +5,7 @@ image:
   caption: 'Testando la eficacia de los estractos de alga en plantas de Vitis vinifera crecidas en invernadero'
   
   
-placement: 3
+placement: 1
 math: true
 title: Proyecto Seawines 
 ---
