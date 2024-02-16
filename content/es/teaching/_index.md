@@ -30,6 +30,7 @@ header:
 <span style="color:blue">Trabajos Fin de Máster (TFM)</span>
 
 ---
+**Relación entre la composición florística y el Stock de Carbono en los pastos de la región del Pirineo Navarro**, Jon Vivas Fernández, 2023, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Iker Pardo y Arantza Aldezabal*
 
 **Análisis del efecto de los aclareos progresivos en una plantación de *Pinus radiata* en el monte Upo (Bizkaia): crecimiento radial de *P. radiata* y capacidad de regeneración del bosque nativo**, Montserrat Muriana Castellana, 2022, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero e Ibone Amezaga*
 
