@@ -5,7 +5,7 @@ image:
   caption: 'Arantza Aldezabal, Luis Javier Rodríguez Barrón and Eneko Garmendia. Image credit: Nuria González. UPV/EHU'
   
   
-placement: 2
+placement: 1
 math: true
 title: Socio-ecological benefits of mountain grazing 
 ---
