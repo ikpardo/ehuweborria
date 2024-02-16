@@ -20,6 +20,8 @@ header:
 
 ---
 
+**Towards a sustainable viticulture: A toxicological, genetic and metabolomic exploration of the mechanism of action of basic substances against Plasmopara viticola, the causal agent of downy mildew in grapevine**, Diego Llamazares de Miguel,2024, Faculty of Pharmacy (UPV/EHU) - NEIKER (Arkaute, Araba), Supervised by: *Amaia Mena Petite and Ana María Diez Navajas*
+
 **Selection of the most drought tolerant common bean-rhizobia symbiotic association, an agronomic and physiological approach**, Arantza del Canto Romero, 2022, Pharmacy Faculty (UPV/EHU), Supervised by: *Maite Lacuesta Calvo and Álvaro Sanz-Saez de Jáuregui*
 
 **Molecular, physiological and agronomical response of barley to elevated temperature, elevated CO2 and drought, factors associated to climate change**, Ander Yoldi Achalandabaso, 2021, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz Rueda and Usue Pérez López*
