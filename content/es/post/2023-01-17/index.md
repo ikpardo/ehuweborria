@@ -5,7 +5,7 @@ image:
   caption: 'Arantza Aldezabal, Luis Javier Rodríguez Barrón y Eneko Garmendia. Autora: Nuria González. UPV/EHU'
   
   
-placement: 2
+placement: 1
 math: true
 title: Beneficios socio-ecológicos del pastoreo de montaña
 ---
