@@ -5,7 +5,7 @@ image:
   caption: 'Testing the efficacy of seaweedd on greenhouse-grown Vitis vinifera plants'
   
   
-placement: 3
+placement: 1
 math: true
 title: Seawines project
 ---
