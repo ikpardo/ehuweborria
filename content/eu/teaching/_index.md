@@ -22,6 +22,7 @@ header:
 
 ---
 
+**Towards a sustainable viticulture: A toxicological, genetic and metabolomic exploration of the mechanism of action of basic substances against Plasmopara viticola, the causal agent of downy mildew in grapevine**, Diego Llamazares de Miguel, 2024, Farmazia Fakultatea (UPV/EHU) - NEIKER (Arkaute, Araba), Dirección: *Amaia Mena Petite eta Ana María Diez Navajas*
 
 **Selection of the most drought tolerant common bean-rhizobia symbiotic association, an agronomic and physiological approach**, Arantza del Canto Romero, 2022, Pharmacy Faculty (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Álvaro Sanz-Saez de Jáuregui*
 
