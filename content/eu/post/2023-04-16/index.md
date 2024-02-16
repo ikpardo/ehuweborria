@@ -5,7 +5,7 @@ image:
   caption: 'Negutetgian hazitako Vitis vinifera landareetan alga-estratuen eraginkortasuna probatzen'
   
   
-placement: 3
+placement: 1
 math: true
 title: Seawines proiektua
 ---
