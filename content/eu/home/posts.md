@@ -40,3 +40,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+<a class="twitter-timeline" href="https://twitter.com/fisioklima?ref_src=twsrc%5Etfw">FisioKlima-AgroSost-ren txioak</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
