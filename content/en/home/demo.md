@@ -36,3 +36,5 @@ development of crops adapted to drought scenarios under ongoing climate change;
 (d) strategies and assessment of biostimulants to reduce the input of agrochemicals and support the development of agroecology; (e) training of master and doctoral students.
 
 [Meet the team]({{< ref "/content/en/people/index.md" >}} "Meet the team")   
+
+<a class="twitter-timeline" href="https://twitter.com/fisioklima?ref_src=twsrc%5Etfw">Tweets by fisioklima</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
