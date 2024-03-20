@@ -41,21 +41,9 @@ design:
   view: 2
 ---
 
-<div style='height: 600px'></div>
-test
-<div style='height: 600px'></div>
-test
-<div class='box' id='box'>
-  <div id='content'>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Innovation takes flight with the project VIA-DRON led by our team member Usue Pérez-López! Watch as our drone surveys the first of the vineyard plots🍇, paving the way for precision agriculture in the Basque Country! <a href="https://t.co/BjOvMpHFHD">pic.twitter.com/BjOvMpHFHD</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1770024186414572022?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exciting research from <a href="https://twitter.com/irnasa_csic?ref_src=twsrc%5Etfw">@irnasa_csic</a>, where our team member Jon Miranda-Apodaca has previously collaborated, delves into the resilience of wheat crops in the face of climate change. Understanding these dynamics is essential for ensuring future food security. 🌾 <a href="https://t.co/dxzdaoqsfo">https://t.co/dxzdaoqsfo</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1768569643931722146?ref_src=twsrc%5Etfw">March 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-  </div>
-</div>
-
-
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exciting research from <a href="https://twitter.com/irnasa_csic?ref_src=twsrc%5Etfw">@irnasa_csic</a>, where our team member Jon Miranda-Apodaca has previously collaborated, delves into the resilience of wheat crops in the face of climate change. Understanding these dynamics is essential for ensuring future food security. 🌾 <a href="https://t.co/dxzdaoqsfo">https://t.co/dxzdaoqsfo</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1768569643931722146?ref_src=twsrc%5Etfw">March 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
