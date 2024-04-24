@@ -41,6 +41,18 @@ design:
   view: 2
 ---
 
+<a class="twitter-timeline"
+  href="https://twitter.com/fisioklima">
+Tweets by @{screen_name}
+</a>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team member Iker Pardo leads a project involved in the monitoring of several endangered species, crucial for conservation in a changing climate🌍🌡️. Today we are glad to introduce the Galanthus nivalis or snowdrop🌱❄️, which blooms in winter while snow melts around it. <a href="https://t.co/MuOwfwah6S">pic.twitter.com/MuOwfwah6S</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1780160096527331370?ref_src=twsrc%5Etfw">April 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can soil productivity be enhanced? How does agricultural management🚜 impact soil biodiversity? To answer those questions, our team members Arantza del Canto and Maite Lacuesta are monitoring the evolution of soil quality during the transition to organic management🌱! <a href="https://t.co/RuTYg3nYxK">pic.twitter.com/RuTYg3nYxK</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1772195483332604081?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team member Iker Pardo has been interviewed by Campusa Magazine (<a href="https://twitter.com/upvehu?ref_src=twsrc%5Etfw">@upvehu</a>)! Dive into the research on enhancing biodiversity in the rural area of Western Pyrenees grasslands🏔️🌿, combating threats like intensification and land abandonment.<a href="https://t.co/0wy4uCrYbR">https://t.co/0wy4uCrYbR</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1770794087605485932?ref_src=twsrc%5Etfw">March 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Innovation takes flight with the project VIA-DRON led by our team member Usue Pérez-López! Watch as our drone surveys the first of the vineyard plots🍇, paving the way for precision agriculture in the Basque Country! <a href="https://t.co/BjOvMpHFHD">pic.twitter.com/BjOvMpHFHD</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1770024186414572022?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exciting research from <a href="https://twitter.com/irnasa_csic?ref_src=twsrc%5Etfw">@irnasa_csic</a>, where our team member Jon Miranda-Apodaca has previously collaborated, delves into the resilience of wheat crops in the face of climate change. Understanding these dynamics is essential for ensuring future food security. 🌾 <a href="https://t.co/dxzdaoqsfo">https://t.co/dxzdaoqsfo</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1768569643931722146?ref_src=twsrc%5Etfw">March 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
