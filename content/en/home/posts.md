@@ -43,7 +43,7 @@ design:
 
 <a class="twitter-timeline"
   href="https://twitter.com/fisioklima">
-Tweets by @{screen_name}
+Tweets by @{fisioklima}
 </a>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team member Iker Pardo leads a project involved in the monitoring of several endangered species, crucial for conservation in a changing climate🌍🌡️. Today we are glad to introduce the Galanthus nivalis or snowdrop🌱❄️, which blooms in winter while snow melts around it. <a href="https://t.co/MuOwfwah6S">pic.twitter.com/MuOwfwah6S</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1780160096527331370?ref_src=twsrc%5Etfw">April 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
