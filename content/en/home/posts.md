@@ -46,6 +46,8 @@ design:
 Tweets by @{screen_name}
 </a>
 
+{{< twitter-timeline username=fisioklima language=en width=500 height=800 donnottrack=true theme=dark >}}
+
 twttr.widgets.createTimeline(
   {
     sourceType: "profile",
