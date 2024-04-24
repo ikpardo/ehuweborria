@@ -49,7 +49,7 @@ Tweets by @{screen_name}
 twttr.widgets.createTimeline(
   {
     sourceType: "profile",
-    screenName: "TwitterDev"
+    screenName: "fisioklima"
   },
   document.getElementById("container")
 );
