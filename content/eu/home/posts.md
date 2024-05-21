@@ -41,6 +41,10 @@ design:
   view: 2
 ---
 
+<a class='twitter-timeline' data-handle='fisioklima' data-height='500' data-theme='light' ></a>
+<script src='https://www.athabasca.dev/content/scripts/widget.js'></script>
+
+
 @{fisioklima}- txioak:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team member Arantza del Canto has been interviewed🎙️ by <a href="https://twitter.com/radio_vitoria?ref_src=twsrc%5Etfw">@radio_vitoria</a> on the stresses faced by park and garden trees🌳, exacerbated by climate change🌍🌡️, and the importance of soil care for healthy plant growth and development. <br><br>Check it out here: <a href="https://t.co/WptrszvIvW">https://t.co/WptrszvIvW</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1791044235296190752?ref_src=twsrc%5Etfw">May 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
