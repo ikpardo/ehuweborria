@@ -44,6 +44,15 @@ design:
 @{fisioklima}- timeline
 
 
+<iframe
+  id="inlineFrameExample"
+  title="On X (former Twitter)"
+  height="300" width="400"
+   marginwidth="50" scrolling="yes"
+  src="https://www.athabasca.dev/hydra/content/twitteriframes/ZPmdj5*toObnrwfnRGcTHudi.html">
+</iframe>
+
+
 <a class='twitter-timeline' data-handle='fisioklima' data-height='500' data-theme='light' ></a>
 <script src='https://www.athabasca.dev/content/scripts/widget.js'></script>
 
