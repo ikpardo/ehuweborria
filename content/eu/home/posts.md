@@ -41,16 +41,7 @@ design:
   view: 2
 ---
 
-@{fisioklima}- timeline
-
-
-<frame
-  id="inlineFrameExample"
-  title="On X (former Twitter)"
-  height="300" width="400"
-   marginwidth="50" scrolling="yes"
-
-
+@{fisioklima}-ren txioak:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team member Arantza del Canto has been interviewed🎙️ by <a href="https://twitter.com/radio_vitoria?ref_src=twsrc%5Etfw">@radio_vitoria</a> on the stresses faced by park and garden trees🌳, exacerbated by climate change🌍🌡️, and the importance of soil care for healthy plant growth and development. <br><br>Check it out here: <a href="https://t.co/WptrszvIvW">https://t.co/WptrszvIvW</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1791044235296190752?ref_src=twsrc%5Etfw">May 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -83,8 +74,5 @@ design:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team member Maria Leunda collaborated on a study published in <a href="https://twitter.com/RPalaeoboPalyno?ref_src=twsrc%5Etfw">@RPalaeoboPalyno</a>! This study explores the impacts of climate change and human activity on vegetation dynamics🌿 in the Rhaetian Alps🏔️ over the last 14,200 years. <a href="https://t.co/DZy44sTuWs">https://t.co/DZy44sTuWs</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1765666036865527856?ref_src=twsrc%5Etfw">March 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out the latest publication by our team member Iker Pardo! Published in the Journal of Environmental Management, the research offers crucial insights into enhancing biodiversity in the Western Pyrenees&#39;🏔️🌿 rural landscape.<a href="https://t.co/ATm1wgRQ3s">https://t.co/ATm1wgRQ3s</a></p>&mdash; FisioKlima-AgroSosT Lab (@fisioklima) <a href="https://twitter.com/fisioklima/status/1765027516522094873?ref_src=twsrc%5Etfw">March 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-</frame>
 
 
