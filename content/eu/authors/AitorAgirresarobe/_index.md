@@ -18,7 +18,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
   
-role: Doktoratu aurreko ikertzailea
+role: Doktorego ondoko ikertzaileak
 
 social:
 - icon: orcid
@@ -29,7 +29,7 @@ social:
   link: https://www.researchgate.net/profile/Aitor_Agirresarobe
 
 user_groups: 
-  - Doktoratu aurreko ikertzaileak
+  - Doktorego ondoko ikertzaileak
 ---
 
 Biologian graduatua naiz eta egun tesia burutzen ari naiz Ingurugiroaren Agrobiologia Doktorego programan UPV/EHUn. Nire ikerketaren helburuak, batetik, klima aldaketari loturiko faktoreak diren gazitasunak, atmosferako CO2 altuak eta tenperatura altuek eta hauen arteko interakzioek kinoa landarearen hazkuntzan (ikuspuntu fisiologiko zein biokimikotik aztertuta) nola eragiten duten ikertzea da. Bestetik, kinoaren tolerantzia mekanismoak klima aldaketa baldintzetan indartuak izango direnetz aztertzea eta oraindik ezezagunak izan daitezkeen mekanismo berriak aurkitzea dira.
