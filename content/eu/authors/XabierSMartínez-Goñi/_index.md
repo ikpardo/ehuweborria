@@ -26,7 +26,7 @@ organizations:
 - name: Euskal Herriko Unibertsitatea (EHU/UPV)
   url: https://www.ehu.eus/eu/home
 
-role: Doktoratu aurreko ikertzailea
+role: Doktorego ondoko ikertzaileak
 
 social:
 - icon: orcid
@@ -40,7 +40,7 @@ social:
   link: https://twitter.com/martinezgonixs
 
 user_groups: 
-  - Doktoratu aurreko ikertzaileak
+  - Doktorego ondoko ikertzaileak
 ---
 
 Euskal Herriko Unibertsitatean (UPV/EHU) Bioteknologian eta Biokimikan eta Biologia Molekularrean graduatua, graduko azken urtean uzten hobekuntzaren inguruan interesatzen hasi nintzen. Horrek Bartzelonako Unibertsitate Autonomoko (UAB) eta Centre for Research in Agricultural Genomics-eko (CRAG) Plant Biology, Genomics and Biotechnology masterrarekin landare-bioteknologian espezializatzera eraman ninduen. Gaur egun, doktorego-tesia egiten ari naiz, Usue Pérez-López doktorearen (UPV/EHU). Nire doktore-tesian ikertu egiten dut etorkizunean labore alternatiboek etorkizunean egongo diren estres abiotikoekiko (CO2 altua, tenperatura altua, lehortea) duten erantzuna. Nire doktore-tesiaren helburua estres abiotiko horiei ohiko laboreek baino hobeto aurre egiteko gai izango diren labore alternatiboak aurkitzea da.
