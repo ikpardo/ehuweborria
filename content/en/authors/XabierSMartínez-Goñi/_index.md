@@ -27,7 +27,7 @@ organizations:
 - name: University of the Basque Country (UPV/EHU)
   url: https://www.ehu.eus/en/en-home
 
-role: Pre-doctoral fellow
+role: Post-doctoral fellow
 
 social:
 - icon: orcid
@@ -41,7 +41,7 @@ social:
   link: https://twitter.com/martinezgonixs
 
 user_groups: 
-  - Post-doctoral fellow
+  - Post-docs
 ---
 
 Graduated in Biotechnology and Biochemistry and Molecular Biology in the University of the Basque Country (UPV/EHU), I began to be interested in the improvement of plant crops in my last year as a graduate student. This led me to specialize in plant biotechnology with the master’s degree Plant Biology, Genomics and Biotechnology in the Autonomous University of Barcelona (UAB) and the Center for Research in Agricultural Genomics (CRAG). I am currently doing my PhD thesis under the supervision of Dr. Usue Pérez-López (UPV/EHU). My PhD thesis focuses on the research of the response of alternative crops to abiotic stresses (high CO2, high temperature, drought) that will affect crops under future climatic conditions. The aim of my PhD is to finding alternative crops that are cable of coping with these abiotic stresses better than conventional crops.
