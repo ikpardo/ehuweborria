@@ -27,7 +27,7 @@ organizations:
 - name: Universidad del País Vasco (UPV/EHU)
   url: https://www.ehu.eus/es/
 
-role: Doctorando
+role: Investigador post-doctoral
 
 social:
 - icon: orcid
@@ -41,7 +41,7 @@ social:
   link: https://twitter.com/martinezgonixs
 
 user_groups: 
-  - Pre-docs
+  - Post-docs
 ---
 
 Graduado en Biotecnología y Bioquímica y Biología Molecular por la Universidad del País Vasco (UPV/EHU), comencé a interesarme por la mejora de los cultivos vegetales en mi último año como estudiante de grado. Esto me llevó a especializarme en biotecnología vegetal con el máster Plant Biology, Genomics and Biotechnology impartido por la Universidad Autónoma de Barcelona (UAB) y el Centre for Research in Agricultural Genomics (CRAG). Actualmente me encuentro realizando la tesis doctoral bajo la supervisión de la Dra. Usue Pérez-López (UPV/EHU). Mi tesis doctoral se centra en investigar la respuesta de los cultivos alternativos a los estreses abióticos (elevado CO2, elevada temperatura, sequía) que afectarán a los cultivos en las condiciones climáticas del futuro. El objetivo de la tesis doctoral de encontrar cultivos alternativos que sean capaces de hacer frente a estos estreses abióticos mejor que los cultivos convencionales.
