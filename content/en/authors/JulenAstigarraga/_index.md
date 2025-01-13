@@ -26,10 +26,13 @@ role: Post-doctoral fellow
 social:
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-9262-9767
+  link: https://orcid.org/0000-0001-9520-3713
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Arantza_Del_Canto
+  link: https://www.researchgate.net/profile/Julen-Astigarraga
+- icon: github
+  icon_pack: fab
+  link: 'https://github.com/Julenasti'
 
 user_groups: 
   - Post-docs
