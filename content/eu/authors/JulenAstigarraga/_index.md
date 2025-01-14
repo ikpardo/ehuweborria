@@ -11,12 +11,12 @@ weight: 2
 
 highlight_name: true
 interests:
-- Ecología forestal
-- Dinámica forestal
-- Cambio global
-- Modelización de los ecosistemas
-- Cambio climático
-- Ciencia de datos
+- Baso ekologia
+- Baso dinamika
+- Aldaketa globala
+- Ekosistemen modelizazioa
+- Klima aldaketa
+- Datu zientzia
 
 organizations:
 - name: University of the Basque Country (UPV/EHU), University of Lund
