@@ -28,7 +28,10 @@ organizations:
 role: Pre-doctoral fellow
 
 social:
-
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/KortabarriaPz
+  
 user_groups: 
   - Pre-docs
 ---
