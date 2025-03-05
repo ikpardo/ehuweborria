@@ -33,9 +33,6 @@ social:
   icon_pack: fab
   link: https://twitter.com/KortabarriaPz
 
-  icon_pack: fab
-  link: https://www.linkedin.com/in/irati-ijurco/
-
 user_groups: 
   - Doktoratu aurreko ikertzaileak
 ---
