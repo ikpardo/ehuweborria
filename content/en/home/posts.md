@@ -43,18 +43,12 @@ design:
 
 Tweets by @{fisioklima}
 
-<a class="twitter-timeline" href="https://twitter.com/XDevelopers?ref_src=twsrc%5Etfw">Tweets by XDevelopers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-
-
-<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-  <bsky-embed
-    username="fisioklima"
-    mode="dark"
-    limit="5"
-  >
-  </bsky-embed>
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async></script>
+<bsky-embed  
+  username="fisioklima"  
+  limit="5"  
+>  
+</bsky-embed>
   
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:www6byiilz6awiz74qftiw52/app.bsky.feed.post/3ljhlw7ixfs2s" data-bluesky-cid="bafyreig4expc3apdeudcmijjbqeyeewnmt7ebkofkjizhz4ao3uzqwxqlq" data-bluesky-embed-color-mode="system"><p lang="en">Exciting news! Our team at @fisioklima.bsky.social is growing! 🎉 Welcome @kortabarriapz.bsky.social, who is starting her PhD on resurrection plants, species that can survive extreme dehydration🌱💧. Looking forward to the great research ahead!<br><br><a href="https://bsky.app/profile/did:plc:www6byiilz6awiz74qftiw52/post/3ljhlw7ixfs2s?ref_src=embed">[image or embed]</a></p>&mdash; FisioKlima-AgroSosT Lab (<a href="https://bsky.app/profile/did:plc:www6byiilz6awiz74qftiw52?ref_src=embed">@fisioklima.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:www6byiilz6awiz74qftiw52/post/3ljhlw7ixfs2s?ref_src=embed">3 de marzo de 2025, 10:06</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
