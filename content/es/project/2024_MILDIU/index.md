@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: ""
-summary: "2024-2025. Team participant(s): Usue Pérez, Iker Pardo, Arantza Aldezabal, Ander Yoldi, Alberto Muñoz"
+summary: "2024-2025. Team participant(s): Usue Pérez, Iker Pardo, Arantza Aldezabal, Ander Yoldi, Jon Miranda, Alberto Muñoz"
 tags:
 
 
@@ -21,8 +21,10 @@ authors:
 - Iker Pardo
 - Arantza Aldezabal
 - Ander Yoldi
+- Jon Miranda
 - Alberto Muñoz
 
 ---
+
 
 Dptos. de Educación, Universidades e Investigación, Agricultura, Pesca y Alimentación- Gobierno Vasco
