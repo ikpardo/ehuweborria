@@ -20,7 +20,11 @@ header:
 
 ---
 
-**Towards a sustainable viticulture: A toxicological, genetic and metabolomic exploration of the mechanism of action of basic substances against Plasmopara viticola, the causal agent of downy mildew in grapevine**, Diego Llamazares de Miguel,2024, Faculty of Pharmacy (UPV/EHU) - NEIKER (Arkaute, Araba), Supervised by: *Amaia Mena Petite and Ana María Diez Navajas*
+**Beyond Conventional Crops: Exploring the potential of the alternative crops buckwheat and sorghum to cope with the future climate change conditions**. Xabier Simón Martínez de Goñi, 2024, Faculty of Science and Technology (UPV/EHU). Supervised by: *Ana Caño Delgado (CRAG) and Usue Pérez (UPV/EHU)*
+
+**Unraveling quinoa's salt tolerance mechanisms: implications of climate change**. Aitor Aguirresarobe Murgui, 2024, Faculty of Science and Technology (UPV/EHU). Supervised by: *Alberto Muñoz Rueda (UPV/EHU) and Usue Pérez (UPV/EHU)*
+
+**Towards a sustainable viticulture: A toxicological, genetic and metabolomic exploration of the mechanism of action of basic substances against Plasmopara viticola, the causal agent of downy mildew in grapevine**, Diego Llamazares de Miguel, 2024, Faculty of Pharmacy (UPV/EHU) - NEIKER (Arkaute, Araba), Supervised by: *Amaia Mena Petite and Ana María Diez Navajas*
 
 **Selection of the most drought tolerant common bean-rhizobia symbiotic association, an agronomic and physiological approach**, Arantza del Canto Romero, 2022, Faculty of Pharmacy (UPV/EHU), Supervised by: *Maite Lacuesta Calvo and Álvaro Sanz-Saez de Jáuregui*
 
