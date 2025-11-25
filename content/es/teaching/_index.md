@@ -34,6 +34,14 @@ header:
 <span style="color:blue">Trabajos Fin de Máster (TFM)</span>
 
 ---
+
+**Caracterización de las lagunas de aire frío y sus efectos sobre la fenología y fisiología vegetal: el caso de la Dolina de Lubierri (Parque Natural Urbasa-Andía, Nafarroa)**, Miguel Puente, Máster Universitario en Agrobiología Ambiental,Facultad de Ciencia y Tecnología (UPV/EHU) (UPV/EHU). Dirección: *Jose Ignacio García Plazaola y Usue Pérez*
+
+**Resiliencia: atributo indispensable para garantizar la producción de los cereales ante el cambio climático**, Carme Gili Riera, Máster Universitario en Agrobiología Ambiental, Facultad de Ciencia y Tecnología (UPV/EHU) (UPV/EHU). Dirección: *Ander Yoldi y Usue Pérez*
+
+**Live slow and die old: developmental changes in leaf physiology in the resurrection angiosperm Ramonda myconi**, Ane Kortabarria, Máster Universitario en Agrobiología Ambiental, Facultad de Ciencia y Tecnología (UPV/EHU) (UPV/EHU). Dirección: *Jose Ignacio García Plazaola y Usue Pérez*
+
+
 **Relación entre la composición florística y el Stock de Carbono en los pastos de la región del Pirineo Navarro**, Jon Vivas Fernández, 2023, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Iker Pardo y Arantza Aldezabal*
 
 **Análisis del efecto de los aclareos progresivos en una plantación de *Pinus radiata* en el monte Upo (Bizkaia): crecimiento radial de *P. radiata* y capacidad de regeneración del bosque nativo**, Montserrat Muriana Castellana, 2022, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: *Asier Herrero e Ibone Amezaga*
@@ -88,6 +96,8 @@ header:
 <span style="color:blue">Trabajos Fin de Grado (TFG)</span>
 
 ---
+
+**Atmosferako CO2 kontzentrazioaren eragina Ramonda myconi-ren iharketa eta errehidratazio-prozesuetan**, Araiz Arruti Arronategi, Facultad de Ciencia y Tecnología (UPV/EHU). Dirección: * Enara Alday y Usue Pérezl*
 
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Facultad de Farmacia (UPV/EHU), Dirección: *Maite Lacuesta Calvo y Arantza del Canto Romero*
 
