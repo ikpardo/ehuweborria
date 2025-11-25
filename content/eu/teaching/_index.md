@@ -22,6 +22,10 @@ header:
 
 ---
 
+**Beyond Conventional Crops: Exploring the potential of the alternative crops buckwheat and sorghum to cope with the future climate change conditions**. Xabier Simón Martínez de Goñi, 2024, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Ana Caño Delgado (CRAG) eta Usue Pérez (UPV/EHU)*
+
+**Unraveling quinoa's salt tolerance mechanisms: implications of climate change**. Aitor Aguirresarobe Murgui, 2024, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Alberto Muñoz Rueda (UPV/EHU) eta Usue Pérez (UPV/EHU)*
+
 **Towards a sustainable viticulture: A toxicological, genetic and metabolomic exploration of the mechanism of action of basic substances against Plasmopara viticola, the causal agent of downy mildew in grapevine**, Diego Llamazares de Miguel, 2024, Farmazia Fakultatea (UPV/EHU) - NEIKER (Arkaute, Araba), Zuzendaria(k): *Amaia Mena Petite eta Ana María Diez Navajas*
 
 **Selection of the most drought tolerant common bean-rhizobia symbiotic association, an agronomic and physiological approach**, Arantza del Canto Romero, 2022, Pharmacy Faculty (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Álvaro Sanz-Saez de Jáuregui*
