@@ -95,6 +95,8 @@ header:
 
 ---
 
+**Atmosferako CO2 kontzentrazioaren eragina Ramonda myconi-ren iharketa eta errehidratazio-prozesuetan**, Araiz Arruti Arronategi, Faculty of Science and Technology (UPV/EHU). Zuzendaria(k): * Enara Alday eta Usue Pérezl*
+
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Farmazia Fakultatea (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Arantza del Canto Romero*
 
 **Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
