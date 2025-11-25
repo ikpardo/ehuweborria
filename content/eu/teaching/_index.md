@@ -35,6 +35,11 @@ header:
 <span style="color:blue">Master Amaierako Lanak (MAL)</span>
 
 ---
+**Caracterización de las lagunas de aire frío y sus efectos sobre la fenología y fisiología vegetal: el caso de la Dolina de Lubierri (Parque Natural Urbasa-Andía, Nafarroa)**, Miguel Puente, Máster Universitario en Agrobiología Ambiental, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Jose Ignacio García Plazaola eta Usue Pérez*
+
+**Resiliencia: atributo indispensable para garantizar la producción de los cereales ante el cambio climático**, Carme Gili Riera, Máster Universitario en Agrobiología Ambiental, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Ander Yoldi eta Usue Pérez*
+
+**Live slow and die old: developmental changes in leaf physiology in the resurrection angiosperm Ramonda myconi**, Ane Kortabarria, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Zuzendaria(k): *Jose Ignacio García Plazaola eta Usue Pérez*
 
 **Relación entre la composición florística y el Stock de Carbono en los pastos de la región del Pirineo Navarro**, Jon Vivas Fernández, 2023, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Iker Pardo eta Arantza Aldezabal*
 
