@@ -33,11 +33,11 @@ header:
 <span style="color:blue">MSc. Theses</span>
 
 ---
-**Caracterización de las lagunas de aire frío y sus efectos sobre la fenología y fisiología vegetal: el caso de la Dolina de Lubierri (Parque Natural Urbasa-Andía, Nafarroa)**, Miguel Puente, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Supervised by: *Jose Ignacio García Plazaola and Usue Pérez*
+**Caracterización de las lagunas de aire frío y sus efectos sobre la fenología y fisiología vegetal: el caso de la Dolina de Lubierri (Parque Natural Urbasa-Andía, Nafarroa)**, Miguel Puente, 2025, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Supervised by: *Jose Ignacio García Plazaola and Usue Pérez*
 
-**Resiliencia: atributo indispensable para garantizar la producción de los cereales ante el cambio climático**, Carme Gili Riera, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Supervised by: *Ander Yoldi and Usue Pérez*
+**Resiliencia: atributo indispensable para garantizar la producción de los cereales ante el cambio climático**, Carme Gili Riera, 2025, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Supervised by: *Ander Yoldi and Usue Pérez*
 
-**Live slow and die old: developmental changes in leaf physiology in the resurrection angiosperm Ramonda myconi**, Ane Kortabarria, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Supervised by: *Jose Ignacio García Plazaola and Usue Pérez*
+**Live slow and die old: developmental changes in leaf physiology in the resurrection angiosperm Ramonda myconi**, Ane Kortabarria, 2024, Máster Universitario en Agrobiología Ambiental, Faculty of Science and Technology (UPV/EHU). Supervised by: *Jose Ignacio García Plazaola and Usue Pérez*
 
 **Relación entre la composición florística y el Stock de Carbono en los pastos de la región del Pirineo Navarro**, Jon Vivas Fernández, 2023, Faculty of Science and Technology (UPV/EHU). Supervised by: *Iker Pardo and Arantza Aldezabal*
 
@@ -93,7 +93,7 @@ header:
 
 ---
 
-**Atmosferako CO2 kontzentrazioaren eragina Ramonda myconi-ren iharketa eta errehidratazio-prozesuetan**, Araiz Arruti Arronategi, Faculty of Science and Technology (UPV/EHU). Supervised by: * Enara Alday and Usue Pérezl*
+**Atmosferako CO2 kontzentrazioaren eragina Ramonda myconi-ren iharketa eta errehidratazio-prozesuetan**, Araiz Arruti Arronategi, 2025, Faculty of Science and Technology (UPV/EHU). Supervised by: * Enara Alday and Usue Pérez*
 
 
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Faculty of Pharmacy (UPV/EHU), Supervised by: *Maite Lacuesta Calvo and Arantza del Canto Romero*
