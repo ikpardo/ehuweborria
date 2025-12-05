@@ -99,6 +99,15 @@ header:
 
 **Atmosferako CO2 kontzentrazioaren eragina Ramonda myconi-ren iharketa eta errehidratazio-prozesuetan**, Araiz Arruti Arronategi, 2025, Faculty of Science and Technology (UPV/EHU). Zuzendaria(k): * Enara Alday eta Usue Pérezl*
 
+**Tomate-landaketaren eboluzioa Europan: klima baldintzen aurrean egokitzapen estrategien analisia**, Izare González Jiménez, 2025, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): Amaia Mena Petite
+
+**Gorputz zetonikoak: kirol errendimendua hobetzeko eragin farmakologikoen analisia**, Gorka Gaona Tomás, 2025, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): Amaia Mena Petite
+
+**Lasmiditanaren erabilgarritasunaren analisia migraina akutuaren tratamenduan**, Garazi Urrutxua Barinaga-Rementeria, 2023, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): Amaia Mena Petite
+
+**Efecto de la aplicación del biofertilizante “Emo Terra” en la germinación y características fisiológicas de Laurus nobilis, Betula celtiberica, Frangula alnus y Rhamnus alaternus en sus primeros estadios de desarrollo**, Paula Setién González, 2023, Farmazia Fakultatea (UPV/EHU). Zuzendaria(k): Amaia Mena Petite
+
+
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Farmazia Fakultatea (UPV/EHU), Zuzendaria(k): *Maite Lacuesta Calvo eta Arantza del Canto Romero*
 
 **Estudio de la influencia de los factores ambientales en el metabolismo del nitrógeno en plantas de quinoa**, Ander Arévalo, 2022, Faculty of Science and Technology (UPV/EHU), Zuzendaria(k): *Alberto Muñoz eta Usue Pérez López*
