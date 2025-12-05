@@ -97,6 +97,13 @@ header:
 
 **Atmosferako CO2 kontzentrazioaren eragina Ramonda myconi-ren iharketa eta errehidratazio-prozesuetan**, Araiz Arruti Arronategi, 2025, Faculty of Science and Technology (UPV/EHU). Supervised by: * Enara Alday and Usue Pérez*
 
+**Tomate-landaketaren eboluzioa Europan: klima baldintzen aurrean egokitzapen estrategien analisia**, Izare González Jiménez, 2025, Faculty of Pharmacy (UPV/EHU). Supervised by: Amaia Mena Petite
+
+**Gorputz zetonikoak: kirol errendimendua hobetzeko eragin farmakologikoen analisia**, Gorka Gaona Tomás, 2025, Faculty of Pharmacy (UPV/EHU). Supervised by: Amaia Mena Petite
+
+**Lasmiditanaren erabilgarritasunaren analisia migraina akutuaren tratamenduan**, Garazi Urrutxua Barinaga-Rementeria, 2023, Faculty of Pharmacy (UPV/EHU). Supervised by: Amaia Mena Petite
+
+**Efecto de la aplicación del biofertilizante “Emo Terra” en la germinación y características fisiológicas de Laurus nobilis, Betula celtiberica, Frangula alnus y Rhamnus alaternus en sus primeros estadios de desarrollo**, Paula Setién González, 2023, Faculty of Pharmacy (UPV/EHU). Supervised by: Amaia Mena Petite
 
 **Evaluación de la eficiencia de la coinoculación con diferentes inóculos de Rhizobium y Bacillus potencialmente tolerantes a la sequía en la variedad de alubia Arrocina de Álava**, Jennyfer Giulianna de la Cruz Arias, 2023, Faculty of Pharmacy (UPV/EHU), Supervised by: *Maite Lacuesta Calvo and Arantza del Canto Romero*
 
