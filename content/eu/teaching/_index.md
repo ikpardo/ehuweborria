@@ -43,6 +43,8 @@ header:
 
 **Relación entre la composición florística y el Stock de Carbono en los pastos de la región del Pirineo Navarro**, Jon Vivas Fernández, 2023, Zientzia eta Teknologia Fakultatea (UPV/EHU). Zuzendaria(k): *Iker Pardo eta Arantza Aldezabal*
 
+**Elaboración Integral de un Vino Tinto de Maceración Carbónica a partir de la Variedad Tempranillo en la Región de Oregón: Proceso de Vinificación y Análisis Sensorial**, Arnau Roig Rendé, 2023. Winston, Oregón (Estados Unidos). Zuzendaria(k): *Amaia Mena Petite*
+
 **Aldaketa tenporalak *Pinus sylvestris* eta *Quercus pyrenaica* espezieen banakoen arteko lehian baso misto eta monoespezifikoetan Iberiar Penintsulako erdigunean**, Marcos Estevéz Domínguez, 2022, Madrileko Unibertsitate Autonomoa Zuzendaria(k): *Asier Herrero eta Enrique Andivia*
 
 **2018ko tornadoaren eragina *Fagus sylvatica* L.-ren hazkuntza erradialean Entziako mendilerroan**, Katherine Sandoval Cerron, 2022, Zientzia eta Teknologia Fakultatea (UPV/EHU), Zuzendaria(k): *Asier Herrero eta Nere Amaia Laskurain*
