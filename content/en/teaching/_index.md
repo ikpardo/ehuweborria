@@ -41,6 +41,8 @@ header:
 
 **Relación entre la composición florística y el Stock de Carbono en los pastos de la región del Pirineo Navarro**, Jon Vivas Fernández, 2023, Faculty of Science and Technology (UPV/EHU). Supervised by: *Iker Pardo and Arantza Aldezabal*
 
+**Elaboración Integral de un Vino Tinto de Maceración Carbónica a partir de la Variedad Tempranillo en la Región de Oregón: Proceso de Vinificación y Análisis Sensorial**, Arnau Roig Rendé, 2023. Winston, Oregón (Estados Unidos). Supervised by: *Amaia Mena Petite*.
+
 **Analysis of the effect of progressive thinning in a *Pinus radiata* plantation in Upo mountain (Bizkaia): radial growth of *P. radiata* and regeneration capacity of the native forest**, Montserrat Muriana Castellana, 2022, Faculty of Science and Technology (UPV/EHU). Supervised by: *Asier Herrero and Ibone Amezaga*
 
 **Effect of the 2018 tornado on radial growth of *Fagus sylvatica* L. at Entzia Mountains**, Katherine Sandoval Cerron, 2022, Faculty of Science and Technology (UPV/EHU), Supervised by: *Asier Herrero and Nere Amaia Laskurain*
