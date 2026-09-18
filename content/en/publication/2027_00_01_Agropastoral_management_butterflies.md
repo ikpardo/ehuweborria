@@ -1,6 +1,6 @@
 +++
 title = "Agro-pastoral management drives rapid and directional butterfly community dynamics: Evidence from three decades of high-resolution data"
-date = "2026-10-01"
+date = "2026-09-10"
 authors = ["Cristina de Gracia", "Constantí Stefanescu", "Andreu Ubach", "Jordy Jubany", "Daniel Oro", "Arantza Aldezabal", "Iker Pardo"]
 publication_types = ["2"]
 publication = "Agriculture, Ecosystems and Environment, 414, 110731, https://10.1016/j.agee.2026.110731"
